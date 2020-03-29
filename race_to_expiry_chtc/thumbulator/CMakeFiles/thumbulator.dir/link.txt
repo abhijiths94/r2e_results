@@ -1,0 +1,2 @@
+/software/chtc/eb/binutils/2.32-GCCcore-8.3.0/bin/ar qc libthumbulator.a  CMakeFiles/thumbulator.dir/src/decode.cpp.o CMakeFiles/thumbulator.dir/src/cpu.cpp.o CMakeFiles/thumbulator.dir/src/exmemwb_arith.cpp.o CMakeFiles/thumbulator.dir/src/exmemwb_branch.cpp.o CMakeFiles/thumbulator.dir/src/exmemwb_logic.cpp.o CMakeFiles/thumbulator.dir/src/exmemwb_mem.cpp.o CMakeFiles/thumbulator.dir/src/exmemwb_misc.cpp.o CMakeFiles/thumbulator.dir/src/memory.cpp.o
+/software/chtc/eb/binutils/2.32-GCCcore-8.3.0/bin/ranlib libthumbulator.a

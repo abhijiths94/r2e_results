@@ -1,0 +1,128 @@
+maximum_time: 51680
+Cycle 0: instructions towards forward progress=0
+Cycle 950891: instructions towards forward progress=100000
+Cycle 1901602: instructions towards forward progress=200000
+Cycle 2852710: instructions towards forward progress=300000
+Cycle 3803639: instructions towards forward progress=400000
+Cycle 4754691: instructions towards forward progress=500000
+Cycle 5705705: instructions towards forward progress=600000
+Cycle 5844455: backup (optimal backup scheme)
+Cycle 6656920: instructions towards forward progress=700000
+Cycle 7607645: instructions towards forward progress=800000
+Cycle 8558552: instructions towards forward progress=900000
+Cycle 9509522: instructions towards forward progress=1000000
+Cycle 10460453: instructions towards forward progress=1100000
+Cycle 11411527: instructions towards forward progress=1200000
+Cycle 11672960: backup (optimal backup scheme)
+Cycle 12362549: instructions towards forward progress=1300000
+Cycle 13313495: instructions towards forward progress=1400000
+Cycle 14263947: instructions towards forward progress=1500000
+Cycle 15214609: instructions towards forward progress=1600000
+Cycle 16165379: instructions towards forward progress=1700000
+Cycle 17116332: instructions towards forward progress=1800000
+Cycle 17494578: backup (optimal backup scheme)
+Cycle 18067723: instructions towards forward progress=1900000
+Cycle 19019008: instructions towards forward progress=2000000
+Cycle 19970164: instructions towards forward progress=2100000
+Cycle 20921466: instructions towards forward progress=2200000
+Cycle 21872285: instructions towards forward progress=2300000
+Cycle 22823425: instructions towards forward progress=2400000
+Cycle 23306575: backup (optimal backup scheme)
+Cycle 23774552: instructions towards forward progress=2500000
+Cycle 24725588: instructions towards forward progress=2600000
+Cycle 25677220: instructions towards forward progress=2700000
+Cycle 26628629: instructions towards forward progress=2800000
+Cycle 27579870: instructions towards forward progress=2900000
+Cycle 28530888: instructions towards forward progress=3000000
+Cycle 29117069: backup (optimal backup scheme)
+Cycle 29482347: instructions towards forward progress=3100000
+Cycle 30433754: instructions towards forward progress=3200000
+Cycle 31384910: instructions towards forward progress=3300000
+Cycle 32335852: instructions towards forward progress=3400000
+Cycle 33287053: instructions towards forward progress=3500000
+Cycle 34238477: instructions towards forward progress=3600000
+Cycle 34930334: backup (optimal backup scheme)
+Cycle 35189522: instructions towards forward progress=3700000
+Cycle 36140136: instructions towards forward progress=3800000
+Cycle 37091509: instructions towards forward progress=3900000
+Cycle 38042825: instructions towards forward progress=4000000
+Cycle 38993867: instructions towards forward progress=4100000
+Cycle 39945336: instructions towards forward progress=4200000
+Cycle 40739677: backup (optimal backup scheme)
+Cycle 40896357: instructions towards forward progress=4300000
+Cycle 41847350: instructions towards forward progress=4400000
+Cycle 42798676: instructions towards forward progress=4500000
+Cycle 43749615: instructions towards forward progress=4600000
+Cycle 44700430: instructions towards forward progress=4700000
+Cycle 45651798: instructions towards forward progress=4800000
+Cycle 46552051: backup (optimal backup scheme)
+Cycle 46603224: instructions towards forward progress=4900000
+Cycle 47554414: instructions towards forward progress=5000000
+Cycle 48505873: instructions towards forward progress=5100000
+Cycle 49457370: instructions towards forward progress=5200000
+Cycle 50408546: instructions towards forward progress=5300000
+Cycle 51359733: instructions towards forward progress=5400000
+Cycle 52310770: instructions towards forward progress=5500000
+Cycle 52364119: backup (optimal backup scheme)
+Cycle 53261299: instructions towards forward progress=5600000
+Cycle 54212406: instructions towards forward progress=5700000
+Cycle 55163608: instructions towards forward progress=5800000
+Cycle 56114436: instructions towards forward progress=5900000
+Cycle 57065250: instructions towards forward progress=6000000
+Cycle 58016296: instructions towards forward progress=6100000
+Cycle 58172947: backup (optimal backup scheme)
+Cycle 58967674: instructions towards forward progress=6200000
+Cycle 59918946: instructions towards forward progress=6300000
+Cycle 60870009: instructions towards forward progress=6400000
+Cycle 61821005: instructions towards forward progress=6500000
+Cycle 62772068: instructions towards forward progress=6600000
+Cycle 63722635: instructions towards forward progress=6700000
+Cycle 63987888: backup (optimal backup scheme)
+Cycle 64674079: instructions towards forward progress=6800000
+Cycle 65625090: instructions towards forward progress=6900000
+Cycle 66576137: instructions towards forward progress=7000000
+Cycle 67527516: instructions towards forward progress=7100000
+Cycle 68478836: instructions towards forward progress=7200000
+Cycle 69429897: instructions towards forward progress=7300000
+Cycle 69799224: backup (optimal backup scheme)
+Cycle 70381314: instructions towards forward progress=7400000
+Cycle 71332140: instructions towards forward progress=7500000
+Cycle 72283608: instructions towards forward progress=7600000
+Cycle 73234763: instructions towards forward progress=7700000
+Cycle 74185924: instructions towards forward progress=7800000
+Cycle 75137200: instructions towards forward progress=7900000
+Cycle 75615058: backup (optimal backup scheme)
+Cycle 76088070: instructions towards forward progress=8000000
+Cycle 77039247: instructions towards forward progress=8100000
+Cycle 77989770: instructions towards forward progress=8200000
+Cycle 78941040: instructions towards forward progress=8300000
+Cycle 79892347: instructions towards forward progress=8400000
+Cycle 80843557: instructions towards forward progress=8500000
+Cycle 81425066: backup (optimal backup scheme)
+Cycle 81794701: instructions towards forward progress=8600000
+Cycle 82745696: instructions towards forward progress=8700000
+Cycle 83696900: instructions towards forward progress=8800000
+Cycle 84647955: instructions towards forward progress=8900000
+Cycle 85598743: instructions towards forward progress=9000000
+Cycle 86550300: instructions towards forward progress=9100000
+Cycle 87237032: backup (optimal backup scheme)
+Cycle 87501344: instructions towards forward progress=9200000
+Cycle 88452610: instructions towards forward progress=9300000
+Cycle 89403672: instructions towards forward progress=9400000
+Cycle 90354461: instructions towards forward progress=9500000
+Cycle 91305734: instructions towards forward progress=9600000
+Cycle 92256934: instructions towards forward progress=9700000
+Cycle 93053235: backup (optimal backup scheme)
+Cycle 93208323: instructions towards forward progress=9800000
+Cycle 94159795: instructions towards forward progress=9900000
+done
+CPU instructions executed: 10000001
+CPU instructions executed towards forward progress: 10000000
+Number of true positives: 3227
+Number of false positives: 15
+Number of times renamed: 3567
+Number of times reclaimed: 336
+CPU time (cycles): 95110878
+Total time (ns): 941583670937999
+Energy harvested (J): 0.00478071
+Energy remaining (J): 0.00018107
