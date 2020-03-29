@@ -1,0 +1,1 @@
+eh-sim: /var/lib/condor/execute/slot1/dir_11244/race_to_expiry/eh-sim/src/capacitor.hpp:106: void ehsim::capacitor::consume_energy(double): Assertion `energy - energy_to_consume >= 0' failed.

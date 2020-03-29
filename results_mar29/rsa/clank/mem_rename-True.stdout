@@ -1,0 +1,31 @@
+Working dir : /var/lib/condor/execute/slot1/dir_32503
+Cycle 0: instructions towards forward progress=0
+cycle 12888: backup (idempotent_violation)
+Cycle 12888: clank backup(Will Backup)
+cycle 15089: backup (idempotent_violation)
+Cycle 15089: clank backup(Will Backup)
+cycle 16353: backup (idempotent_violation)
+Cycle 16353: clank backup(Will Backup)
+cycle 18325: backup (idempotent_violation)
+Cycle 18325: clank backup(Will Backup)
+cycle 24296: backup (idempotent_violation)
+Cycle 24296: clank backup(Will Backup)
+cycle 25559: backup (idempotent_violation)
+Cycle 25559: clank backup(Will Backup)
+cycle 33538: backup (idempotent_violation)
+Cycle 33538: clank backup(Will Backup)
+cycle 35472: backup (idempotent_violation)
+Cycle 35472: clank backup(Will Backup)
+cycle 41687: backup (idempotent_violation)
+Cycle 41687: clank backup(Will Backup)
+done
+CPU instructions executed: 3367
+CPU instructions executed towards forward progress: 3367
+Number of true positives: 11
+Number of false positives: 0
+Number of times renamed: 0
+Number of times reclaimed: 0
+CPU time (cycles): 49619
+Total time (ns): 55395225946371
+Energy harvested (J): 0.00028125
+Energy remaining (J): 0.000267824
