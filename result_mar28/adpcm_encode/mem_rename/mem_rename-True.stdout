@@ -1,0 +1,1511 @@
+Working dir : /var/lib/condor/execute/slot1/dir_471
+Cycle 0: instructions towards forward progress=0
+Cycle 1451189: instructions towards forward progress=100000
+Cycle 2110975: backup (Spendthrift backup scheme): 3.18851   2078.86
+Cycle 2110990: backup (Spendthrift backup scheme): 3.18851   1242.79
+Cycle 2111004: backup (Spendthrift backup scheme): 3.18851   1042.46
+Cycle 2111018: backup (Spendthrift backup scheme): 3.18851   842.128
+Cycle 2111032: backup (Spendthrift backup scheme): 3.18851   641.797
+Cycle 2111046: backup (Spendthrift backup scheme): 3.18851   441.466
+Cycle 2111060: backup (Spendthrift backup scheme): 3.18851   241.135
+cycle 2111075: POWER OFF - is_active()
+Cycle 2902666: instructions towards forward progress=200000
+Cycle 4221855: backup (Spendthrift backup scheme): 0.213123   1835.49
+Cycle 4221869: backup (Spendthrift backup scheme): 0.213123   999.72
+Cycle 4221884: backup (Spendthrift backup scheme): 0.213123   799.097
+Cycle 4221902: backup (Spendthrift backup scheme): 0.213123   597.596
+Cycle 4221916: backup (Spendthrift backup scheme): 0.213123   397.265
+cycle 4221930: POWER OFF - is_active()
+Cycle 4354535: instructions towards forward progress=300000
+Cycle 5806233: instructions towards forward progress=400000
+Cycle 6331410: backup (Spendthrift backup scheme): 3.06526   2069.4
+Cycle 6331428: backup (Spendthrift backup scheme): 3.06526   1232.46
+Cycle 6331442: backup (Spendthrift backup scheme): 3.06526   1032.13
+Cycle 6331457: backup (Spendthrift backup scheme): 3.06526   831.507
+Cycle 6331471: backup (Spendthrift backup scheme): 3.06526   631.176
+Cycle 6331485: backup (Spendthrift backup scheme): 3.06526   430.845
+Cycle 6331503: backup (Spendthrift backup scheme): 3.06526   229.344
+cycle 6331517: POWER OFF - is_active()
+Cycle 7257954: instructions towards forward progress=500000
+Cycle 8440477: backup (Spendthrift backup scheme): 3.40908   2097.48
+Cycle 8440491: backup (Spendthrift backup scheme): 3.40908   1261.71
+Cycle 8440506: backup (Spendthrift backup scheme): 3.40908   1061.09
+Cycle 8440520: backup (Spendthrift backup scheme): 3.40908   860.755
+Cycle 8440534: backup (Spendthrift backup scheme): 3.40908   660.424
+Cycle 8440549: backup (Spendthrift backup scheme): 3.40908   459.801
+Cycle 8440563: backup (Spendthrift backup scheme): 3.40908   259.47
+cycle 8440577: POWER OFF - is_active()
+Cycle 8709766: instructions towards forward progress=600000
+Cycle 10161513: instructions towards forward progress=700000
+Cycle 10550284: backup (Spendthrift backup scheme): 2.11486   1990.99
+Cycle 10550302: backup (Spendthrift backup scheme): 2.11486   1154.05
+Cycle 10550316: backup (Spendthrift backup scheme): 2.11486   953.718
+Cycle 10550331: backup (Spendthrift backup scheme): 2.11486   753.095
+Cycle 10550345: backup (Spendthrift backup scheme): 2.11486   552.764
+Cycle 10550359: backup (Spendthrift backup scheme): 2.11486   352.433
+cycle 10550373: POWER OFF - is_active()
+Cycle 11612966: instructions towards forward progress=800000
+Cycle 12658878: backup (Spendthrift backup scheme): 4.815   2212.61
+Cycle 12658892: backup (Spendthrift backup scheme): 4.815   1376.84
+Cycle 12658906: backup (Spendthrift backup scheme): 4.815   1176.51
+Cycle 12658920: backup (Spendthrift backup scheme): 4.815   976.179
+Cycle 12658934: backup (Spendthrift backup scheme): 4.815   775.848
+Cycle 12658949: backup (Spendthrift backup scheme): 4.815   575.224
+Cycle 12658963: backup (Spendthrift backup scheme): 4.815   374.893
+cycle 12658977: POWER OFF - is_active()
+Cycle 13064857: instructions towards forward progress=900000
+Cycle 14516533: instructions towards forward progress=1000000
+Cycle 14767900: backup (Spendthrift backup scheme): 3.26198   2084.99
+Cycle 14767914: backup (Spendthrift backup scheme): 3.26198   1249.22
+Cycle 14767929: backup (Spendthrift backup scheme): 3.26198   1048.59
+Cycle 14767943: backup (Spendthrift backup scheme): 3.26198   848.263
+Cycle 14767957: backup (Spendthrift backup scheme): 3.26198   647.932
+Cycle 14767972: backup (Spendthrift backup scheme): 3.26198   447.309
+Cycle 14767986: backup (Spendthrift backup scheme): 3.26198   246.978
+cycle 14768000: POWER OFF - is_active()
+Cycle 15968255: instructions towards forward progress=1100000
+Cycle 16877200: backup (Spendthrift backup scheme): 2.98132   2062.34
+Cycle 16877215: backup (Spendthrift backup scheme): 2.98132   1226.28
+Cycle 16877233: backup (Spendthrift backup scheme): 2.98132   1024.78
+Cycle 16877247: backup (Spendthrift backup scheme): 2.98132   824.445
+Cycle 16877262: backup (Spendthrift backup scheme): 2.98132   623.821
+Cycle 16877276: backup (Spendthrift backup scheme): 2.98132   423.49
+Cycle 16877290: backup (Spendthrift backup scheme): 2.98132   223.16
+cycle 16877308: POWER OFF - is_active()
+Cycle 17420141: instructions towards forward progress=1200000
+Cycle 18871704: instructions towards forward progress=1300000
+Cycle 18986764: backup (Spendthrift backup scheme): 3.44018   2099.98
+Cycle 18986778: backup (Spendthrift backup scheme): 3.44018   1264.21
+Cycle 18986792: backup (Spendthrift backup scheme): 3.44018   1024.16
+Cycle 18986806: backup (Spendthrift backup scheme): 3.44018   823.828
+Cycle 18986820: backup (Spendthrift backup scheme): 3.44018   623.497
+Cycle 18986834: backup (Spendthrift backup scheme): 3.44018   423.166
+Cycle 18986848: backup (Spendthrift backup scheme): 3.44018   222.836
+cycle 18986862: POWER OFF - is_active()
+Cycle 20323188: instructions towards forward progress=1400000
+Cycle 21096027: backup (Spendthrift backup scheme): 4.28572   2169.31
+Cycle 21096041: backup (Spendthrift backup scheme): 4.28572   1333.54
+Cycle 21096056: backup (Spendthrift backup scheme): 4.28572   1132.92
+Cycle 21096070: backup (Spendthrift backup scheme): 4.28572   932.585
+Cycle 21096084: backup (Spendthrift backup scheme): 4.28572   732.255
+Cycle 21096099: backup (Spendthrift backup scheme): 4.28572   531.631
+Cycle 21096113: backup (Spendthrift backup scheme): 4.28572   331.3
+cycle 21096127: POWER OFF - is_active()
+Cycle 21774275: instructions towards forward progress=1500000
+Cycle 23205010: backup (Spendthrift backup scheme): 4.66757   2200.2
+Cycle 23205024: backup (Spendthrift backup scheme): 4.66757   1364.43
+Cycle 23205038: backup (Spendthrift backup scheme): 4.66757   1164.1
+Cycle 23205052: backup (Spendthrift backup scheme): 4.66757   963.765
+Cycle 23205067: backup (Spendthrift backup scheme): 4.66757   763.142
+Cycle 23205085: backup (Spendthrift backup scheme): 4.66757   561.641
+Cycle 23205099: backup (Spendthrift backup scheme): 4.66757   361.31
+cycle 23205113: POWER OFF - is_active()
+Cycle 23225651: instructions towards forward progress=1600000
+Cycle 24677242: instructions towards forward progress=1700000
+Cycle 25316078: backup (Spendthrift backup scheme): 1.41435   1933.87
+Cycle 25316092: backup (Spendthrift backup scheme): 1.41435   1098.09
+Cycle 25316110: backup (Spendthrift backup scheme): 1.41435   896.592
+Cycle 25316124: backup (Spendthrift backup scheme): 1.41435   696.261
+Cycle 25316138: backup (Spendthrift backup scheme): 1.41435   495.93
+Cycle 25316153: backup (Spendthrift backup scheme): 1.41435   295.307
+cycle 25316171: POWER OFF - is_active()
+Cycle 26129114: instructions towards forward progress=1800000
+Cycle 27426255: backup (Spendthrift backup scheme): 0.933277   1894.29
+Cycle 27426269: backup (Spendthrift backup scheme): 0.933277   1058.52
+Cycle 27426283: backup (Spendthrift backup scheme): 0.933277   858.188
+Cycle 27426297: backup (Spendthrift backup scheme): 0.933277   657.857
+Cycle 27426311: backup (Spendthrift backup scheme): 0.933277   457.526
+Cycle 27426329: backup (Spendthrift backup scheme): 0.933277   256.025
+cycle 27426343: POWER OFF - is_active()
+Cycle 27581067: instructions towards forward progress=1900000
+Cycle 29032884: instructions towards forward progress=2000000
+Cycle 29534739: backup (Spendthrift backup scheme): 3.98121   2143.42
+Cycle 29534753: backup (Spendthrift backup scheme): 3.98121   1307.64
+Cycle 29534767: backup (Spendthrift backup scheme): 3.98121   1107.31
+Cycle 29534781: backup (Spendthrift backup scheme): 3.98121   906.98
+Cycle 29534795: backup (Spendthrift backup scheme): 3.98121   706.649
+Cycle 29534813: backup (Spendthrift backup scheme): 3.98121   505.148
+Cycle 29534827: backup (Spendthrift backup scheme): 3.98121   304.817
+cycle 29534841: POWER OFF - is_active()
+Cycle 30484546: instructions towards forward progress=2100000
+Cycle 31644727: backup (Spendthrift backup scheme): 2.04091   1985.26
+Cycle 31644741: backup (Spendthrift backup scheme): 2.04091   1149.49
+Cycle 31644755: backup (Spendthrift backup scheme): 2.04091   949.155
+Cycle 31644769: backup (Spendthrift backup scheme): 2.04091   748.824
+Cycle 31644783: backup (Spendthrift backup scheme): 2.04091   548.493
+Cycle 31644797: backup (Spendthrift backup scheme): 2.04091   348.162
+cycle 31644811: POWER OFF - is_active()
+Cycle 31936546: instructions towards forward progress=2200000
+Cycle 33387920: instructions towards forward progress=2300000
+Cycle 33754131: backup (Spendthrift backup scheme): 3.15098   2076.46
+Cycle 33754145: backup (Spendthrift backup scheme): 3.15098   1240.68
+Cycle 33754159: backup (Spendthrift backup scheme): 3.15098   1040.35
+Cycle 33754174: backup (Spendthrift backup scheme): 3.15098   839.73
+Cycle 33754188: backup (Spendthrift backup scheme): 3.15098   639.399
+Cycle 33754202: backup (Spendthrift backup scheme): 3.15098   439.068
+Cycle 33754216: backup (Spendthrift backup scheme): 3.15098   238.738
+cycle 33754231: POWER OFF - is_active()
+Cycle 34839862: instructions towards forward progress=2400000
+Cycle 35862947: backup (Spendthrift backup scheme): 3.04013   2066.13
+Cycle 35862961: backup (Spendthrift backup scheme): 3.04013   1230.35
+Cycle 35862975: backup (Spendthrift backup scheme): 3.04013   1030.02
+Cycle 35862989: backup (Spendthrift backup scheme): 3.04013   829.689
+Cycle 35863003: backup (Spendthrift backup scheme): 3.04013   629.358
+Cycle 35863017: backup (Spendthrift backup scheme): 3.04013   429.027
+Cycle 35863031: backup (Spendthrift backup scheme): 3.04013   228.696
+cycle 35863045: POWER OFF - is_active()
+Cycle 36291719: instructions towards forward progress=2500000
+Cycle 37743689: instructions towards forward progress=2600000
+Cycle 37971874: backup (Spendthrift backup scheme): 3.42519   2098.35
+Cycle 37971888: backup (Spendthrift backup scheme): 3.42519   1262.58
+Cycle 37971902: backup (Spendthrift backup scheme): 3.42519   1062.25
+Cycle 37971916: backup (Spendthrift backup scheme): 3.42519   861.915
+Cycle 37971930: backup (Spendthrift backup scheme): 3.42519   661.584
+Cycle 37971944: backup (Spendthrift backup scheme): 3.42519   461.253
+Cycle 37971962: backup (Spendthrift backup scheme): 3.42519   259.752
+cycle 37971976: POWER OFF - is_active()
+Cycle 39195478: instructions towards forward progress=2700000
+Cycle 40080075: backup (Spendthrift backup scheme): 4.15167   2157.7
+Cycle 40080090: backup (Spendthrift backup scheme): 4.15167   1321.63
+Cycle 40080104: backup (Spendthrift backup scheme): 4.15167   1121.3
+Cycle 40080118: backup (Spendthrift backup scheme): 4.15167   920.97
+Cycle 40080133: backup (Spendthrift backup scheme): 4.15167   720.346
+Cycle 40080147: backup (Spendthrift backup scheme): 4.15167   520.015
+Cycle 40080161: backup (Spendthrift backup scheme): 4.15167   319.685
+cycle 40080175: POWER OFF - is_active()
+Cycle 40647754: instructions towards forward progress=2800000
+Cycle 42099010: instructions towards forward progress=2900000
+Cycle 42190800: backup (Spendthrift backup scheme): 1.22456   1918.74
+Cycle 42190814: backup (Spendthrift backup scheme): 1.22456   1082.96
+Cycle 42190829: backup (Spendthrift backup scheme): 1.22456   882.338
+Cycle 42190843: backup (Spendthrift backup scheme): 1.22456   682.007
+Cycle 42190857: backup (Spendthrift backup scheme): 1.22456   481.676
+Cycle 42190871: backup (Spendthrift backup scheme): 1.22456   281.345
+cycle 42190885: POWER OFF - is_active()
+Cycle 43551169: instructions towards forward progress=3000000
+Cycle 44300190: backup (Spendthrift backup scheme): 2.64411   2033.99
+Cycle 44300204: backup (Spendthrift backup scheme): 2.64411   1198.22
+Cycle 44300219: backup (Spendthrift backup scheme): 2.64411   997.597
+Cycle 44300237: backup (Spendthrift backup scheme): 2.64411   796.096
+Cycle 44300251: backup (Spendthrift backup scheme): 2.64411   595.765
+Cycle 44300266: backup (Spendthrift backup scheme): 2.64411   395.142
+cycle 44300280: POWER OFF - is_active()
+Cycle 45002966: instructions towards forward progress=3100000
+Cycle 46410096: backup (Spendthrift backup scheme): 1.32139   1925.9
+Cycle 46410110: backup (Spendthrift backup scheme): 1.32139   1090.13
+Cycle 46410124: backup (Spendthrift backup scheme): 1.32139   889.796
+Cycle 46410138: backup (Spendthrift backup scheme): 1.32139   689.465
+Cycle 46410152: backup (Spendthrift backup scheme): 1.32139   489.135
+Cycle 46410166: backup (Spendthrift backup scheme): 1.32139   288.804
+cycle 46410180: POWER OFF - is_active()
+Cycle 46454911: instructions towards forward progress=3200000
+Cycle 47906361: instructions towards forward progress=3300000
+rename_addr: (backup) no available rename addresses
+Cycle 48515380: backup (Spendthrift backup scheme): 1.70547   1957.78
+Cycle 48515398: backup (Spendthrift backup scheme): 1.70547   1239.98
+Cycle 48515412: backup (Spendthrift backup scheme): 1.70547   1039.65
+Cycle 48515426: backup (Spendthrift backup scheme): 1.70547   839.315
+Cycle 48515440: backup (Spendthrift backup scheme): 1.70547   638.984
+Cycle 48515454: backup (Spendthrift backup scheme): 1.70547   438.653
+Cycle 48515468: backup (Spendthrift backup scheme): 1.70547   238.322
+cycle 48515482: POWER OFF - is_active()
+rename_addr: (backup) no available rename addresses
+Cycle 49358001: instructions towards forward progress=3400000
+rename_addr: (backup) no available rename addresses
+Cycle 50615158: backup (Spendthrift backup scheme): 0.791501   1882.5
+Cycle 50615172: backup (Spendthrift backup scheme): 0.791501   1046.73
+Cycle 50615186: backup (Spendthrift backup scheme): 0.791501   846.395
+Cycle 50615201: backup (Spendthrift backup scheme): 0.791501   645.772
+Cycle 50615215: backup (Spendthrift backup scheme): 0.791501   445.441
+Cycle 50615229: backup (Spendthrift backup scheme): 0.791501   245.11
+cycle 50615243: POWER OFF - is_active()
+Cycle 50810098: instructions towards forward progress=3500000
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+Cycle 52261663: instructions towards forward progress=3600000
+rename_addr: (backup) no available rename addresses
+Cycle 52710138: backup (Spendthrift backup scheme): 1.82502   1967.29
+Cycle 52710153: backup (Spendthrift backup scheme): 1.82502   1409.23
+Cycle 52710167: backup (Spendthrift backup scheme): 1.82502   1208.9
+Cycle 52710181: backup (Spendthrift backup scheme): 1.82502   1008.56
+Cycle 52710196: backup (Spendthrift backup scheme): 1.82502   807.941
+Cycle 52710210: backup (Spendthrift backup scheme): 1.82502   607.611
+Cycle 52710224: backup (Spendthrift backup scheme): 1.82502   407.28
+Cycle 52710238: backup (Spendthrift backup scheme): 1.82502   206.949
+cycle 52710252: POWER OFF - is_active()
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+Cycle 53713073: instructions towards forward progress=3700000
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+Cycle 54803203: backup (Spendthrift backup scheme): 0.423369   1852.67
+Cycle 54803217: backup (Spendthrift backup scheme): 0.423369   1294.91
+Cycle 54803231: backup (Spendthrift backup scheme): 0.423369   1094.58
+Cycle 54803245: backup (Spendthrift backup scheme): 0.423369   894.244
+Cycle 54803259: backup (Spendthrift backup scheme): 0.423369   693.913
+Cycle 54803273: backup (Spendthrift backup scheme): 0.423369   493.582
+Cycle 54803291: backup (Spendthrift backup scheme): 0.423369   292.081
+cycle 54803305: POWER OFF - is_active()
+Cycle 55164821: instructions towards forward progress=3800000
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+Cycle 56616751: instructions towards forward progress=3900000
+Cycle 56893579: backup (Spendthrift backup scheme): 3.6688   2117.36
+Cycle 56893593: backup (Spendthrift backup scheme): 3.6688   1361.01
+Cycle 56893608: backup (Spendthrift backup scheme): 3.6688   1160.39
+Cycle 56893622: backup (Spendthrift backup scheme): 3.6688   960.057
+Cycle 56893636: backup (Spendthrift backup scheme): 3.6688   759.726
+Cycle 56893654: backup (Spendthrift backup scheme): 3.6688   558.225
+Cycle 56893668: backup (Spendthrift backup scheme): 3.6688   357.894
+cycle 56893682: POWER OFF - is_active()
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+Cycle 58068459: instructions towards forward progress=4000000
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+Cycle 58984193: backup (Spendthrift backup scheme): 3.69087   2120.64
+Cycle 58984207: backup (Spendthrift backup scheme): 3.69087   1483.44
+Cycle 58984221: backup (Spendthrift backup scheme): 3.69087   1283.11
+Cycle 58984235: backup (Spendthrift backup scheme): 3.69087   1082.78
+Cycle 58984250: backup (Spendthrift backup scheme): 3.69087   882.158
+Cycle 58984268: backup (Spendthrift backup scheme): 3.69087   680.657
+Cycle 58984282: backup (Spendthrift backup scheme): 3.69087   480.326
+Cycle 58984297: backup (Spendthrift backup scheme): 3.69087   279.703
+cycle 58984311: POWER OFF - is_active()
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+Cycle 59520368: instructions towards forward progress=4100000
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+Cycle 60972000: instructions towards forward progress=4200000
+Cycle 61070103: backup (Spendthrift backup scheme): 2.58434   2029.68
+Cycle 61070117: backup (Spendthrift backup scheme): 2.58434   1352.77
+Cycle 61070132: backup (Spendthrift backup scheme): 2.58434   1152.14
+Cycle 61070150: backup (Spendthrift backup scheme): 2.58434   950.643
+Cycle 61070164: backup (Spendthrift backup scheme): 2.58434   750.312
+Cycle 61070179: backup (Spendthrift backup scheme): 2.58434   549.689
+Cycle 61070193: backup (Spendthrift backup scheme): 2.58434   349.358
+cycle 61070207: POWER OFF - is_active()
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+Cycle 62423828: instructions towards forward progress=4300000
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+Cycle 63155506: backup (Spendthrift backup scheme): 4.53562   2188.64
+Cycle 63155524: backup (Spendthrift backup scheme): 4.53562   1391.42
+Cycle 63155538: backup (Spendthrift backup scheme): 4.53562   1191.08
+Cycle 63155553: backup (Spendthrift backup scheme): 4.53562   990.461
+Cycle 63155567: backup (Spendthrift backup scheme): 4.53562   790.13
+Cycle 63155581: backup (Spendthrift backup scheme): 4.53562   589.799
+Cycle 63155595: backup (Spendthrift backup scheme): 4.53562   349.753
+cycle 63155609: POWER OFF - is_active()
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+Cycle 63875804: instructions towards forward progress=4400000
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+Cycle 65236198: backup (Spendthrift backup scheme): 0.576744   1865.14
+Cycle 65236212: backup (Spendthrift backup scheme): 0.576744   1307.38
+Cycle 65236226: backup (Spendthrift backup scheme): 0.576744   1107.05
+Cycle 65236240: backup (Spendthrift backup scheme): 0.576744   906.714
+Cycle 65236254: backup (Spendthrift backup scheme): 0.576744   706.383
+Cycle 65236268: backup (Spendthrift backup scheme): 0.576744   506.052
+Cycle 65236282: backup (Spendthrift backup scheme): 0.576744   305.721
+cycle 65236296: POWER OFF - is_active()
+Cycle 65327411: instructions towards forward progress=4500000
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+Cycle 66778909: instructions towards forward progress=4600000
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+Cycle 67316069: backup (Spendthrift backup scheme): 1.89526   1973.43
+Cycle 67316083: backup (Spendthrift backup scheme): 1.89526   1296.51
+Cycle 67316097: backup (Spendthrift backup scheme): 1.89526   1096.18
+Cycle 67316111: backup (Spendthrift backup scheme): 1.89526   895.851
+Cycle 67316125: backup (Spendthrift backup scheme): 1.89526   695.52
+Cycle 67316140: backup (Spendthrift backup scheme): 1.89526   494.896
+Cycle 67316154: backup (Spendthrift backup scheme): 1.89526   294.565
+cycle 67316168: POWER OFF - is_active()
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+Cycle 68230939: instructions towards forward progress=4700000
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+Cycle 69396524: backup (Spendthrift backup scheme): 1.58094   1947.74
+Cycle 69396542: backup (Spendthrift backup scheme): 1.58094   1229.94
+Cycle 69396556: backup (Spendthrift backup scheme): 1.58094   1029.61
+Cycle 69396570: backup (Spendthrift backup scheme): 1.58094   829.28
+Cycle 69396584: backup (Spendthrift backup scheme): 1.58094   628.949
+Cycle 69396598: backup (Spendthrift backup scheme): 1.58094   428.618
+Cycle 69396612: backup (Spendthrift backup scheme): 1.58094   228.287
+cycle 69396626: POWER OFF - is_active()
+Cycle 69682855: instructions towards forward progress=4800000
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+Cycle 71134983: instructions towards forward progress=4900000
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+Cycle 71475237: backup (Spendthrift backup scheme): 2.93637   2058.45
+Cycle 71475251: backup (Spendthrift backup scheme): 2.93637   1540.4
+Cycle 71475265: backup (Spendthrift backup scheme): 2.93637   1340.07
+Cycle 71475279: backup (Spendthrift backup scheme): 2.93637   1139.74
+Cycle 71475293: backup (Spendthrift backup scheme): 2.93637   939.406
+Cycle 71475311: backup (Spendthrift backup scheme): 2.93637   737.905
+Cycle 71475325: backup (Spendthrift backup scheme): 2.93637   537.574
+Cycle 71475339: backup (Spendthrift backup scheme): 2.93637   337.243
+cycle 71475354: POWER OFF - is_active()
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+Cycle 72587065: instructions towards forward progress=5000000
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+Cycle 73554838: backup (Spendthrift backup scheme): 1.54146   1943.12
+Cycle 73554852: backup (Spendthrift backup scheme): 1.54146   1305.92
+Cycle 73554866: backup (Spendthrift backup scheme): 1.54146   1065.88
+Cycle 73554880: backup (Spendthrift backup scheme): 1.54146   865.545
+Cycle 73554894: backup (Spendthrift backup scheme): 1.54146   665.214
+Cycle 73554908: backup (Spendthrift backup scheme): 1.54146   464.883
+Cycle 73554926: backup (Spendthrift backup scheme): 1.54146   263.382
+cycle 73554940: POWER OFF - is_active()
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+Cycle 74039282: instructions towards forward progress=5100000
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+Cycle 75491184: instructions towards forward progress=5200000
+Cycle 75634645: backup (Spendthrift backup scheme): 3.00694   2063.74
+Cycle 75634659: backup (Spendthrift backup scheme): 3.00694   1307.39
+Cycle 75634674: backup (Spendthrift backup scheme): 3.00694   1106.77
+Cycle 75634688: backup (Spendthrift backup scheme): 3.00694   906.438
+Cycle 75634702: backup (Spendthrift backup scheme): 3.00694   706.107
+Cycle 75634717: backup (Spendthrift backup scheme): 3.00694   505.483
+Cycle 75634731: backup (Spendthrift backup scheme): 3.00694   305.152
+cycle 75634745: POWER OFF - is_active()
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+Cycle 76943077: instructions towards forward progress=5300000
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+Cycle 77714269: backup (Spendthrift backup scheme): 1.82985   1966.74
+Cycle 77714283: backup (Spendthrift backup scheme): 1.82985   1488.4
+Cycle 77714297: backup (Spendthrift backup scheme): 1.82985   1288.07
+Cycle 77714312: backup (Spendthrift backup scheme): 1.82985   1087.45
+Cycle 77714330: backup (Spendthrift backup scheme): 1.82985   885.947
+Cycle 77714344: backup (Spendthrift backup scheme): 1.82985   685.616
+Cycle 77714359: backup (Spendthrift backup scheme): 1.82985   484.993
+Cycle 77714373: backup (Spendthrift backup scheme): 1.82985   284.662
+cycle 77714387: POWER OFF - is_active()
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+Cycle 78394793: instructions towards forward progress=5400000
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+Cycle 79793998: backup (Spendthrift backup scheme): 3.1202   2072.71
+Cycle 79794012: backup (Spendthrift backup scheme): 3.1202   1554.66
+Cycle 79794026: backup (Spendthrift backup scheme): 3.1202   1354.33
+Cycle 79794040: backup (Spendthrift backup scheme): 3.1202   1153.99
+Cycle 79794054: backup (Spendthrift backup scheme): 3.1202   953.663
+Cycle 79794068: backup (Spendthrift backup scheme): 3.1202   753.332
+Cycle 79794082: backup (Spendthrift backup scheme): 3.1202   553.002
+Cycle 79794096: backup (Spendthrift backup scheme): 3.1202   352.671
+cycle 79794111: POWER OFF - is_active()
+Cycle 79845950: instructions towards forward progress=5500000
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+Cycle 81297649: instructions towards forward progress=5600000
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+Cycle 81873684: backup (Spendthrift backup scheme): 3.73583   2123.49
+Cycle 81873698: backup (Spendthrift backup scheme): 3.73583   1367.14
+Cycle 81873713: backup (Spendthrift backup scheme): 3.73583   1166.52
+Cycle 81873727: backup (Spendthrift backup scheme): 3.73583   966.19
+Cycle 81873741: backup (Spendthrift backup scheme): 3.73583   765.859
+Cycle 81873759: backup (Spendthrift backup scheme): 3.73583   564.358
+Cycle 81873773: backup (Spendthrift backup scheme): 3.73583   364.027
+cycle 81873787: POWER OFF - is_active()
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+Cycle 82749273: instructions towards forward progress=5700000
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+Cycle 83942011: backup (Spendthrift backup scheme): 0.438352   1853
+Cycle 83942029: backup (Spendthrift backup scheme): 0.438352   1413.21
+Cycle 83942043: backup (Spendthrift backup scheme): 0.438352   1212.88
+Cycle 83942058: backup (Spendthrift backup scheme): 0.438352   1012.26
+Cycle 83942072: backup (Spendthrift backup scheme): 0.438352   811.926
+Cycle 83942086: backup (Spendthrift backup scheme): 0.438352   611.595
+Cycle 83942104: backup (Spendthrift backup scheme): 0.438352   410.094
+Cycle 83942118: backup (Spendthrift backup scheme): 0.438352   209.763
+cycle 83942132: POWER OFF - is_active()
+Cycle 84200716: instructions towards forward progress=5800000
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+Cycle 85651981: instructions towards forward progress=5900000
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+Cycle 86004391: backup (Spendthrift backup scheme): 2.65426   2034.33
+Cycle 86004406: backup (Spendthrift backup scheme): 2.65426   1436.55
+Cycle 86004420: backup (Spendthrift backup scheme): 2.65426   1236.22
+Cycle 86004434: backup (Spendthrift backup scheme): 2.65426   1035.89
+Cycle 86004448: backup (Spendthrift backup scheme): 2.65426   835.557
+Cycle 86004462: backup (Spendthrift backup scheme): 2.65426   635.226
+Cycle 86004476: backup (Spendthrift backup scheme): 2.65426   434.895
+Cycle 86004494: backup (Spendthrift backup scheme): 2.65426   233.394
+cycle 86004508: POWER OFF - is_active()
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+Cycle 87103561: instructions towards forward progress=6000000
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+Cycle 88068296: backup (Spendthrift backup scheme): 0.884622   1890.21
+Cycle 88068311: backup (Spendthrift backup scheme): 0.884622   1093.85
+Cycle 88068329: backup (Spendthrift backup scheme): 0.884622   892.354
+Cycle 88068343: backup (Spendthrift backup scheme): 0.884622   692.023
+Cycle 88068357: backup (Spendthrift backup scheme): 0.884622   491.692
+Cycle 88068372: backup (Spendthrift backup scheme): 0.884622   291.069
+cycle 88068390: POWER OFF - is_active()
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+Cycle 88555610: instructions towards forward progress=6100000
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+Cycle 90007676: instructions towards forward progress=6200000
+Cycle 90126930: backup (Spendthrift backup scheme): 1.84081   1968.72
+Cycle 90126945: backup (Spendthrift backup scheme): 1.84081   1490.09
+Cycle 90126959: backup (Spendthrift backup scheme): 1.84081   1289.76
+Cycle 90126973: backup (Spendthrift backup scheme): 1.84081   1089.43
+Cycle 90126987: backup (Spendthrift backup scheme): 1.84081   889.096
+Cycle 90127001: backup (Spendthrift backup scheme): 1.84081   688.765
+Cycle 90127015: backup (Spendthrift backup scheme): 1.84081   488.434
+Cycle 90127030: backup (Spendthrift backup scheme): 1.84081   287.811
+cycle 90127044: POWER OFF - is_active()
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+Cycle 91459455: instructions towards forward progress=6300000
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+Cycle 92185894: backup (Spendthrift backup scheme): 2.36829   2011.53
+Cycle 92185908: backup (Spendthrift backup scheme): 2.36829   1572.91
+Cycle 92185923: backup (Spendthrift backup scheme): 2.36829   1372.28
+Cycle 92185937: backup (Spendthrift backup scheme): 2.36829   1171.95
+Cycle 92185951: backup (Spendthrift backup scheme): 2.36829   971.62
+Cycle 92185969: backup (Spendthrift backup scheme): 2.36829   770.119
+Cycle 92185983: backup (Spendthrift backup scheme): 2.36829   569.788
+Cycle 92185997: backup (Spendthrift backup scheme): 2.36829   369.457
+cycle 92186011: POWER OFF - is_active()
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+Cycle 92911022: instructions towards forward progress=6400000
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+Cycle 94249149: backup (Spendthrift backup scheme): 0.584477   1865.14
+Cycle 94249163: backup (Spendthrift backup scheme): 0.581899   1267.66
+Cycle 94249177: backup (Spendthrift backup scheme): 0.581899   1067.33
+Cycle 94249191: backup (Spendthrift backup scheme): 0.581899   866.999
+Cycle 94249205: backup (Spendthrift backup scheme): 0.581899   666.668
+Cycle 94249219: backup (Spendthrift backup scheme): 0.581899   466.337
+Cycle 94249233: backup (Spendthrift backup scheme): 0.581899   266.006
+cycle 94249247: POWER OFF - is_active()
+Cycle 94362875: instructions towards forward progress=6500000
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+Cycle 95814115: instructions towards forward progress=6600000
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+Cycle 96312063: backup (Spendthrift backup scheme): 3.53846   2107.7
+Cycle 96312078: backup (Spendthrift backup scheme): 3.53846   1311.35
+Cycle 96312092: backup (Spendthrift backup scheme): 3.53846   1111.01
+Cycle 96312106: backup (Spendthrift backup scheme): 3.53846   910.684
+Cycle 96312120: backup (Spendthrift backup scheme): 3.53846   710.353
+Cycle 96312134: backup (Spendthrift backup scheme): 3.53846   510.022
+Cycle 96312148: backup (Spendthrift backup scheme): 3.53846   309.691
+cycle 96312166: POWER OFF - is_active()
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+Cycle 97266224: instructions towards forward progress=6700000
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+Cycle 98370919: backup (Spendthrift backup scheme): 2.14499   1993.12
+Cycle 98370934: backup (Spendthrift backup scheme): 2.14499   1554.2
+Cycle 98370948: backup (Spendthrift backup scheme): 2.14499   1353.87
+Cycle 98370962: backup (Spendthrift backup scheme): 2.14499   1153.54
+Cycle 98370976: backup (Spendthrift backup scheme): 2.14499   953.212
+Cycle 98370990: backup (Spendthrift backup scheme): 2.14499   752.881
+Cycle 98371004: backup (Spendthrift backup scheme): 2.14499   552.55
+Cycle 98371022: backup (Spendthrift backup scheme): 2.14499   351.049
+cycle 98371036: POWER OFF - is_active()
+Cycle 98717764: instructions towards forward progress=6800000
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+Cycle 100169525: instructions towards forward progress=6900000
+rename_addr: (backup) no available rename addresses
+Cycle 100432394: backup (Spendthrift backup scheme): 3.08911   2070.96
+Cycle 100432408: backup (Spendthrift backup scheme): 3.08911   1473.48
+Cycle 100432426: backup (Spendthrift backup scheme): 3.08911   1271.98
+Cycle 100432440: backup (Spendthrift backup scheme): 3.08911   1071.65
+Cycle 100432454: backup (Spendthrift backup scheme): 3.08911   871.317
+Cycle 100432468: backup (Spendthrift backup scheme): 3.08911   670.986
+Cycle 100432482: backup (Spendthrift backup scheme): 3.08911   470.655
+Cycle 100432496: backup (Spendthrift backup scheme): 3.08911   270.325
+cycle 100432510: POWER OFF - is_active()
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+Cycle 101621515: instructions towards forward progress=7000000
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+Cycle 102494384: backup (Spendthrift backup scheme): 3.51912   2104.5
+Cycle 102494398: backup (Spendthrift backup scheme): 3.51912   1308.44
+Cycle 102494412: backup (Spendthrift backup scheme): 3.51912   1108.11
+Cycle 102494427: backup (Spendthrift backup scheme): 3.51912   907.484
+Cycle 102494441: backup (Spendthrift backup scheme): 3.51912   707.153
+Cycle 102494455: backup (Spendthrift backup scheme): 3.51912   506.822
+Cycle 102494469: backup (Spendthrift backup scheme): 3.51912   306.491
+cycle 102494483: POWER OFF - is_active()
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+Cycle 103073234: instructions towards forward progress=7100000
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+Cycle 104525162: instructions towards forward progress=7200000
+Cycle 104555846: backup (Spendthrift backup scheme): 2.90914   2055.27
+Cycle 104555860: backup (Spendthrift backup scheme): 2.90914   1457.79
+Cycle 104555875: backup (Spendthrift backup scheme): 2.90914   1257.16
+Cycle 104555889: backup (Spendthrift backup scheme): 2.90914   1056.83
+Cycle 104555903: backup (Spendthrift backup scheme): 2.90914   856.503
+Cycle 104555917: backup (Spendthrift backup scheme): 2.90914   656.172
+Cycle 104555931: backup (Spendthrift backup scheme): 2.90914   455.841
+Cycle 104555945: backup (Spendthrift backup scheme): 2.90914   255.51
+cycle 104555963: POWER OFF - is_active()
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+Cycle 105977090: instructions towards forward progress=7300000
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+Cycle 106614691: backup (Spendthrift backup scheme): 2.7345   2040.51
+Cycle 106614705: backup (Spendthrift backup scheme): 2.7345   1601.89
+Cycle 106614719: backup (Spendthrift backup scheme): 2.7345   1401.56
+Cycle 106614733: backup (Spendthrift backup scheme): 2.7345   1161.51
+Cycle 106614747: backup (Spendthrift backup scheme): 2.7345   961.184
+Cycle 106614761: backup (Spendthrift backup scheme): 2.7345   760.853
+Cycle 106614775: backup (Spendthrift backup scheme): 2.7345   560.522
+Cycle 106614793: backup (Spendthrift backup scheme): 2.7345   359.021
+cycle 106614807: POWER OFF - is_active()
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+Cycle 107428615: instructions towards forward progress=7400000
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+Cycle 108676782: backup (Spendthrift backup scheme): 3.48416   2100.95
+Cycle 108676796: backup (Spendthrift backup scheme): 3.48416   1503.47
+Cycle 108676810: backup (Spendthrift backup scheme): 3.48416   1303.14
+Cycle 108676824: backup (Spendthrift backup scheme): 3.48416   1102.81
+Cycle 108676838: backup (Spendthrift backup scheme): 3.48416   902.478
+Cycle 108676856: backup (Spendthrift backup scheme): 3.48416   700.977
+Cycle 108676870: backup (Spendthrift backup scheme): 3.48416   500.646
+Cycle 108676884: backup (Spendthrift backup scheme): 3.48416   300.315
+cycle 108676899: POWER OFF - is_active()
+Cycle 108880302: instructions towards forward progress=7500000
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+Cycle 110332057: instructions towards forward progress=7600000
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+Cycle 110740943: backup (Spendthrift backup scheme): 0.730441   1878.41
+Cycle 110740957: backup (Spendthrift backup scheme): 0.730441   1082.35
+Cycle 110740971: backup (Spendthrift backup scheme): 0.730441   882.018
+Cycle 110740985: backup (Spendthrift backup scheme): 0.730441   681.687
+Cycle 110740999: backup (Spendthrift backup scheme): 0.730441   481.356
+Cycle 110741013: backup (Spendthrift backup scheme): 0.730441   281.025
+cycle 110741031: POWER OFF - is_active()
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+Cycle 111784014: instructions towards forward progress=7700000
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+Cycle 112799479: backup (Spendthrift backup scheme): 2.22377   2000.33
+Cycle 112799497: backup (Spendthrift backup scheme): 2.22377   1560.54
+Cycle 112799511: backup (Spendthrift backup scheme): 2.22377   1360.21
+Cycle 112799526: backup (Spendthrift backup scheme): 2.22377   1159.58
+Cycle 112799540: backup (Spendthrift backup scheme): 2.22377   959.253
+Cycle 112799554: backup (Spendthrift backup scheme): 2.22377   758.922
+Cycle 112799572: backup (Spendthrift backup scheme): 2.22377   557.421
+Cycle 112799586: backup (Spendthrift backup scheme): 2.22377   357.09
+cycle 112799600: POWER OFF - is_active()
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+Cycle 113235896: instructions towards forward progress=7800000
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+Cycle 114687532: instructions towards forward progress=7900000
+Cycle 114860798: backup (Spendthrift backup scheme): 3.78239   2127.19
+Cycle 114860812: backup (Spendthrift backup scheme): 3.78239   1490
+Cycle 114860826: backup (Spendthrift backup scheme): 3.78239   1289.67
+Cycle 114860840: backup (Spendthrift backup scheme): 3.78239   1089.33
+Cycle 114860854: backup (Spendthrift backup scheme): 3.78239   889.004
+Cycle 114860868: backup (Spendthrift backup scheme): 3.78239   688.673
+Cycle 114860882: backup (Spendthrift backup scheme): 3.78239   488.342
+Cycle 114860896: backup (Spendthrift backup scheme): 3.78239   288.011
+cycle 114860911: POWER OFF - is_active()
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+Cycle 116139124: instructions towards forward progress=8000000
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+Cycle 116923922: backup (Spendthrift backup scheme): 3.30758   2087.98
+Cycle 116923936: backup (Spendthrift backup scheme): 3.30758   1371.35
+Cycle 116923950: backup (Spendthrift backup scheme): 3.30758   1171.02
+Cycle 116923964: backup (Spendthrift backup scheme): 3.30758   970.689
+Cycle 116923978: backup (Spendthrift backup scheme): 3.30758   770.358
+Cycle 116923992: backup (Spendthrift backup scheme): 3.30758   570.027
+Cycle 116924006: backup (Spendthrift backup scheme): 3.30758   369.696
+cycle 116924020: POWER OFF - is_active()
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+Cycle 117590180: instructions towards forward progress=8100000
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+Cycle 118982907: backup (Spendthrift backup scheme): 2.36023   2010.14
+Cycle 118982921: backup (Spendthrift backup scheme): 2.36023   1571.52
+Cycle 118982935: backup (Spendthrift backup scheme): 2.36023   1371.19
+Cycle 118982949: backup (Spendthrift backup scheme): 2.36023   1170.85
+Cycle 118982967: backup (Spendthrift backup scheme): 2.36023   969.353
+Cycle 118982981: backup (Spendthrift backup scheme): 2.36023   769.022
+Cycle 118982995: backup (Spendthrift backup scheme): 2.36023   568.691
+Cycle 118983010: backup (Spendthrift backup scheme): 2.36023   368.068
+cycle 118983028: POWER OFF - is_active()
+Cycle 119042007: instructions towards forward progress=8200000
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+Cycle 120493970: instructions towards forward progress=8300000
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+Cycle 121044630: backup (Spendthrift backup scheme): 2.35862   2010.95
+Cycle 121044644: backup (Spendthrift backup scheme): 2.35862   1413.46
+Cycle 121044658: backup (Spendthrift backup scheme): 2.35862   1213.13
+Cycle 121044676: backup (Spendthrift backup scheme): 2.35862   1011.63
+Cycle 121044690: backup (Spendthrift backup scheme): 2.35862   811.301
+Cycle 121044704: backup (Spendthrift backup scheme): 2.35862   610.97
+Cycle 121044718: backup (Spendthrift backup scheme): 2.35862   410.639
+Cycle 121044732: backup (Spendthrift backup scheme): 2.35862   210.308
+cycle 121044750: POWER OFF - is_active()
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+Cycle 121945766: instructions towards forward progress=8400000
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+Cycle 123105759: backup (Spendthrift backup scheme): 4.55721   2189.67
+Cycle 123105773: backup (Spendthrift backup scheme): 4.55721   1433.33
+Cycle 123105787: backup (Spendthrift backup scheme): 4.55721   1233
+Cycle 123105801: backup (Spendthrift backup scheme): 4.55721   992.953
+Cycle 123105815: backup (Spendthrift backup scheme): 4.55721   792.622
+Cycle 123105829: backup (Spendthrift backup scheme): 4.55721   592.291
+Cycle 123105843: backup (Spendthrift backup scheme): 4.55721   391.96
+cycle 123105861: POWER OFF - is_active()
+Cycle 123397719: instructions towards forward progress=8500000
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+Cycle 124849371: instructions towards forward progress=8600000
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+Cycle 125167222: backup (Spendthrift backup scheme): 3.13293   2074.81
+Cycle 125167240: backup (Spendthrift backup scheme): 3.13293   1476.16
+Cycle 125167254: backup (Spendthrift backup scheme): 3.13293   1275.83
+Cycle 125167268: backup (Spendthrift backup scheme): 3.13293   1075.5
+Cycle 125167282: backup (Spendthrift backup scheme): 3.13293   875.165
+Cycle 125167296: backup (Spendthrift backup scheme): 3.13293   674.834
+Cycle 125167310: backup (Spendthrift backup scheme): 3.13293   474.503
+Cycle 125167324: backup (Spendthrift backup scheme): 3.13293   274.172
+cycle 125167339: POWER OFF - is_active()
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+Cycle 126301236: instructions towards forward progress=8700000
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+Cycle 127225670: backup (Spendthrift backup scheme): 3.36864   2093.61
+Cycle 127225685: backup (Spendthrift backup scheme): 3.36864   1654.7
+Cycle 127225703: backup (Spendthrift backup scheme): 3.36864   1453.2
+Cycle 127225717: backup (Spendthrift backup scheme): 3.36864   1252.87
+Cycle 127225731: backup (Spendthrift backup scheme): 3.36864   1052.54
+Cycle 127225746: backup (Spendthrift backup scheme): 3.36864   851.912
+Cycle 127225764: backup (Spendthrift backup scheme): 3.36864   650.411
+Cycle 127225778: backup (Spendthrift backup scheme): 3.36864   450.08
+Cycle 127225793: backup (Spendthrift backup scheme): 3.36864   249.457
+cycle 127225807: POWER OFF - is_active()
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+Cycle 127752499: instructions towards forward progress=8800000
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+Cycle 129204222: instructions towards forward progress=8900000
+Cycle 129287770: backup (Spendthrift backup scheme): 3.01773   2064.73
+Cycle 129287784: backup (Spendthrift backup scheme): 3.01773   1467.25
+Cycle 129287798: backup (Spendthrift backup scheme): 3.01773   1227.2
+Cycle 129287812: backup (Spendthrift backup scheme): 3.01773   1026.87
+Cycle 129287826: backup (Spendthrift backup scheme): 3.01773   826.54
+Cycle 129287840: backup (Spendthrift backup scheme): 3.01773   626.209
+Cycle 129287854: backup (Spendthrift backup scheme): 3.01773   425.878
+Cycle 129287868: backup (Spendthrift backup scheme): 3.01773   225.547
+cycle 129287882: POWER OFF - is_active()
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+Cycle 130656027: instructions towards forward progress=9000000
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+Cycle 131350002: backup (Spendthrift backup scheme): 3.69184   2119.26
+Cycle 131350016: backup (Spendthrift backup scheme): 3.69184   1323.21
+Cycle 131350030: backup (Spendthrift backup scheme): 3.69184   1122.87
+Cycle 131350045: backup (Spendthrift backup scheme): 3.69184   922.251
+Cycle 131350059: backup (Spendthrift backup scheme): 3.69184   721.92
+Cycle 131350073: backup (Spendthrift backup scheme): 3.69184   521.589
+Cycle 131350087: backup (Spendthrift backup scheme): 3.69184   321.258
+cycle 131350101: POWER OFF - is_active()
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+Cycle 132107619: instructions towards forward progress=9100000
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+Cycle 133408958: backup (Spendthrift backup scheme): 2.66135   2035.46
+Cycle 133408972: backup (Spendthrift backup scheme): 2.66135   1596.84
+Cycle 133408986: backup (Spendthrift backup scheme): 2.66135   1396.51
+Cycle 133409000: backup (Spendthrift backup scheme): 2.66135   1196.18
+Cycle 133409014: backup (Spendthrift backup scheme): 2.66135   995.845
+Cycle 133409029: backup (Spendthrift backup scheme): 2.66135   795.222
+Cycle 133409043: backup (Spendthrift backup scheme): 2.66135   594.891
+Cycle 133409057: backup (Spendthrift backup scheme): 2.66135   394.56
+cycle 133409071: POWER OFF - is_active()
+Cycle 133559253: instructions towards forward progress=9200000
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+Cycle 135010965: instructions towards forward progress=9300000
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+Cycle 135470820: backup (Spendthrift backup scheme): 2.95844   2059.36
+Cycle 135470834: backup (Spendthrift backup scheme): 2.95844   1461.88
+Cycle 135470848: backup (Spendthrift backup scheme): 2.95844   1261.55
+Cycle 135470862: backup (Spendthrift backup scheme): 2.95844   1061.22
+Cycle 135470876: backup (Spendthrift backup scheme): 2.95844   860.888
+Cycle 135470890: backup (Spendthrift backup scheme): 2.95844   660.557
+Cycle 135470904: backup (Spendthrift backup scheme): 2.95844   460.226
+Cycle 135470918: backup (Spendthrift backup scheme): 2.95844   259.895
+cycle 135470932: POWER OFF - is_active()
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+Cycle 136462427: instructions towards forward progress=9400000
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+Cycle 137535236: backup (Spendthrift backup scheme): 0.48894   1858.44
+Cycle 137535250: backup (Spendthrift backup scheme): 0.48894   1062.38
+Cycle 137535264: backup (Spendthrift backup scheme): 0.48894   862.049
+Cycle 137535278: backup (Spendthrift backup scheme): 0.48894   661.718
+Cycle 137535292: backup (Spendthrift backup scheme): 0.48894   461.387
+Cycle 137535310: backup (Spendthrift backup scheme): 0.48894   259.886
+cycle 137535324: POWER OFF - is_active()
+Cycle 137914126: instructions towards forward progress=9500000
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+Cycle 139365877: instructions towards forward progress=9600000
+rename_addr: (backup) no available rename addresses
+Cycle 139593026: backup (Spendthrift backup scheme): 3.81816   2130.27
+Cycle 139593040: backup (Spendthrift backup scheme): 3.81816   1691.65
+Cycle 139593054: backup (Spendthrift backup scheme): 3.81816   1491.32
+Cycle 139593068: backup (Spendthrift backup scheme): 3.81816   1290.99
+Cycle 139593086: backup (Spendthrift backup scheme): 3.81816   1089.49
+Cycle 139593100: backup (Spendthrift backup scheme): 3.81816   889.157
+Cycle 139593114: backup (Spendthrift backup scheme): 3.81816   688.826
+Cycle 139593129: backup (Spendthrift backup scheme): 3.81816   488.203
+Cycle 139593143: backup (Spendthrift backup scheme): 3.81816   287.872
+cycle 139593157: POWER OFF - is_active()
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+Cycle 140817928: instructions towards forward progress=9700000
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+Cycle 141655451: backup (Spendthrift backup scheme): 1.52358   1941.66
+Cycle 141655465: backup (Spendthrift backup scheme): 1.52358   1304.47
+Cycle 141655479: backup (Spendthrift backup scheme): 1.52358   1104.13
+Cycle 141655493: backup (Spendthrift backup scheme): 1.52358   903.804
+Cycle 141655507: backup (Spendthrift backup scheme): 1.52358   703.473
+Cycle 141655522: backup (Spendthrift backup scheme): 1.52358   502.849
+Cycle 141655536: backup (Spendthrift backup scheme): 1.52358   302.518
+cycle 141655550: POWER OFF - is_active()
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+Cycle 142269511: instructions towards forward progress=9800000
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+Cycle 143717353: backup (Spendthrift backup scheme): 4.30232   2170.24
+Cycle 143717367: backup (Spendthrift backup scheme): 4.30232   1572.75
+Cycle 143717381: backup (Spendthrift backup scheme): 4.30232   1372.42
+Cycle 143717395: backup (Spendthrift backup scheme): 4.30232   1172.09
+Cycle 143717409: backup (Spendthrift backup scheme): 4.30232   971.76
+Cycle 143717423: backup (Spendthrift backup scheme): 4.30232   771.429
+Cycle 143717437: backup (Spendthrift backup scheme): 4.30232   571.098
+Cycle 143717451: backup (Spendthrift backup scheme): 4.30232   370.767
+cycle 143717465: POWER OFF - is_active()
+Cycle 143721009: instructions towards forward progress=9900000
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+rename_addr: (backup) no available rename addresses
+done
+CPU instructions executed: 10000069
+CPU instructions executed towards forward progress: 10000000
+Number of true positives: 611
+Number of false positives: 24
+Number of times renamed: 1387
+Number of times reclaimed: 512
+CPU time (cycles): 145172577
+Total time (ns): 3876279416804000
+Energy harvested (J): 0.019681
+Energy remaining (J): 8.3768e-05

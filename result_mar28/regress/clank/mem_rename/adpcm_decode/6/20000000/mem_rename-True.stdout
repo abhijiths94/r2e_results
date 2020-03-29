@@ -1,0 +1,48 @@
+Working dir : /var/lib/condor/execute/slot1/dir_9782
+Cycle 0: instructions towards forward progress=0
+Cycle 1432513: instructions towards forward progress=100000
+Cycle 2160807: spendthrift backup(Will Backup)
+Cycle 2160821: spendthrift backup(Will Backup)
+Cycle 2160835: spendthrift backup(Will Backup)
+Cycle 2160849: spendthrift backup(Will Backup)
+Cycle 2160865: spendthrift backup(Will Backup)
+Cycle 2160879: spendthrift backup(Will Backup)
+Cycle 2160893: spendthrift backup(Will Backup)
+Cycle 2160907: spendthrift backup(Will Backup)
+Cycle 2160921: spendthrift backup(Will Backup)
+cycle 2160921: POWER OFF - is_active()
+Cycle 2864485: instructions towards forward progress=200000
+Cycle 4295645: instructions towards forward progress=300000
+Cycle 4324837: spendthrift backup(Will Backup)
+Cycle 4324851: spendthrift backup(Will Backup)
+Cycle 4324865: spendthrift backup(Will Backup)
+Cycle 4324881: spendthrift backup(Will Backup)
+Cycle 4324895: spendthrift backup(Will Backup)
+Cycle 4324910: spendthrift backup(Will Backup)
+Cycle 4324924: spendthrift backup(Will Backup)
+Cycle 4324938: spendthrift backup(Will Backup)
+Cycle 4324952: spendthrift backup(Will Backup)
+cycle 4324952: POWER OFF - is_active()
+Cycle 5725581: instructions towards forward progress=400000
+Cycle 6491612: spendthrift backup(Will Backup)
+Cycle 6491626: spendthrift backup(Will Backup)
+Cycle 6491640: spendthrift backup(Will Backup)
+Cycle 6491654: spendthrift backup(Will Backup)
+Cycle 6491669: spendthrift backup(Will Backup)
+Cycle 6491683: spendthrift backup(Will Backup)
+Cycle 6491697: spendthrift backup(Will Backup)
+Cycle 6491711: spendthrift backup(Will Backup)
+Cycle 6491726: spendthrift backup(Will Backup)
+cycle 6491726: POWER OFF - is_active()
+Cycle 7154787: instructions towards forward progress=500000
+done
+CPU instructions executed: 512452
+CPU instructions executed towards forward progress: 512452
+Number of true positives: 0
+Number of false positives: 0
+Number of times renamed: 0
+Number of times reclaimed: 0
+CPU time (cycles): 7332777
+Total time (ns): 221505491291375
+Energy harvested (J): 0.00112464
+Energy remaining (J): 0.000172583

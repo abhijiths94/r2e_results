@@ -1,0 +1,48 @@
+Working dir : /var/lib/condor/execute/slot1/dir_31715
+Cycle 0: instructions towards forward progress=0
+Cycle 1432513: instructions towards forward progress=100000
+Cycle 2160792: backup (Spendthrift backup scheme): 3.19705   2080.01
+Cycle 2160807: backup (Spendthrift backup scheme): 3.19705   1760.24
+Cycle 2160821: backup (Spendthrift backup scheme): 3.19705   1559.91
+Cycle 2160835: backup (Spendthrift backup scheme): 3.19705   1359.58
+Cycle 2160849: backup (Spendthrift backup scheme): 3.19705   1159.25
+Cycle 2160865: backup (Spendthrift backup scheme): 3.19705   958.335
+Cycle 2160879: backup (Spendthrift backup scheme): 3.19705   758.004
+Cycle 2160893: backup (Spendthrift backup scheme): 3.19705   557.673
+Cycle 2160907: backup (Spendthrift backup scheme): 3.19705   357.342
+cycle 2160921: POWER OFF - is_active()
+Cycle 2864499: instructions towards forward progress=200000
+Cycle 4295659: instructions towards forward progress=300000
+Cycle 4324823: backup (Spendthrift backup scheme): 0.770235   1880.9
+Cycle 4324837: backup (Spendthrift backup scheme): 0.770235   1680.57
+Cycle 4324851: backup (Spendthrift backup scheme): 0.770235   1480.24
+Cycle 4324865: backup (Spendthrift backup scheme): 0.770235   1279.91
+Cycle 4324879: backup (Spendthrift backup scheme): 0.770235   1079.58
+Cycle 4324895: backup (Spendthrift backup scheme): 0.770235   878.66
+Cycle 4324909: backup (Spendthrift backup scheme): 0.770235   678.329
+Cycle 4324924: backup (Spendthrift backup scheme): 0.770235   477.706
+Cycle 4324938: backup (Spendthrift backup scheme): 0.770235   277.375
+cycle 4324952: POWER OFF - is_active()
+Cycle 5725609: instructions towards forward progress=400000
+Cycle 6491597: backup (Spendthrift backup scheme): 1.4427   1935.47
+Cycle 6491611: backup (Spendthrift backup scheme): 1.4427   1735.13
+Cycle 6491625: backup (Spendthrift backup scheme): 1.4427   1534.8
+Cycle 6491640: backup (Spendthrift backup scheme): 1.4427   1334.18
+Cycle 6491654: backup (Spendthrift backup scheme): 1.4427   1133.85
+Cycle 6491668: backup (Spendthrift backup scheme): 1.4427   933.518
+Cycle 6491682: backup (Spendthrift backup scheme): 1.4427   733.187
+Cycle 6491697: backup (Spendthrift backup scheme): 1.4427   532.563
+Cycle 6491711: backup (Spendthrift backup scheme): 1.4427   332.232
+cycle 6491725: POWER OFF - is_active()
+Cycle 7154829: instructions towards forward progress=500000
+done
+CPU instructions executed: 512455
+CPU instructions executed towards forward progress: 512452
+Number of true positives: 0
+Number of false positives: 0
+Number of times renamed: 0
+Number of times reclaimed: 0
+CPU time (cycles): 7332819
+Total time (ns): 221505465293750
+Energy harvested (J): 0.00112464
+Energy remaining (J): 0.000172577

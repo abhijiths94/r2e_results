@@ -1,0 +1,2067 @@
+Working dir : /var/lib/condor/execute/slot1/dir_18577
+Cycle 0: instructions towards forward progress=0
+Cycle 1504760: instructions towards forward progress=100000
+Cycle 2024270: backup (Spendthrift backup scheme): 3.18851   2078.76
+Cycle 2024284: backup (Spendthrift backup scheme): 3.18851   1242.99
+Cycle 2024298: backup (Spendthrift backup scheme): 3.18851   1042.66
+Cycle 2024312: backup (Spendthrift backup scheme): 3.18851   842.325
+Cycle 2024326: backup (Spendthrift backup scheme): 3.18851   641.994
+Cycle 2024340: backup (Spendthrift backup scheme): 3.18851   441.663
+Cycle 2024354: backup (Spendthrift backup scheme): 3.18851   241.332
+cycle 2024369: POWER OFF - is_active()
+Cycle 3009991: instructions towards forward progress=200000
+Cycle 4058865: backup (Spendthrift backup scheme): 0.319937   1843.55
+Cycle 4058879: backup (Spendthrift backup scheme): 0.319937   1087.2
+Cycle 4058893: backup (Spendthrift backup scheme): 0.319937   886.873
+Cycle 4058907: backup (Spendthrift backup scheme): 0.319937   686.542
+Cycle 4058921: backup (Spendthrift backup scheme): 0.319937   486.211
+Cycle 4058935: backup (Spendthrift backup scheme): 0.319937   285.88
+cycle 4058949: POWER OFF - is_active()
+Cycle 4515091: instructions towards forward progress=300000
+Cycle 6020075: instructions towards forward progress=400000
+Cycle 6092829: backup (Spendthrift backup scheme): 0.980482   1897.64
+Cycle 6092843: backup (Spendthrift backup scheme): 0.980482   1141.29
+Cycle 6092857: backup (Spendthrift backup scheme): 0.980482   940.961
+Cycle 6092902: backup (Spendthrift backup scheme): 0.980482   731.562
+Cycle 6092916: backup (Spendthrift backup scheme): 0.980482   531.231
+Cycle 6092930: backup (Spendthrift backup scheme): 0.980482   330.9
+cycle 6092975: POWER OFF - is_active()
+Cycle 7524217: instructions towards forward progress=500000
+Cycle 8125491: backup (Spendthrift backup scheme): 4.06885   2150.19
+Cycle 8125505: backup (Spendthrift backup scheme): 4.09592   1354.13
+Cycle 8125519: backup (Spendthrift backup scheme): 4.09592   1153.8
+Cycle 8125533: backup (Spendthrift backup scheme): 4.09592   953.469
+Cycle 8125547: backup (Spendthrift backup scheme): 4.09592   753.138
+Cycle 8125561: backup (Spendthrift backup scheme): 4.09592   513.092
+Cycle 8125606: backup (Spendthrift backup scheme): 4.09592   303.694
+cycle 8125620: POWER OFF - is_active()
+Cycle 9028643: instructions towards forward progress=600000
+Cycle 10157762: backup (Spendthrift backup scheme): 3.76934   2117.05
+Cycle 10157807: backup (Spendthrift backup scheme): 3.76934   1351.64
+Cycle 10157821: backup (Spendthrift backup scheme): 3.76934   1151.31
+Cycle 10157835: backup (Spendthrift backup scheme): 3.76934   950.981
+Cycle 10157849: backup (Spendthrift backup scheme): 3.76934   750.65
+Cycle 10157863: backup (Spendthrift backup scheme): 3.76934   550.319
+Cycle 10157877: backup (Spendthrift backup scheme): 3.76934   349.988
+cycle 10157892: POWER OFF - is_active()
+Cycle 10532956: instructions towards forward progress=700000
+Cycle 12038132: instructions towards forward progress=800000
+Cycle 12192183: backup (Spendthrift backup scheme): 1.89043   1971.93
+Cycle 12192197: backup (Spendthrift backup scheme): 1.89043   1215.58
+Cycle 12192211: backup (Spendthrift backup scheme): 1.89043   1015.25
+Cycle 12192225: backup (Spendthrift backup scheme): 1.89043   814.922
+Cycle 12192239: backup (Spendthrift backup scheme): 1.89043   614.591
+Cycle 12192253: backup (Spendthrift backup scheme): 1.89043   414.26
+Cycle 12192267: backup (Spendthrift backup scheme): 1.89043   213.93
+cycle 12192281: POWER OFF - is_active()
+Cycle 13543189: instructions towards forward progress=900000
+Cycle 14227093: backup (Spendthrift backup scheme): 1.46027   1936.46
+Cycle 14227107: backup (Spendthrift backup scheme): 1.46027   1180.12
+Cycle 14227121: backup (Spendthrift backup scheme): 1.46027   979.789
+Cycle 14227135: backup (Spendthrift backup scheme): 1.46027   779.458
+Cycle 14227149: backup (Spendthrift backup scheme): 1.46027   579.127
+Cycle 14227163: backup (Spendthrift backup scheme): 1.46027   378.796
+cycle 14227177: POWER OFF - is_active()
+Cycle 15048025: instructions towards forward progress=1000000
+Cycle 16261635: backup (Spendthrift backup scheme): 1.73802   1960.65
+Cycle 16261650: backup (Spendthrift backup scheme): 1.73802   1204.01
+Cycle 16261664: backup (Spendthrift backup scheme): 1.73802   1003.68
+Cycle 16261678: backup (Spendthrift backup scheme): 1.73802   803.347
+Cycle 16261692: backup (Spendthrift backup scheme): 1.73802   603.016
+Cycle 16261706: backup (Spendthrift backup scheme): 1.73802   402.685
+Cycle 16261721: backup (Spendthrift backup scheme): 1.73802   202.062
+cycle 16261735: POWER OFF - is_active()
+Cycle 16552377: instructions towards forward progress=1100000
+Cycle 18056475: instructions towards forward progress=1200000
+Cycle 18295551: backup (Spendthrift backup scheme): 1.21506   1916.42
+Cycle 18295565: backup (Spendthrift backup scheme): 1.21506   1120.36
+Cycle 18295583: backup (Spendthrift backup scheme): 1.21506   918.863
+Cycle 18295597: backup (Spendthrift backup scheme): 1.21506   718.532
+Cycle 18295611: backup (Spendthrift backup scheme): 1.21506   518.201
+Cycle 18295625: backup (Spendthrift backup scheme): 1.21506   317.87
+cycle 18295639: POWER OFF - is_active()
+Cycle 19560927: instructions towards forward progress=1300000
+Cycle 20328771: backup (Spendthrift backup scheme): 3.2246   2075.21
+Cycle 20328785: backup (Spendthrift backup scheme): 3.2246   1318.87
+Cycle 20328800: backup (Spendthrift backup scheme): 3.2246   1118.24
+Cycle 20328814: backup (Spendthrift backup scheme): 3.2246   917.913
+Cycle 20328828: backup (Spendthrift backup scheme): 3.2246   717.582
+Cycle 20328842: backup (Spendthrift backup scheme): 3.2246   517.251
+Cycle 20328856: backup (Spendthrift backup scheme): 3.2246   316.92
+cycle 20328870: POWER OFF - is_active()
+Cycle 21065358: instructions towards forward progress=1400000
+Cycle 22360582: backup (Spendthrift backup scheme): 4.61956   2196.38
+Cycle 22360627: backup (Spendthrift backup scheme): 4.61956   1430.97
+Cycle 22360641: backup (Spendthrift backup scheme): 4.60796   1230.64
+Cycle 22360655: backup (Spendthrift backup scheme): 4.60796   1030.31
+Cycle 22360669: backup (Spendthrift backup scheme): 4.60796   829.978
+Cycle 22360683: backup (Spendthrift backup scheme): 4.60796   629.647
+Cycle 22360697: backup (Spendthrift backup scheme): 4.60796   429.316
+Cycle 22360711: backup (Spendthrift backup scheme): 4.60796   228.985
+cycle 22360725: POWER OFF - is_active()
+Cycle 22570701: instructions towards forward progress=1500000
+Cycle 24075553: instructions towards forward progress=1600000
+Cycle 24395198: backup (Spendthrift backup scheme): 1.03574   1899.77
+Cycle 24395212: backup (Spendthrift backup scheme): 1.03574   1143.42
+Cycle 24395226: backup (Spendthrift backup scheme): 1.03574   943.092
+Cycle 24395240: backup (Spendthrift backup scheme): 1.03574   742.761
+Cycle 24395254: backup (Spendthrift backup scheme): 1.03574   542.43
+Cycle 24395268: backup (Spendthrift backup scheme): 1.03574   342.099
+cycle 24395313: POWER OFF - is_active()
+Cycle 25577050: instructions towards forward progress=1700000
+Cycle 26436900: backup (Spendthrift backup scheme): 1.53534   1943.8
+Cycle 26436914: backup (Spendthrift backup scheme): 1.53534   1147.74
+Cycle 26436928: backup (Spendthrift backup scheme): 1.53534   947.413
+Cycle 26436943: backup (Spendthrift backup scheme): 1.53534   746.789
+Cycle 26436957: backup (Spendthrift backup scheme): 1.53534   546.459
+Cycle 26436971: backup (Spendthrift backup scheme): 1.53534   346.128
+cycle 26436986: POWER OFF - is_active()
+Cycle 27075738: instructions towards forward progress=1800000
+Cycle 28479675: backup (Spendthrift backup scheme): 3.0796   2069.12
+Cycle 28479689: backup (Spendthrift backup scheme): 3.0796   1312.77
+Cycle 28479734: backup (Spendthrift backup scheme): 3.0796   1103.38
+Cycle 28479748: backup (Spendthrift backup scheme): 3.0796   903.046
+Cycle 28479762: backup (Spendthrift backup scheme): 3.0796   702.715
+Cycle 28479776: backup (Spendthrift backup scheme): 3.0796   462.669
+Cycle 28479790: backup (Spendthrift backup scheme): 3.0796   262.338
+cycle 28479804: POWER OFF - is_active()
+Cycle 28574587: instructions towards forward progress=1900000
+Cycle 30079295: instructions towards forward progress=2000000
+Cycle 30513311: backup (Spendthrift backup scheme): 3.31193   2089.51
+Cycle 30513325: backup (Spendthrift backup scheme): 3.31193   1333.17
+Cycle 30513339: backup (Spendthrift backup scheme): 3.31193   1132.84
+Cycle 30513353: backup (Spendthrift backup scheme): 3.31193   932.509
+Cycle 30513367: backup (Spendthrift backup scheme): 3.31193   732.178
+Cycle 30513381: backup (Spendthrift backup scheme): 3.31193   531.847
+Cycle 30513395: backup (Spendthrift backup scheme): 3.31193   331.516
+cycle 30513409: POWER OFF - is_active()
+Cycle 31583246: instructions towards forward progress=2100000
+Cycle 32546786: backup (Spendthrift backup scheme): 3.3883   2094.96
+Cycle 32546800: backup (Spendthrift backup scheme): 3.3883   1338.62
+Cycle 32546814: backup (Spendthrift backup scheme): 3.3883   1138.28
+Cycle 32546828: backup (Spendthrift backup scheme): 3.3883   937.954
+Cycle 32546842: backup (Spendthrift backup scheme): 3.3883   658.193
+Cycle 32546856: backup (Spendthrift backup scheme): 3.3883   457.862
+Cycle 32546874: backup (Spendthrift backup scheme): 3.3883   256.361
+cycle 32546888: POWER OFF - is_active()
+Cycle 33087646: instructions towards forward progress=2200000
+Cycle 34580266: backup (Spendthrift backup scheme): 3.38846   2094.57
+Cycle 34580281: backup (Spendthrift backup scheme): 3.38846   1337.93
+Cycle 34580295: backup (Spendthrift backup scheme): 3.38846   1137.6
+Cycle 34580309: backup (Spendthrift backup scheme): 3.38846   937.267
+Cycle 34580324: backup (Spendthrift backup scheme): 3.38846   736.644
+Cycle 34580338: backup (Spendthrift backup scheme): 3.38846   536.313
+Cycle 34580352: backup (Spendthrift backup scheme): 3.38846   335.982
+cycle 34580366: POWER OFF - is_active()
+Cycle 34592006: instructions towards forward progress=2300000
+Cycle 36096675: instructions towards forward progress=2400000
+Cycle 36613811: backup (Spendthrift backup scheme): 2.91897   2056.16
+Cycle 36613825: backup (Spendthrift backup scheme): 2.91897   1299.82
+Cycle 36613839: backup (Spendthrift backup scheme): 2.91897   1099.49
+Cycle 36613853: backup (Spendthrift backup scheme): 2.91897   899.155
+Cycle 36613867: backup (Spendthrift backup scheme): 2.91897   698.824
+Cycle 36613881: backup (Spendthrift backup scheme): 2.91897   498.493
+Cycle 36613895: backup (Spendthrift backup scheme): 2.91897   298.162
+cycle 36613909: POWER OFF - is_active()
+Cycle 37601946: instructions towards forward progress=2500000
+Cycle 38646909: backup (Spendthrift backup scheme): 2.93492   2057.38
+Cycle 38646924: backup (Spendthrift backup scheme): 2.93492   1300.74
+Cycle 38646938: backup (Spendthrift backup scheme): 2.93492   1100.41
+Cycle 38646952: backup (Spendthrift backup scheme): 2.93492   900.079
+Cycle 38646967: backup (Spendthrift backup scheme): 2.93492   699.456
+Cycle 38646981: backup (Spendthrift backup scheme): 2.93492   499.125
+Cycle 38646995: backup (Spendthrift backup scheme): 2.93492   298.794
+cycle 38647009: POWER OFF - is_active()
+Cycle 39106595: instructions towards forward progress=2600000
+Cycle 40611284: instructions towards forward progress=2700000
+Cycle 40679506: backup (Spendthrift backup scheme): 3.79302   2127.79
+Cycle 40679520: backup (Spendthrift backup scheme): 3.79302   1371.45
+Cycle 40679534: backup (Spendthrift backup scheme): 3.79302   1171.12
+Cycle 40679548: backup (Spendthrift backup scheme): 3.79302   970.788
+Cycle 40679562: backup (Spendthrift backup scheme): 3.79302   770.457
+Cycle 40679577: backup (Spendthrift backup scheme): 3.79302   569.833
+Cycle 40679591: backup (Spendthrift backup scheme): 3.79302   369.502
+cycle 40679605: POWER OFF - is_active()
+Cycle 42115337: instructions towards forward progress=2800000
+Cycle 42713960: backup (Spendthrift backup scheme): 0.47299   1847.37
+Cycle 42713974: backup (Spendthrift backup scheme): 0.47299   1091.02
+Cycle 42713988: backup (Spendthrift backup scheme): 0.47299   890.694
+Cycle 42714033: backup (Spendthrift backup scheme): 0.47299   681.295
+Cycle 42714047: backup (Spendthrift backup scheme): 0.47299   480.964
+Cycle 42714061: backup (Spendthrift backup scheme): 0.47299   280.633
+cycle 42714106: POWER OFF - is_active()
+Cycle 43619662: instructions towards forward progress=2900000
+Cycle 44746979: backup (Spendthrift backup scheme): 2.71516   2040.86
+Cycle 44746993: backup (Spendthrift backup scheme): 2.71516   1284.52
+Cycle 44747007: backup (Spendthrift backup scheme): 2.71516   1084.18
+Cycle 44747021: backup (Spendthrift backup scheme): 2.71516   883.854
+Cycle 44747035: backup (Spendthrift backup scheme): 2.71516   683.523
+Cycle 44747049: backup (Spendthrift backup scheme): 2.71516   483.192
+Cycle 44747063: backup (Spendthrift backup scheme): 2.71516   282.861
+cycle 44747077: POWER OFF - is_active()
+Cycle 45124736: instructions towards forward progress=3000000
+Cycle 46629741: instructions towards forward progress=3100000
+Cycle 46780766: backup (Spendthrift backup scheme): 3.50607   2104.07
+Cycle 46780780: backup (Spendthrift backup scheme): 3.50607   1347.73
+Cycle 46780794: backup (Spendthrift backup scheme): 3.50607   1147.4
+Cycle 46780808: backup (Spendthrift backup scheme): 3.50607   947.068
+Cycle 46780822: backup (Spendthrift backup scheme): 3.50607   746.737
+Cycle 46780836: backup (Spendthrift backup scheme): 3.50607   546.406
+Cycle 46780850: backup (Spendthrift backup scheme): 3.50607   346.075
+cycle 46780864: POWER OFF - is_active()
+Cycle 48134856: instructions towards forward progress=3200000
+Cycle 48814752: backup (Spendthrift backup scheme): 2.72934   2041.15
+Cycle 48814766: backup (Spendthrift backup scheme): 2.72934   1284.81
+Cycle 48814780: backup (Spendthrift backup scheme): 2.72934   1084.48
+Cycle 48814794: backup (Spendthrift backup scheme): 2.72934   884.148
+Cycle 48814808: backup (Spendthrift backup scheme): 2.72934   683.817
+Cycle 48814822: backup (Spendthrift backup scheme): 2.72934   483.486
+Cycle 48814836: backup (Spendthrift backup scheme): 2.72934   283.155
+cycle 48814850: POWER OFF - is_active()
+Cycle 49639526: instructions towards forward progress=3300000
+Cycle 50849624: backup (Spendthrift backup scheme): 0.344587   1846.45
+Cycle 50849638: backup (Spendthrift backup scheme): 0.344587   1090.1
+Cycle 50849652: backup (Spendthrift backup scheme): 0.344587   889.773
+Cycle 50849666: backup (Spendthrift backup scheme): 0.344587   689.442
+Cycle 50849680: backup (Spendthrift backup scheme): 0.344587   489.111
+Cycle 50849694: backup (Spendthrift backup scheme): 0.344587   288.78
+cycle 50849708: POWER OFF - is_active()
+Cycle 51143580: instructions towards forward progress=3400000
+Cycle 52648351: instructions towards forward progress=3500000
+Cycle 52883471: backup (Spendthrift backup scheme): 0.541783   1861.49
+Cycle 52883485: backup (Spendthrift backup scheme): 0.541783   1105.14
+Cycle 52883499: backup (Spendthrift backup scheme): 0.541783   904.814
+Cycle 52883544: backup (Spendthrift backup scheme): 0.541783   695.415
+Cycle 52883589: backup (Spendthrift backup scheme): 0.541783   486.017
+Cycle 52883603: backup (Spendthrift backup scheme): 0.541783   285.686
+cycle 52883617: POWER OFF - is_active()
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+Cycle 54154999: instructions towards forward progress=3600000
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+Cycle 54332128: backup (Spendthrift backup scheme): 2.26389   2003.53
+Cycle 54332142: backup (Spendthrift backup scheme): 2.26389   1564.91
+Cycle 54332156: backup (Spendthrift backup scheme): 2.26389   1364.57
+Cycle 54332170: backup (Spendthrift backup scheme): 2.26389   1164.24
+Cycle 54332184: backup (Spendthrift backup scheme): 2.26389   963.913
+Cycle 54332202: backup (Spendthrift backup scheme): 2.26389   722.697
+Cycle 54332216: backup (Spendthrift backup scheme): 2.26389   522.366
+Cycle 54332230: backup (Spendthrift backup scheme): 2.26389   322.035
+cycle 54332244: POWER OFF - is_active()
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+Cycle 55519653: backup (Spendthrift backup scheme): 4.28653   2168.57
+Cycle 55519667: backup (Spendthrift backup scheme): 4.28653   1888.81
+Cycle 55519681: backup (Spendthrift backup scheme): 4.28653   1648.76
+Cycle 55519695: backup (Spendthrift backup scheme): 4.28653   1448.43
+Cycle 55519709: backup (Spendthrift backup scheme): 4.28653   1248.1
+Cycle 55519754: backup (Spendthrift backup scheme): 4.28653   1038.7
+Cycle 55519768: backup (Spendthrift backup scheme): 4.28653   838.372
+Cycle 55519782: backup (Spendthrift backup scheme): 4.28653   638.042
+Cycle 55519796: backup (Spendthrift backup scheme): 4.28653   397.995
+cycle 55519810: POWER OFF - is_active()
+Cycle 55695793: instructions towards forward progress=3700000
+Cycle 57201952: instructions towards forward progress=3800000
+Cycle 57544502: backup (Spendthrift backup scheme): 3.77627   2125.3
+Cycle 57544516: backup (Spendthrift backup scheme): 3.77627   1368.96
+Cycle 57544531: backup (Spendthrift backup scheme): 3.77627   1168.33
+Cycle 57544545: backup (Spendthrift backup scheme): 3.77627   968.003
+Cycle 57544559: backup (Spendthrift backup scheme): 3.77627   767.672
+Cycle 57544573: backup (Spendthrift backup scheme): 3.77627   567.341
+Cycle 57544587: backup (Spendthrift backup scheme): 3.77627   367.01
+cycle 57544601: POWER OFF - is_active()
+rename_addr: (backup) map table full
+Cycle 58708082: instructions towards forward progress=3900000
+Cycle 59569681: backup (Spendthrift backup scheme): 2.24326   2000.49
+Cycle 59569695: backup (Spendthrift backup scheme): 2.24326   1244.15
+Cycle 59569709: backup (Spendthrift backup scheme): 2.24326   1043.81
+Cycle 59569723: backup (Spendthrift backup scheme): 2.24326   843.484
+Cycle 59569737: backup (Spendthrift backup scheme): 2.24326   643.153
+Cycle 59569753: backup (Spendthrift backup scheme): 2.24326   442.237
+cycle 59569767: POWER OFF - is_active()
+Cycle 60214989: instructions towards forward progress=4000000
+rename_addr: (backup) map table full
+Cycle 61597423: backup (Spendthrift backup scheme): 0.443507   1854.4
+Cycle 61597437: backup (Spendthrift backup scheme): 0.443507   1137.77
+Cycle 61597455: backup (Spendthrift backup scheme): 0.443507   936.271
+Cycle 61597469: backup (Spendthrift backup scheme): 0.443507   735.94
+Cycle 61597483: backup (Spendthrift backup scheme): 0.443507   535.609
+Cycle 61597497: backup (Spendthrift backup scheme): 0.443507   335.278
+cycle 61597511: POWER OFF - is_active()
+Cycle 61718274: instructions towards forward progress=4100000
+rename_addr: (backup) map table full
+Cycle 63222388: instructions towards forward progress=4200000
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+Cycle 63614009: backup (Spendthrift backup scheme): 2.56726   2027.98
+Cycle 63614023: backup (Spendthrift backup scheme): 2.56726   1668.79
+Cycle 63614037: backup (Spendthrift backup scheme): 2.56726   1468.46
+Cycle 63614052: backup (Spendthrift backup scheme): 2.56726   1267.84
+Cycle 63614066: backup (Spendthrift backup scheme): 2.56726   1067.5
+Cycle 63614080: backup (Spendthrift backup scheme): 2.56726   867.174
+Cycle 63614094: backup (Spendthrift backup scheme): 2.56726   666.843
+Cycle 63614108: backup (Spendthrift backup scheme): 2.56726   466.512
+Cycle 63614122: backup (Spendthrift backup scheme): 2.56726   266.181
+cycle 63614136: POWER OFF - is_active()
+Cycle 64727966: instructions towards forward progress=4300000
+Cycle 65647819: backup (Spendthrift backup scheme): 0.89155   1890.01
+Cycle 65647833: backup (Spendthrift backup scheme): 0.89155   1133.67
+Cycle 65647847: backup (Spendthrift backup scheme): 0.89155   933.335
+Cycle 65647861: backup (Spendthrift backup scheme): 0.89155   733.004
+Cycle 65647875: backup (Spendthrift backup scheme): 0.89155   532.673
+Cycle 65647889: backup (Spendthrift backup scheme): 0.89155   332.342
+cycle 65647903: POWER OFF - is_active()
+Cycle 66231947: instructions towards forward progress=4400000
+Cycle 67670698: backup (Spendthrift backup scheme): 0.107758   1827.42
+Cycle 67670712: backup (Spendthrift backup scheme): 0.107758   1071.07
+Cycle 67670726: backup (Spendthrift backup scheme): 0.107758   870.741
+Cycle 67670741: backup (Spendthrift backup scheme): 0.107758   670.118
+Cycle 67670755: backup (Spendthrift backup scheme): 0.107758   469.787
+Cycle 67670769: backup (Spendthrift backup scheme): 0.107758   269.456
+cycle 67670783: POWER OFF - is_active()
+Cycle 67736905: instructions towards forward progress=4500000
+Cycle 69241131: instructions towards forward progress=4600000
+rename_addr: (backup) map table full
+Cycle 69675694: backup (Spendthrift backup scheme): 0.333309   1845.82
+Cycle 69675708: backup (Spendthrift backup scheme): 0.333309   1168.91
+Cycle 69675722: backup (Spendthrift backup scheme): 0.333309   968.576
+Cycle 69675736: backup (Spendthrift backup scheme): 0.333309   768.245
+Cycle 69675750: backup (Spendthrift backup scheme): 0.333309   567.914
+Cycle 69675765: backup (Spendthrift backup scheme): 0.333309   367.29
+cycle 69675779: POWER OFF - is_active()
+Cycle 70744798: instructions towards forward progress=4700000
+Cycle 71705605: backup (Spendthrift backup scheme): 4.61956   2196.05
+Cycle 71705619: backup (Spendthrift backup scheme): 4.61956   1439.71
+Cycle 71705633: backup (Spendthrift backup scheme): 4.61956   1239.38
+Cycle 71705678: backup (Spendthrift backup scheme): 4.61956   1029.98
+Cycle 71705692: backup (Spendthrift backup scheme): 4.61956   829.651
+Cycle 71705706: backup (Spendthrift backup scheme): 4.61956   629.32
+Cycle 71705720: backup (Spendthrift backup scheme): 4.61956   428.989
+Cycle 71705735: backup (Spendthrift backup scheme): 4.61956   228.365
+cycle 71705749: POWER OFF - is_active()
+Cycle 72251081: instructions towards forward progress=4800000
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+Cycle 73672045: backup (Spendthrift backup scheme): 0.721419   1872.46
+Cycle 73672059: backup (Spendthrift backup scheme): 0.721419   1433.84
+Cycle 73672073: backup (Spendthrift backup scheme): 0.721419   1233.51
+Cycle 73672087: backup (Spendthrift backup scheme): 0.721419   1033.18
+Cycle 73672101: backup (Spendthrift backup scheme): 0.721419   832.844
+Cycle 73672115: backup (Spendthrift backup scheme): 0.721419   632.513
+Cycle 73672160: backup (Spendthrift backup scheme): 0.721419   423.115
+Cycle 73672174: backup (Spendthrift backup scheme): 0.721419   222.784
+cycle 73672189: POWER OFF - is_active()
+Cycle 73757981: instructions towards forward progress=4900000
+rename_addr: (backup) map table full
+Cycle 75263689: instructions towards forward progress=5000000
+Cycle 75695359: backup (Spendthrift backup scheme): 5.20508   2244
+Cycle 75695373: backup (Spendthrift backup scheme): 5.20508   1527.37
+Cycle 75695387: backup (Spendthrift backup scheme): 5.20508   1327.04
+Cycle 75695401: backup (Spendthrift backup scheme): 5.20508   1126.71
+Cycle 75695415: backup (Spendthrift backup scheme): 5.20508   926.374
+Cycle 75695429: backup (Spendthrift backup scheme): 5.20508   726.043
+Cycle 75695443: backup (Spendthrift backup scheme): 5.20508   525.712
+Cycle 75695457: backup (Spendthrift backup scheme): 5.20508   285.666
+cycle 75695471: POWER OFF - is_active()
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+Cycle 76782026: instructions towards forward progress=5100000
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+Cycle 77451712: backup (Spendthrift backup scheme): 3.23878   2082.29
+Cycle 77451726: backup (Spendthrift backup scheme): 3.23878   1842.24
+Cycle 77451771: backup (Spendthrift backup scheme): 3.23878   1632.84
+Cycle 77451785: backup (Spendthrift backup scheme): 3.23878   1432.51
+Cycle 77451799: backup (Spendthrift backup scheme): 3.23878   1232.18
+Cycle 77451813: backup (Spendthrift backup scheme): 3.23878   1031.85
+Cycle 77451827: backup (Spendthrift backup scheme): 3.23878   831.518
+Cycle 77451872: backup (Spendthrift backup scheme): 3.23878   622.12
+Cycle 77451886: backup (Spendthrift backup scheme): 3.23878   421.789
+cycle 77451900: POWER OFF - is_active()
+Cycle 78509220: instructions towards forward progress=5200000
+Cycle 79006659: backup (Spendthrift backup scheme): 2.77848   2036.55
+Cycle 79006673: backup (Spendthrift backup scheme): 2.77848   1756.79
+Cycle 79006687: backup (Spendthrift backup scheme): 2.77848   1516.74
+Cycle 79006701: backup (Spendthrift backup scheme): 2.77848   1316.41
+Cycle 79006716: backup (Spendthrift backup scheme): 2.77848   1115.79
+Cycle 79006730: backup (Spendthrift backup scheme): 2.77848   915.456
+Cycle 79006744: backup (Spendthrift backup scheme): 2.77848   715.125
+Cycle 79006758: backup (Spendthrift backup scheme): 2.77848   514.794
+Cycle 79006772: backup (Spendthrift backup scheme): 2.77848   314.463
+cycle 79006786: POWER OFF - is_active()
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+Cycle 80236219: instructions towards forward progress=5300000
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+Cycle 80519199: backup (Spendthrift backup scheme): 0.699186   1874.38
+Cycle 80519213: backup (Spendthrift backup scheme): 0.699186   1634.33
+Cycle 80519227: backup (Spendthrift backup scheme): 0.699186   1434
+Cycle 80519242: backup (Spendthrift backup scheme): 0.699186   1233.38
+Cycle 80519256: backup (Spendthrift backup scheme): 0.699186   1033.05
+Cycle 80519270: backup (Spendthrift backup scheme): 0.699186   832.716
+Cycle 80519284: backup (Spendthrift backup scheme): 0.699186   632.385
+Cycle 80519298: backup (Spendthrift backup scheme): 0.699186   432.054
+Cycle 80519312: backup (Spendthrift backup scheme): 0.699186   231.723
+cycle 80519326: POWER OFF - is_active()
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+Cycle 81963391: instructions towards forward progress=5400000
+rename_addr: (backup) map table full
+Cycle 82032458: backup (Spendthrift backup scheme): 2.80684   2048.03
+Cycle 82032472: backup (Spendthrift backup scheme): 2.80684   1807.99
+Cycle 82032486: backup (Spendthrift backup scheme): 2.80684   1607.66
+Cycle 82032500: backup (Spendthrift backup scheme): 2.80684   1407.33
+Cycle 82032514: backup (Spendthrift backup scheme): 2.80684   1206.99
+Cycle 82032528: backup (Spendthrift backup scheme): 2.80684   1006.66
+Cycle 82032542: backup (Spendthrift backup scheme): 2.80684   806.332
+Cycle 82032587: backup (Spendthrift backup scheme): 2.80684   596.934
+Cycle 82032601: backup (Spendthrift backup scheme): 2.80684   396.603
+cycle 82032615: POWER OFF - is_active()
+Cycle 83567517: backup (Spendthrift backup scheme): 4.37708   2175.71
+Cycle 83567531: backup (Spendthrift backup scheme): 4.35951   1856.23
+Cycle 83567545: backup (Spendthrift backup scheme): 4.35951   1655.9
+Cycle 83567559: backup (Spendthrift backup scheme): 4.35951   1455.57
+Cycle 83567604: backup (Spendthrift backup scheme): 4.35951   1246.17
+Cycle 83567618: backup (Spendthrift backup scheme): 4.35951   1045.84
+Cycle 83567632: backup (Spendthrift backup scheme): 4.35951   805.792
+Cycle 83567646: backup (Spendthrift backup scheme): 4.35951   605.461
+Cycle 83567661: backup (Spendthrift backup scheme): 4.35951   404.837
+Cycle 83567675: backup (Spendthrift backup scheme): 4.35951   204.506
+cycle 83567689: POWER OFF - is_active()
+rename_addr: (backup) map table full
+Cycle 83690840: instructions towards forward progress=5500000
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+Cycle 85070733: backup (Spendthrift backup scheme): 4.60071   2193.56
+Cycle 85070747: backup (Spendthrift backup scheme): 4.60071   1953.51
+Cycle 85070792: backup (Spendthrift backup scheme): 4.60071   1744.11
+Cycle 85070806: backup (Spendthrift backup scheme): 4.60071   1543.78
+Cycle 85070820: backup (Spendthrift backup scheme): 4.60071   1303.74
+Cycle 85070834: backup (Spendthrift backup scheme): 4.60071   1103.41
+Cycle 85070849: backup (Spendthrift backup scheme): 4.60071   902.782
+Cycle 85070863: backup (Spendthrift backup scheme): 4.60071   702.451
+Cycle 85070877: backup (Spendthrift backup scheme): 4.60071   502.12
+Cycle 85070891: backup (Spendthrift backup scheme): 4.60071   301.79
+cycle 85070905: POWER OFF - is_active()
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+Cycle 85418043: instructions towards forward progress=5600000
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+Cycle 86587621: backup (Spendthrift backup scheme): 2.80055   2047.07
+Cycle 86587635: backup (Spendthrift backup scheme): 2.80055   1807.03
+Cycle 86587650: backup (Spendthrift backup scheme): 2.80055   1606.4
+Cycle 86587664: backup (Spendthrift backup scheme): 2.80055   1406.07
+Cycle 86587678: backup (Spendthrift backup scheme): 2.80055   1205.74
+Cycle 86587692: backup (Spendthrift backup scheme): 2.80055   1005.41
+Cycle 86587706: backup (Spendthrift backup scheme): 2.80055   805.08
+Cycle 86587720: backup (Spendthrift backup scheme): 2.80055   604.749
+Cycle 86587734: backup (Spendthrift backup scheme): 2.80055   404.418
+Cycle 86587748: backup (Spendthrift backup scheme): 2.80055   204.087
+cycle 86587762: POWER OFF - is_active()
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+Cycle 87145446: instructions towards forward progress=5700000
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+Cycle 88091929: backup (Spendthrift backup scheme): 0.249211   1838.3
+Cycle 88091944: backup (Spendthrift backup scheme): 0.249211   1597.96
+Cycle 88091958: backup (Spendthrift backup scheme): 0.249211   1397.63
+Cycle 88091972: backup (Spendthrift backup scheme): 0.249211   1197.3
+Cycle 88091986: backup (Spendthrift backup scheme): 0.249211   996.971
+Cycle 88092000: backup (Spendthrift backup scheme): 0.249211   796.64
+Cycle 88092014: backup (Spendthrift backup scheme): 0.249211   596.309
+Cycle 88092028: backup (Spendthrift backup scheme): 0.249211   395.978
+cycle 88092042: POWER OFF - is_active()
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+Cycle 88872688: instructions towards forward progress=5800000
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+Cycle 89597124: backup (Spendthrift backup scheme): 3.01532   2060.17
+Cycle 89597138: backup (Spendthrift backup scheme): 3.01532   1820.12
+Cycle 89597152: backup (Spendthrift backup scheme): 3.01532   1619.79
+Cycle 89597166: backup (Spendthrift backup scheme): 3.01532   1419.46
+Cycle 89597180: backup (Spendthrift backup scheme): 3.01532   1219.13
+Cycle 89597225: backup (Spendthrift backup scheme): 3.01532   1009.73
+Cycle 89597239: backup (Spendthrift backup scheme): 3.01532   809.402
+Cycle 89597253: backup (Spendthrift backup scheme): 3.01532   569.356
+Cycle 89597267: backup (Spendthrift backup scheme): 3.01532   369.025
+cycle 89597282: POWER OFF - is_active()
+Cycle 90599974: instructions towards forward progress=5900000
+Cycle 91135491: backup (Spendthrift backup scheme): 3.47417   2098.83
+Cycle 91135505: backup (Spendthrift backup scheme): 3.47417   1779.35
+Cycle 91135519: backup (Spendthrift backup scheme): 3.47417   1579.02
+Cycle 91135533: backup (Spendthrift backup scheme): 3.47417   1378.69
+Cycle 91135547: backup (Spendthrift backup scheme): 3.47417   1178.36
+Cycle 91135592: backup (Spendthrift backup scheme): 3.47417   968.963
+Cycle 91135606: backup (Spendthrift backup scheme): 3.47417   768.632
+Cycle 91135620: backup (Spendthrift backup scheme): 3.47417   528.586
+Cycle 91135634: backup (Spendthrift backup scheme): 3.47417   328.255
+cycle 91135648: POWER OFF - is_active()
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+Cycle 92327115: instructions towards forward progress=6000000
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+Cycle 92657963: backup (Spendthrift backup scheme): 0.739624   1846.77
+Cycle 92657977: backup (Spendthrift backup scheme): 0.739624   1527.3
+Cycle 92657991: backup (Spendthrift backup scheme): 0.739624   1326.97
+Cycle 92658036: backup (Spendthrift backup scheme): 0.739624   1117.57
+Cycle 92658050: backup (Spendthrift backup scheme): 0.739624   917.236
+Cycle 92658064: backup (Spendthrift backup scheme): 0.739624   716.905
+Cycle 92658078: backup (Spendthrift backup scheme): 0.739624   516.575
+Cycle 92658092: backup (Spendthrift backup scheme): 0.739624   316.244
+cycle 92658106: POWER OFF - is_active()
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+Cycle 94054238: instructions towards forward progress=6100000
+rename_addr: (backup) map table full
+Cycle 94168554: backup (Spendthrift backup scheme): 0.26355   1838.73
+Cycle 94168568: backup (Spendthrift backup scheme): 0.26355   1598.69
+Cycle 94168583: backup (Spendthrift backup scheme): 0.26355   1398.06
+Cycle 94168597: backup (Spendthrift backup scheme): 0.26355   1197.73
+Cycle 94168611: backup (Spendthrift backup scheme): 0.26355   997.401
+Cycle 94168625: backup (Spendthrift backup scheme): 0.26355   797.07
+Cycle 94168639: backup (Spendthrift backup scheme): 0.26355   596.739
+Cycle 94168653: backup (Spendthrift backup scheme): 0.26355   396.408
+cycle 94168667: POWER OFF - is_active()
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+Cycle 95686494: backup (Spendthrift backup scheme): 2.10439   1990.85
+Cycle 95686539: backup (Spendthrift backup scheme): 2.10439   1741.73
+Cycle 95686553: backup (Spendthrift backup scheme): 2.10439   1541.4
+Cycle 95686567: backup (Spendthrift backup scheme): 2.10439   1301.36
+Cycle 95686581: backup (Spendthrift backup scheme): 2.10439   1101.03
+Cycle 95686596: backup (Spendthrift backup scheme): 2.10439   900.402
+Cycle 95686610: backup (Spendthrift backup scheme): 2.10439   700.071
+Cycle 95686624: backup (Spendthrift backup scheme): 2.10439   499.74
+Cycle 95686638: backup (Spendthrift backup scheme): 2.10439   299.409
+cycle 95686652: POWER OFF - is_active()
+rename_addr: (backup) map table full
+Cycle 95781491: instructions towards forward progress=6200000
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+Cycle 97200273: backup (Spendthrift backup scheme): 3.64254   2096.99
+Cycle 97200287: backup (Spendthrift backup scheme): 3.64254   1856.95
+Cycle 97200332: backup (Spendthrift backup scheme): 3.64254   1647.55
+Cycle 97200346: backup (Spendthrift backup scheme): 3.64254   1447.22
+Cycle 97200360: backup (Spendthrift backup scheme): 3.64254   1246.89
+Cycle 97200374: backup (Spendthrift backup scheme): 3.64254   1046.56
+Cycle 97200388: backup (Spendthrift backup scheme): 3.64254   846.225
+Cycle 97200433: backup (Spendthrift backup scheme): 3.64254   636.827
+Cycle 97200447: backup (Spendthrift backup scheme): 3.64254   436.496
+cycle 97200461: POWER OFF - is_active()
+rename_addr: (backup) map table full
+Cycle 97508513: instructions towards forward progress=6300000
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+Cycle 98724272: backup (Spendthrift backup scheme): 0.539367   1855.66
+Cycle 98724286: backup (Spendthrift backup scheme): 0.539367   1615.62
+Cycle 98724300: backup (Spendthrift backup scheme): 0.539367   1375.57
+Cycle 98724314: backup (Spendthrift backup scheme): 0.539367   1175.24
+Cycle 98724329: backup (Spendthrift backup scheme): 0.539367   974.618
+Cycle 98724343: backup (Spendthrift backup scheme): 0.539367   774.287
+Cycle 98724357: backup (Spendthrift backup scheme): 0.539367   573.956
+Cycle 98724371: backup (Spendthrift backup scheme): 0.539367   373.625
+cycle 98724385: POWER OFF - is_active()
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+Cycle 99235555: instructions towards forward progress=6400000
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+Cycle 100228846: backup (Spendthrift backup scheme): 2.40502   2010.22
+Cycle 100228860: backup (Spendthrift backup scheme): 2.40502   1770.17
+Cycle 100228874: backup (Spendthrift backup scheme): 2.40502   1569.84
+Cycle 100228888: backup (Spendthrift backup scheme): 2.40502   1369.51
+Cycle 100228902: backup (Spendthrift backup scheme): 2.40502   1169.18
+Cycle 100228947: backup (Spendthrift backup scheme): 2.40502   959.782
+Cycle 100228961: backup (Spendthrift backup scheme): 2.40502   759.451
+Cycle 100228975: backup (Spendthrift backup scheme): 2.40502   519.405
+Cycle 100228989: backup (Spendthrift backup scheme): 2.40502   319.074
+cycle 100229004: POWER OFF - is_active()
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+Cycle 100962994: instructions towards forward progress=6500000
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+Cycle 101738861: backup (Spendthrift backup scheme): 3.68781   2120.01
+Cycle 101738875: backup (Spendthrift backup scheme): 3.68781   1879.96
+Cycle 101738889: backup (Spendthrift backup scheme): 3.68781   1639.92
+Cycle 101738903: backup (Spendthrift backup scheme): 3.68781   1439.58
+Cycle 101738918: backup (Spendthrift backup scheme): 3.68781   1238.96
+Cycle 101738932: backup (Spendthrift backup scheme): 3.68781   1038.63
+Cycle 101738950: backup (Spendthrift backup scheme): 3.68781   797.414
+Cycle 101738964: backup (Spendthrift backup scheme): 3.68781   597.083
+Cycle 101738978: backup (Spendthrift backup scheme): 3.68781   396.752
+cycle 101738992: POWER OFF - is_active()
+Cycle 102689923: instructions towards forward progress=6600000
+Cycle 103294057: backup (Spendthrift backup scheme): 3.88744   2136.76
+Cycle 103294071: backup (Spendthrift backup scheme): 3.88744   1857
+Cycle 103294085: backup (Spendthrift backup scheme): 3.88744   1656.67
+Cycle 103294099: backup (Spendthrift backup scheme): 3.88744   1456.34
+Cycle 103294113: backup (Spendthrift backup scheme): 3.88744   1256.01
+Cycle 103294127: backup (Spendthrift backup scheme): 3.88744   1055.68
+Cycle 103294141: backup (Spendthrift backup scheme): 3.88744   855.344
+Cycle 103294186: backup (Spendthrift backup scheme): 3.88744   645.946
+Cycle 103294200: backup (Spendthrift backup scheme): 3.88744   445.615
+Cycle 103294214: backup (Spendthrift backup scheme): 3.88744   245.284
+cycle 103294228: POWER OFF - is_active()
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+Cycle 104417103: instructions towards forward progress=6700000
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+Cycle 104814298: backup (Spendthrift backup scheme): 0.269188   1839.27
+Cycle 104814312: backup (Spendthrift backup scheme): 0.269188   1599.22
+Cycle 104814326: backup (Spendthrift backup scheme): 0.269188   1398.89
+Cycle 104814341: backup (Spendthrift backup scheme): 0.269188   1198.27
+Cycle 104814355: backup (Spendthrift backup scheme): 0.269188   997.935
+Cycle 104814369: backup (Spendthrift backup scheme): 0.269188   797.604
+Cycle 104814383: backup (Spendthrift backup scheme): 0.269188   597.273
+Cycle 104814397: backup (Spendthrift backup scheme): 0.269188   396.942
+cycle 104814411: POWER OFF - is_active()
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+Cycle 106144052: instructions towards forward progress=6800000
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+Cycle 106328814: backup (Spendthrift backup scheme): 0.998526   1897.87
+Cycle 106328828: backup (Spendthrift backup scheme): 0.998526   1657.82
+Cycle 106328842: backup (Spendthrift backup scheme): 0.998526   1417.77
+Cycle 106328856: backup (Spendthrift backup scheme): 0.998526   1217.44
+Cycle 106328871: backup (Spendthrift backup scheme): 0.998526   1016.82
+Cycle 106328885: backup (Spendthrift backup scheme): 0.998526   816.488
+Cycle 106328899: backup (Spendthrift backup scheme): 0.998526   616.157
+Cycle 106328913: backup (Spendthrift backup scheme): 0.998526   415.827
+Cycle 106328927: backup (Spendthrift backup scheme): 0.998526   215.496
+cycle 106328941: POWER OFF - is_active()
+Cycle 107871057: instructions towards forward progress=6900000
+Cycle 107877005: backup (Spendthrift backup scheme): 3.15661   2075.44
+Cycle 107877019: backup (Spendthrift backup scheme): 3.15661   1795.68
+Cycle 107877034: backup (Spendthrift backup scheme): 3.15661   1595.06
+Cycle 107877048: backup (Spendthrift backup scheme): 3.15661   1394.73
+Cycle 107877062: backup (Spendthrift backup scheme): 3.15661   1194.4
+Cycle 107877076: backup (Spendthrift backup scheme): 3.15661   994.067
+Cycle 107877090: backup (Spendthrift backup scheme): 3.15661   793.736
+Cycle 107877104: backup (Spendthrift backup scheme): 3.15661   593.405
+Cycle 107877118: backup (Spendthrift backup scheme): 3.15661   393.074
+cycle 107877132: POWER OFF - is_active()
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+Cycle 109393798: backup (Spendthrift backup scheme): 3.44259   2099.35
+Cycle 109393843: backup (Spendthrift backup scheme): 3.44259   1850.23
+Cycle 109393857: backup (Spendthrift backup scheme): 3.44259   1649.9
+Cycle 109393871: backup (Spendthrift backup scheme): 3.44259   1409.86
+Cycle 109393885: backup (Spendthrift backup scheme): 3.44259   1209.53
+Cycle 109393900: backup (Spendthrift backup scheme): 3.44259   1008.9
+Cycle 109393914: backup (Spendthrift backup scheme): 3.44259   808.572
+Cycle 109393928: backup (Spendthrift backup scheme): 3.44259   608.241
+Cycle 109393942: backup (Spendthrift backup scheme): 3.44259   407.91
+Cycle 109393956: backup (Spendthrift backup scheme): 3.44259   207.579
+cycle 109393970: POWER OFF - is_active()
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+Cycle 109598364: instructions towards forward progress=7000000
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+Cycle 110910843: backup (Spendthrift backup scheme): 0.542266   1862.57
+Cycle 110910888: backup (Spendthrift backup scheme): 0.542266   1613.46
+Cycle 110910902: backup (Spendthrift backup scheme): 0.542266   1413.12
+Cycle 110910916: backup (Spendthrift backup scheme): 0.542266   1173.08
+Cycle 110910930: backup (Spendthrift backup scheme): 0.542266   972.748
+Cycle 110910945: backup (Spendthrift backup scheme): 0.542266   772.124
+Cycle 110910959: backup (Spendthrift backup scheme): 0.542266   571.793
+Cycle 110910973: backup (Spendthrift backup scheme): 0.542266   371.462
+cycle 110910987: POWER OFF - is_active()
+Cycle 111325409: instructions towards forward progress=7100000
+Cycle 112446333: backup (Spendthrift backup scheme): 1.60494   1949.12
+Cycle 112446347: backup (Spendthrift backup scheme): 1.60494   1629.64
+Cycle 112446361: backup (Spendthrift backup scheme): 1.60494   1429.31
+Cycle 112446406: backup (Spendthrift backup scheme): 1.60494   1219.91
+Cycle 112446420: backup (Spendthrift backup scheme): 1.60494   1019.58
+Cycle 112446434: backup (Spendthrift backup scheme): 1.60494   819.252
+Cycle 112446448: backup (Spendthrift backup scheme): 1.60494   618.921
+Cycle 112446462: backup (Spendthrift backup scheme): 1.60494   418.59
+Cycle 112446507: backup (Spendthrift backup scheme): 1.60494   209.192
+cycle 112446521: POWER OFF - is_active()
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+Cycle 113052978: instructions towards forward progress=7200000
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+Cycle 113944166: backup (Spendthrift backup scheme): 1.62991   1950.82
+Cycle 113944180: backup (Spendthrift backup scheme): 1.62991   1710.78
+Cycle 113944194: backup (Spendthrift backup scheme): 1.62991   1510.44
+Cycle 113944239: backup (Spendthrift backup scheme): 1.62991   1301.05
+Cycle 113944253: backup (Spendthrift backup scheme): 1.62991   1100.72
+Cycle 113944267: backup (Spendthrift backup scheme): 1.62991   900.384
+Cycle 113944281: backup (Spendthrift backup scheme): 1.62991   700.053
+Cycle 113944295: backup (Spendthrift backup scheme): 1.62991   499.722
+Cycle 113944340: backup (Spendthrift backup scheme): 1.62991   290.324
+cycle 113944354: POWER OFF - is_active()
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+Cycle 114780144: instructions towards forward progress=7300000
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+Cycle 115461493: backup (Spendthrift backup scheme): 3.64093   2110.72
+Cycle 115461507: backup (Spendthrift backup scheme): 3.64093   1870.68
+Cycle 115461521: backup (Spendthrift backup scheme): 3.64093   1670.34
+Cycle 115461535: backup (Spendthrift backup scheme): 3.64093   1470.01
+Cycle 115461549: backup (Spendthrift backup scheme): 3.64093   1269.68
+Cycle 115461594: backup (Spendthrift backup scheme): 3.64093   1060.28
+Cycle 115461608: backup (Spendthrift backup scheme): 3.64093   859.953
+Cycle 115461622: backup (Spendthrift backup scheme): 3.64093   619.907
+Cycle 115461636: backup (Spendthrift backup scheme): 3.65398   419.576
+Cycle 115461651: backup (Spendthrift backup scheme): 3.65398   218.953
+cycle 115461665: POWER OFF - is_active()
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+Cycle 116507259: instructions towards forward progress=7400000
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+Cycle 116967414: backup (Spendthrift backup scheme): 2.84051   2049.74
+Cycle 116967459: backup (Spendthrift backup scheme): 2.84051   1800.62
+Cycle 116967473: backup (Spendthrift backup scheme): 2.84051   1600.29
+Cycle 116967487: backup (Spendthrift backup scheme): 2.84051   1360.25
+Cycle 116967501: backup (Spendthrift backup scheme): 2.84051   1159.92
+Cycle 116967516: backup (Spendthrift backup scheme): 2.84051   959.293
+Cycle 116967530: backup (Spendthrift backup scheme): 2.84051   758.962
+Cycle 116967544: backup (Spendthrift backup scheme): 2.84051   558.631
+Cycle 116967558: backup (Spendthrift backup scheme): 2.84051   358.3
+cycle 116967572: POWER OFF - is_active()
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+Cycle 118234623: instructions towards forward progress=7500000
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+Cycle 118477936: backup (Spendthrift backup scheme): 4.11655   2154.08
+Cycle 118477950: backup (Spendthrift backup scheme): 4.11655   1914.03
+Cycle 118477964: backup (Spendthrift backup scheme): 4.11655   1713.7
+Cycle 118477978: backup (Spendthrift backup scheme): 4.11655   1513.37
+Cycle 118477992: backup (Spendthrift backup scheme): 4.11655   1313.04
+Cycle 118478006: backup (Spendthrift backup scheme): 4.11655   1112.71
+Cycle 118478020: backup (Spendthrift backup scheme): 4.11655   912.374
+Cycle 118478065: backup (Spendthrift backup scheme): 4.11655   702.976
+Cycle 118478079: backup (Spendthrift backup scheme): 4.11655   502.645
+Cycle 118478093: backup (Spendthrift backup scheme): 4.11655   302.314
+cycle 118478107: POWER OFF - is_active()
+Cycle 119961581: instructions towards forward progress=7600000
+Cycle 120027565: backup (Spendthrift backup scheme): 3.5391   2107.47
+Cycle 120027579: backup (Spendthrift backup scheme): 3.5391   1827.71
+Cycle 120027593: backup (Spendthrift backup scheme): 3.5391   1627.38
+Cycle 120027638: backup (Spendthrift backup scheme): 3.5391   1417.98
+Cycle 120027652: backup (Spendthrift backup scheme): 3.5391   1217.65
+Cycle 120027666: backup (Spendthrift backup scheme): 3.5391   1017.32
+Cycle 120027680: backup (Spendthrift backup scheme): 3.5391   816.991
+Cycle 120027694: backup (Spendthrift backup scheme): 3.54007   616.66
+Cycle 120027739: backup (Spendthrift backup scheme): 3.54007   407.261
+cycle 120027753: POWER OFF - is_active()
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+Cycle 121538585: backup (Spendthrift backup scheme): 2.91607   2056.93
+Cycle 121538630: backup (Spendthrift backup scheme): 2.91607   1728.38
+Cycle 121538644: backup (Spendthrift backup scheme): 2.91607   1528.05
+Cycle 121538658: backup (Spendthrift backup scheme): 2.91607   1288
+Cycle 121538672: backup (Spendthrift backup scheme): 2.91607   1087.67
+Cycle 121538687: backup (Spendthrift backup scheme): 2.91607   887.05
+Cycle 121538701: backup (Spendthrift backup scheme): 2.91607   686.719
+Cycle 121538719: backup (Spendthrift backup scheme): 2.91607   445.503
+Cycle 121538733: backup (Spendthrift backup scheme): 2.91607   245.172
+cycle 121538747: POWER OFF - is_active()
+rename_addr: (backup) map table full
+Cycle 121688738: instructions towards forward progress=7700000
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+Cycle 123042860: backup (Spendthrift backup scheme): 3.99377   2142.58
+Cycle 123042874: backup (Spendthrift backup scheme): 3.99377   1902.53
+Cycle 123042888: backup (Spendthrift backup scheme): 3.99377   1702.2
+Cycle 123042902: backup (Spendthrift backup scheme): 3.99377   1501.87
+Cycle 123042916: backup (Spendthrift backup scheme): 3.99377   1301.54
+Cycle 123042930: backup (Spendthrift backup scheme): 3.99377   1101.21
+Cycle 123042944: backup (Spendthrift backup scheme): 3.99377   900.876
+Cycle 123042989: backup (Spendthrift backup scheme): 3.99377   691.478
+Cycle 123043003: backup (Spendthrift backup scheme): 3.99377   491.147
+Cycle 123043017: backup (Spendthrift backup scheme): 3.99377   290.816
+cycle 123043031: POWER OFF - is_active()
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+Cycle 123416135: instructions towards forward progress=7800000
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+Cycle 124553813: backup (Spendthrift backup scheme): 2.06717   1987.03
+Cycle 124553827: backup (Spendthrift backup scheme): 2.06717   1746.99
+Cycle 124553841: backup (Spendthrift backup scheme): 2.06717   1546.65
+Cycle 124553855: backup (Spendthrift backup scheme): 2.06717   1346.32
+Cycle 124553869: backup (Spendthrift backup scheme): 2.06717   1145.99
+Cycle 124553914: backup (Spendthrift backup scheme): 2.06717   936.594
+Cycle 124553928: backup (Spendthrift backup scheme): 2.06717   736.264
+Cycle 124553942: backup (Spendthrift backup scheme): 2.06717   535.933
+Cycle 124553956: backup (Spendthrift backup scheme): 2.06717   335.602
+cycle 124553970: POWER OFF - is_active()
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+Cycle 125143034: instructions towards forward progress=7900000
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+Cycle 126074152: backup (Spendthrift backup scheme): 1.71111   1916.92
+Cycle 126074166: backup (Spendthrift backup scheme): 1.71111   1676.88
+Cycle 126074180: backup (Spendthrift backup scheme): 1.71111   1476.55
+Cycle 126074194: backup (Spendthrift backup scheme): 1.71111   1276.22
+Cycle 126074208: backup (Spendthrift backup scheme): 1.71111   1075.88
+Cycle 126074222: backup (Spendthrift backup scheme): 1.71111   875.554
+Cycle 126074236: backup (Spendthrift backup scheme): 1.71111   675.223
+Cycle 126074281: backup (Spendthrift backup scheme): 1.71111   465.824
+Cycle 126074295: backup (Spendthrift backup scheme): 1.71111   265.493
+cycle 126074309: POWER OFF - is_active()
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+Cycle 126870319: instructions towards forward progress=8000000
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+Cycle 127582947: backup (Spendthrift backup scheme): 2.67633   2036.96
+Cycle 127582961: backup (Spendthrift backup scheme): 2.67633   1796.92
+Cycle 127582975: backup (Spendthrift backup scheme): 2.67633   1596.59
+Cycle 127582989: backup (Spendthrift backup scheme): 2.67633   1396.26
+Cycle 127583034: backup (Spendthrift backup scheme): 2.67633   1186.86
+Cycle 127583048: backup (Spendthrift backup scheme): 2.67633   986.526
+Cycle 127583062: backup (Spendthrift backup scheme): 2.67633   786.195
+Cycle 127583076: backup (Spendthrift backup scheme): 2.67633   585.864
+Cycle 127583090: backup (Spendthrift backup scheme): 2.67633   385.533
+cycle 127583135: POWER OFF - is_active()
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+Cycle 128597539: instructions towards forward progress=8100000
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+Cycle 129093363: backup (Spendthrift backup scheme): 3.57374   2109.61
+Cycle 129093377: backup (Spendthrift backup scheme): 3.57374   1869.57
+Cycle 129093422: backup (Spendthrift backup scheme): 3.57374   1660.17
+Cycle 129093436: backup (Spendthrift backup scheme): 3.57374   1459.84
+Cycle 129093450: backup (Spendthrift backup scheme): 3.57374   1259.51
+Cycle 129093464: backup (Spendthrift backup scheme): 3.57374   1059.18
+Cycle 129093478: backup (Spendthrift backup scheme): 3.57374   858.845
+Cycle 129093523: backup (Spendthrift backup scheme): 3.57374   649.446
+Cycle 129093537: backup (Spendthrift backup scheme): 3.57374   449.115
+Cycle 129093551: backup (Spendthrift backup scheme): 3.57374   209.069
+cycle 129093565: POWER OFF - is_active()
+Cycle 130324662: instructions towards forward progress=8200000
+Cycle 130629971: backup (Spendthrift backup scheme): 2.4598   1987.84
+Cycle 130629985: backup (Spendthrift backup scheme): 2.4598   1668.36
+Cycle 130629999: backup (Spendthrift backup scheme): 2.4598   1468.03
+Cycle 130630013: backup (Spendthrift backup scheme): 2.4598   1267.7
+Cycle 130630027: backup (Spendthrift backup scheme): 2.4598   1067.37
+Cycle 130630041: backup (Spendthrift backup scheme): 2.4598   867.036
+Cycle 130630055: backup (Spendthrift backup scheme): 2.4598   666.705
+Cycle 130630100: backup (Spendthrift backup scheme): 2.4598   457.307
+Cycle 130630114: backup (Spendthrift backup scheme): 2.4598   256.976
+cycle 130630128: POWER OFF - is_active()
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+Cycle 132051718: instructions towards forward progress=8300000
+rename_addr: (backup) map table full
+Cycle 132155887: backup (Spendthrift backup scheme): 2.31995   1992.58
+Cycle 132155901: backup (Spendthrift backup scheme): 2.31995   1712.82
+Cycle 132155915: backup (Spendthrift backup scheme): 2.31995   1512.48
+Cycle 132155933: backup (Spendthrift backup scheme): 2.31995   1271.27
+Cycle 132155947: backup (Spendthrift backup scheme): 2.31995   1031.22
+Cycle 132155961: backup (Spendthrift backup scheme): 2.31995   830.892
+Cycle 132156006: backup (Spendthrift backup scheme): 2.31995   621.493
+Cycle 132156020: backup (Spendthrift backup scheme): 2.31995   421.162
+Cycle 132156034: backup (Spendthrift backup scheme): 2.31995   220.831
+cycle 132156048: POWER OFF - is_active()
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+Cycle 133685545: backup (Spendthrift backup scheme): 0.863356   1882.89
+Cycle 133685559: backup (Spendthrift backup scheme): 0.863356   1563.41
+Cycle 133685573: backup (Spendthrift backup scheme): 0.863356   1363.08
+Cycle 133685587: backup (Spendthrift backup scheme): 0.863356   1162.75
+Cycle 133685601: backup (Spendthrift backup scheme): 0.863356   962.419
+Cycle 133685646: backup (Spendthrift backup scheme): 0.863356   753.021
+Cycle 133685660: backup (Spendthrift backup scheme): 0.863356   552.69
+Cycle 133685674: backup (Spendthrift backup scheme): 0.863356   312.644
+cycle 133685688: POWER OFF - is_active()
+rename_addr: (backup) map table full
+Cycle 133778666: instructions towards forward progress=8400000
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+Cycle 135193085: backup (Spendthrift backup scheme): 1.64876   1945.92
+Cycle 135193099: backup (Spendthrift backup scheme): 1.64876   1705.88
+Cycle 135193113: backup (Spendthrift backup scheme): 1.64876   1465.83
+Cycle 135193127: backup (Spendthrift backup scheme): 1.64876   1265.5
+Cycle 135193142: backup (Spendthrift backup scheme): 1.64876   1064.88
+Cycle 135193156: backup (Spendthrift backup scheme): 1.64876   864.545
+Cycle 135193170: backup (Spendthrift backup scheme): 1.64876   664.214
+Cycle 135193184: backup (Spendthrift backup scheme): 1.64876   463.883
+Cycle 135193198: backup (Spendthrift backup scheme): 1.64876   263.552
+cycle 135193212: POWER OFF - is_active()
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+Cycle 135506057: instructions towards forward progress=8500000
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+Cycle 136703886: backup (Spendthrift backup scheme): 2.8832   2047.1
+Cycle 136703900: backup (Spendthrift backup scheme): 2.8832   1807.06
+Cycle 136703945: backup (Spendthrift backup scheme): 2.8832   1597.66
+Cycle 136703959: backup (Spendthrift backup scheme): 2.8832   1397.33
+Cycle 136703973: backup (Spendthrift backup scheme): 2.8832   1197
+Cycle 136703987: backup (Spendthrift backup scheme): 2.8832   996.667
+Cycle 136704001: backup (Spendthrift backup scheme): 2.8832   796.336
+Cycle 136704046: backup (Spendthrift backup scheme): 2.8832   586.938
+Cycle 136704060: backup (Spendthrift backup scheme): 2.8832   386.607
+cycle 136704074: POWER OFF - is_active()
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+Cycle 137233060: instructions towards forward progress=8600000
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+Cycle 138225240: backup (Spendthrift backup scheme): 2.38246   2012.7
+Cycle 138225254: backup (Spendthrift backup scheme): 2.38246   1772.65
+Cycle 138225268: backup (Spendthrift backup scheme): 2.38246   1572.32
+Cycle 138225282: backup (Spendthrift backup scheme): 2.38246   1371.99
+Cycle 138225296: backup (Spendthrift backup scheme): 2.38246   1171.66
+Cycle 138225310: backup (Spendthrift backup scheme): 2.38246   971.33
+Cycle 138225355: backup (Spendthrift backup scheme): 2.38246   761.932
+Cycle 138225369: backup (Spendthrift backup scheme): 2.38246   561.601
+Cycle 138225383: backup (Spendthrift backup scheme): 2.38246   361.27
+cycle 138225397: POWER OFF - is_active()
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+Cycle 138960014: instructions towards forward progress=8700000
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+Cycle 139726573: backup (Spendthrift backup scheme): 4.69142   2193.01
+Cycle 139726587: backup (Spendthrift backup scheme): 4.69142   1952.97
+Cycle 139726601: backup (Spendthrift backup scheme): 4.69142   1712.92
+Cycle 139726615: backup (Spendthrift backup scheme): 4.69142   1512.59
+Cycle 139726630: backup (Spendthrift backup scheme): 4.69142   1311.97
+Cycle 139726644: backup (Spendthrift backup scheme): 4.69142   1111.63
+Cycle 139726662: backup (Spendthrift backup scheme): 4.69142   870.418
+Cycle 139726676: backup (Spendthrift backup scheme): 4.69142   670.087
+Cycle 139726690: backup (Spendthrift backup scheme): 4.69142   469.757
+Cycle 139726704: backup (Spendthrift backup scheme): 4.69142   269.426
+cycle 139726718: POWER OFF - is_active()
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+Cycle 140687293: instructions towards forward progress=8800000
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+Cycle 141247991: backup (Spendthrift backup scheme): 1.25904   1896.84
+Cycle 141248005: backup (Spendthrift backup scheme): 1.25904   1577.36
+Cycle 141248019: backup (Spendthrift backup scheme): 1.25904   1377.03
+Cycle 141248033: backup (Spendthrift backup scheme): 1.25904   1176.7
+Cycle 141248047: backup (Spendthrift backup scheme): 1.25904   976.366
+Cycle 141248061: backup (Spendthrift backup scheme): 1.25904   776.035
+Cycle 141248075: backup (Spendthrift backup scheme): 1.25904   575.704
+Cycle 141248120: backup (Spendthrift backup scheme): 1.25904   366.305
+cycle 141248134: POWER OFF - is_active()
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+Cycle 142414358: instructions towards forward progress=8900000
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+Cycle 142758085: backup (Spendthrift backup scheme): 3.61177   2104.17
+Cycle 142758099: backup (Spendthrift backup scheme): 3.61177   1864.13
+Cycle 142758113: backup (Spendthrift backup scheme): 3.61177   1624.08
+Cycle 142758127: backup (Spendthrift backup scheme): 3.61177   1423.75
+Cycle 142758142: backup (Spendthrift backup scheme): 3.61177   1223.13
+Cycle 142758156: backup (Spendthrift backup scheme): 3.61177   1022.8
+Cycle 142758174: backup (Spendthrift backup scheme): 3.61177   781.579
+Cycle 142758188: backup (Spendthrift backup scheme): 3.61177   581.248
+Cycle 142758202: backup (Spendthrift backup scheme): 3.61177   380.917
+cycle 142758216: POWER OFF - is_active()
+Cycle 144141498: instructions towards forward progress=9000000
+Cycle 144317565: backup (Spendthrift backup scheme): 4.55785   2188.52
+Cycle 144317579: backup (Spendthrift backup scheme): 4.55785   1869.04
+Cycle 144317593: backup (Spendthrift backup scheme): 4.55785   1629
+Cycle 144317607: backup (Spendthrift backup scheme): 4.55785   1428.67
+Cycle 144317622: backup (Spendthrift backup scheme): 4.55785   1228.04
+Cycle 144317636: backup (Spendthrift backup scheme): 4.55785   1027.71
+Cycle 144317650: backup (Spendthrift backup scheme): 4.55785   827.382
+Cycle 144317664: backup (Spendthrift backup scheme): 4.55785   627.051
+Cycle 144317678: backup (Spendthrift backup scheme): 4.55785   426.72
+Cycle 144317692: backup (Spendthrift backup scheme): 4.55785   226.389
+cycle 144317706: POWER OFF - is_active()
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+Cycle 145824033: backup (Spendthrift backup scheme): 0.994015   1898.65
+Cycle 145824047: backup (Spendthrift backup scheme): 0.994015   1658.61
+Cycle 145824061: backup (Spendthrift backup scheme): 0.994015   1458.28
+Cycle 145824076: backup (Spendthrift backup scheme): 0.994015   1257.65
+Cycle 145824090: backup (Spendthrift backup scheme): 0.994015   1057.32
+Cycle 145824104: backup (Spendthrift backup scheme): 0.994015   856.991
+Cycle 145824118: backup (Spendthrift backup scheme): 0.994015   656.66
+Cycle 145824132: backup (Spendthrift backup scheme): 0.994015   456.329
+Cycle 145824146: backup (Spendthrift backup scheme): 0.994015   255.998
+cycle 145824160: POWER OFF - is_active()
+Cycle 145868816: instructions towards forward progress=9100000
+Cycle 147363903: backup (Spendthrift backup scheme): 3.91773   2138.9
+Cycle 147363917: backup (Spendthrift backup scheme): 3.91773   1819.42
+Cycle 147363931: backup (Spendthrift backup scheme): 3.91773   1619.09
+Cycle 147363945: backup (Spendthrift backup scheme): 3.91773   1418.76
+Cycle 147363959: backup (Spendthrift backup scheme): 3.91773   1218.43
+Cycle 147363973: backup (Spendthrift backup scheme): 3.91773   1018.1
+Cycle 147363987: backup (Spendthrift backup scheme): 3.91773   817.769
+Cycle 147364001: backup (Spendthrift backup scheme): 3.91773   617.438
+Cycle 147364046: backup (Spendthrift backup scheme): 3.91773   408.04
+Cycle 147364060: backup (Spendthrift backup scheme): 3.91773   207.709
+cycle 147364074: POWER OFF - is_active()
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+Cycle 147595915: instructions towards forward progress=9200000
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+Cycle 148868708: backup (Spendthrift backup scheme): 1.55645   1935.88
+Cycle 148868722: backup (Spendthrift backup scheme): 1.55645   1656.12
+Cycle 148868736: backup (Spendthrift backup scheme): 1.55645   1455.79
+Cycle 148868750: backup (Spendthrift backup scheme): 1.55645   1255.46
+Cycle 148868764: backup (Spendthrift backup scheme): 1.55645   1055.12
+Cycle 148868809: backup (Spendthrift backup scheme): 1.55645   845.726
+Cycle 148868823: backup (Spendthrift backup scheme): 1.55645   645.395
+Cycle 148868837: backup (Spendthrift backup scheme): 1.55645   405.349
+Cycle 148868851: backup (Spendthrift backup scheme): 1.55645   205.018
+cycle 148868866: POWER OFF - is_active()
+Cycle 149323404: instructions towards forward progress=9300000
+Cycle 150423906: backup (Spendthrift backup scheme): 3.67637   2109
+Cycle 150423920: backup (Spendthrift backup scheme): 3.67637   1789.52
+Cycle 150423965: backup (Spendthrift backup scheme): 3.67637   1580.13
+Cycle 150423979: backup (Spendthrift backup scheme): 3.67637   1379.79
+Cycle 150423993: backup (Spendthrift backup scheme): 3.67637   1179.46
+Cycle 150424007: backup (Spendthrift backup scheme): 3.67637   979.132
+Cycle 150424021: backup (Spendthrift backup scheme): 3.67637   778.802
+Cycle 150424066: backup (Spendthrift backup scheme): 3.67637   569.403
+Cycle 150424080: backup (Spendthrift backup scheme): 3.67637   369.072
+cycle 150424094: POWER OFF - is_active()
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+Cycle 151050278: instructions towards forward progress=9400000
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+Cycle 151932073: backup (Spendthrift backup scheme): 3.37251   2094.34
+Cycle 151932091: backup (Spendthrift backup scheme): 3.37251   1813.41
+Cycle 151932105: backup (Spendthrift backup scheme): 3.37251   1613.08
+Cycle 151932119: backup (Spendthrift backup scheme): 3.37251   1412.75
+Cycle 151932133: backup (Spendthrift backup scheme): 3.37251   1212.42
+Cycle 151932147: backup (Spendthrift backup scheme): 3.37251   1012.08
+Cycle 151932161: backup (Spendthrift backup scheme): 3.37251   811.753
+Cycle 151932175: backup (Spendthrift backup scheme): 3.37251   611.423
+Cycle 151932220: backup (Spendthrift backup scheme): 3.37251   402.024
+Cycle 151932234: backup (Spendthrift backup scheme): 3.37251   201.693
+cycle 151932248: POWER OFF - is_active()
+Cycle 152777615: instructions towards forward progress=9500000
+Cycle 153473538: backup (Spendthrift backup scheme): 3.05382   2060.29
+Cycle 153473552: backup (Spendthrift backup scheme): 3.05382   1740.82
+Cycle 153473566: backup (Spendthrift backup scheme): 3.05382   1500.77
+Cycle 153473580: backup (Spendthrift backup scheme): 3.05382   1300.44
+Cycle 153473595: backup (Spendthrift backup scheme): 3.05382   1099.82
+Cycle 153473609: backup (Spendthrift backup scheme): 3.05382   899.485
+Cycle 153473623: backup (Spendthrift backup scheme): 3.05382   699.154
+Cycle 153473637: backup (Spendthrift backup scheme): 3.05382   498.824
+Cycle 153473651: backup (Spendthrift backup scheme): 3.05382   298.493
+cycle 153473665: POWER OFF - is_active()
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+Cycle 154505007: instructions towards forward progress=9600000
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+Cycle 154966931: backup (Spendthrift backup scheme): 3.67653   2119.36
+Cycle 154966945: backup (Spendthrift backup scheme): 3.67653   1879.31
+Cycle 154966990: backup (Spendthrift backup scheme): 3.67653   1669.91
+Cycle 154967004: backup (Spendthrift backup scheme): 3.67653   1469.58
+Cycle 154967018: backup (Spendthrift backup scheme): 3.67653   1229.54
+Cycle 154967032: backup (Spendthrift backup scheme): 3.67653   1029.21
+Cycle 154967047: backup (Spendthrift backup scheme): 3.67653   828.582
+Cycle 154967061: backup (Spendthrift backup scheme): 3.67653   628.251
+Cycle 154967075: backup (Spendthrift backup scheme): 3.67653   427.92
+Cycle 154967089: backup (Spendthrift backup scheme): 3.67653   227.589
+cycle 154967103: POWER OFF - is_active()
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+Cycle 156232117: instructions towards forward progress=9700000
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+Cycle 156484358: backup (Spendthrift backup scheme): 2.3243   2008.5
+Cycle 156484372: backup (Spendthrift backup scheme): 2.3243   1768.45
+Cycle 156484386: backup (Spendthrift backup scheme): 2.3243   1568.12
+Cycle 156484400: backup (Spendthrift backup scheme): 2.3243   1367.79
+Cycle 156484414: backup (Spendthrift backup scheme): 2.3243   1167.46
+Cycle 156484428: backup (Spendthrift backup scheme): 2.3243   967.13
+Cycle 156484442: backup (Spendthrift backup scheme): 2.3243   766.799
+Cycle 156484487: backup (Spendthrift backup scheme): 2.3243   557.4
+Cycle 156484501: backup (Spendthrift backup scheme): 2.3243   357.069
+cycle 156484515: POWER OFF - is_active()
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+Cycle 157959561: instructions towards forward progress=9800000
+rename_addr: (backup) map table full
+Cycle 157986264: backup (Spendthrift backup scheme): 2.22441   1999.16
+Cycle 157986278: backup (Spendthrift backup scheme): 2.22441   1759.11
+Cycle 157986323: backup (Spendthrift backup scheme): 2.22441   1549.71
+Cycle 157986337: backup (Spendthrift backup scheme): 2.22441   1349.38
+Cycle 157986351: backup (Spendthrift backup scheme): 2.22441   1149.05
+Cycle 157986365: backup (Spendthrift backup scheme): 2.22441   948.718
+Cycle 157986379: backup (Spendthrift backup scheme): 2.22441   748.387
+Cycle 157986424: backup (Spendthrift backup scheme): 2.22441   538.988
+Cycle 157986438: backup (Spendthrift backup scheme): 2.22441   338.657
+cycle 157986452: POWER OFF - is_active()
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+Cycle 159491417: backup (Spendthrift backup scheme): 1.77024   1963.08
+Cycle 159491431: backup (Spendthrift backup scheme): 1.77024   1723.04
+Cycle 159491445: backup (Spendthrift backup scheme): 1.77024   1522.71
+Cycle 159491459: backup (Spendthrift backup scheme): 1.77024   1322.37
+Cycle 159491473: backup (Spendthrift backup scheme): 1.77024   1122.04
+Cycle 159491487: backup (Spendthrift backup scheme): 1.77024   921.712
+Cycle 159491501: backup (Spendthrift backup scheme): 1.77024   721.381
+Cycle 159491515: backup (Spendthrift backup scheme): 1.77024   521.05
+Cycle 159491560: backup (Spendthrift backup scheme): 1.77024   311.652
+cycle 159491574: POWER OFF - is_active()
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+Cycle 159686798: instructions towards forward progress=9900000
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+Cycle 160991373: backup (Spendthrift backup scheme): 1.21586   1916.88
+Cycle 160991387: backup (Spendthrift backup scheme): 1.21586   1676.83
+Cycle 160991401: backup (Spendthrift backup scheme): 1.21586   1476.5
+Cycle 160991446: backup (Spendthrift backup scheme): 1.21586   1267.11
+Cycle 160991460: backup (Spendthrift backup scheme): 1.21586   1066.77
+Cycle 160991474: backup (Spendthrift backup scheme): 1.21586   866.443
+Cycle 160991488: backup (Spendthrift backup scheme): 1.21586   666.112
+Cycle 160991502: backup (Spendthrift backup scheme): 1.21586   465.781
+Cycle 160991547: backup (Spendthrift backup scheme): 1.21586   256.383
+cycle 160991561: POWER OFF - is_active()
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+done
+CPU instructions executed: 10000094
+CPU instructions executed towards forward progress: 10000000
+Number of true positives: 17668
+Number of false positives: 4733
+Number of times renamed: 1469
+Number of times reclaimed: 331
+CPU time (cycles): 161414265
+Total time (ns): 5260547667401997
+Energy harvested (J): 0.0267093
+Energy remaining (J): 0.000203216

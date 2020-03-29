@@ -1,0 +1,28 @@
+000 (5664203.000.000) 2020-03-28 17:24:31 Job submitted from host: <128.104.101.92:9618?addrs=128.104.101.92-9618+[2607-f388-107c-501-a236-9fff-fe3c-caa8]-9618&alias=submit2.chtc.wisc.edu&noUDP&sock=schedd_3841921_d3c3>
+...
+040 (5664203.000.000) 2020-03-28 17:25:47 Started transferring input files
+	Transferring to host: <128.104.58.170:9618?addrs=128.104.58.170-9618+[2607-f388-1086-0-f24d-a2ff-fe40-fe02]-9618&alias=e1024.chtc.wisc.edu&noUDP&sock=starter_9650_0c41_85564>
+...
+040 (5664203.000.000) 2020-03-28 17:25:52 Finished transferring input files
+...
+001 (5664203.000.000) 2020-03-28 17:25:52 Job executing on host: <128.104.58.170:9618?addrs=128.104.58.170-9618+[2607-f388-1086-0-f24d-a2ff-fe40-fe02]-9618&alias=e1024.chtc.wisc.edu&noUDP&sock=startd_9520_81b2_3>
+...
+006 (5664203.000.000) 2020-03-28 17:31:34 Image size of job updated: 95
+	95  -  MemoryUsage of job (MB)
+	98072  -  ResidentSetSize of job (KB)
+...
+004 (5664203.000.000) 2020-03-28 20:21:26 Job was evicted.
+	(0) CPU times
+		Usr 0 02:53:15, Sys 0 00:00:02  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+	0  -  Run Bytes Sent By Job
+	209046736  -  Run Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated 
+	   Cpus                 :        0        1         1 
+	   Disk (KB)            :   919611  4194304   4599083 
+	   IoHeavy              :                           0 
+	   Memory (MB)          :       95     4096      4096 
+...
+009 (5664203.000.000) 2020-03-28 20:21:26 Job was aborted.
+	via condor_rm (by user somashekhar)
+...

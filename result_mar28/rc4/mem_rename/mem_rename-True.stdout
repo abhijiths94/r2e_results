@@ -1,0 +1,34 @@
+Working dir : /var/lib/condor/execute/slot1/dir_21855
+Cycle 0: instructions towards forward progress=0
+Cycle 1416557: instructions towards forward progress=100000
+Cycle 1455718: backup (Spendthrift backup scheme): 3.03964   2057.67
+Cycle 1455732: backup (Spendthrift backup scheme): 3.03964   1301.33
+Cycle 1455746: backup (Spendthrift backup scheme): 3.03964   1061.28
+Cycle 1455760: backup (Spendthrift backup scheme): 3.03964   860.953
+Cycle 1455774: backup (Spendthrift backup scheme): 3.03964   620.907
+Cycle 1455788: backup (Spendthrift backup scheme): 3.03964   380.861
+cycle 1455802: POWER OFF - is_active()
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+rename_addr: (backup) map table full
+done
+CPU instructions executed: 193131
+CPU instructions executed towards forward progress: 193130
+Number of true positives: 2559
+Number of false positives: 320
+Number of times renamed: 1939
+Number of times reclaimed: 43
+CPU time (cycles): 2741001
+Total time (ns): 110754736487872
+Energy harvested (J): 0.000562321
+Energy remaining (J): 1.48819e-05

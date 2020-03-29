@@ -1,0 +1,13 @@
+Working dir : /var/lib/condor/execute/slot1/dir_32013
+Cycle 0: instructions towards forward progress=0
+done
+CPU instructions executed: 118
+CPU instructions executed towards forward progress: 118
+Number of true positives: 0
+Number of false positives: 0
+Number of times renamed: 0
+Number of times reclaimed: 0
+CPU time (cycles): 1769
+Total time (ns): 55395223103125
+Energy harvested (J): 0.00028125
+Energy remaining (J): 0.000280532

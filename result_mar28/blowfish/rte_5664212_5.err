@@ -1,0 +1,4 @@
+Traceback (most recent call last):
+  File "run.py", line 136, in <module>
+    sys.exit('Error: path %s does not exist', path_to_benchmark)
+TypeError: exit expected at most 1 arguments, got 2

@@ -1,0 +1,719 @@
+Working dir : /var/lib/condor/execute/slot1/dir_18881
+Cycle 0: instructions towards forward progress=0
+Cycle 1523045: instructions towards forward progress=100000
+Cycle 1890884: backup (Spendthrift backup scheme): 3.1745   2077.52
+Cycle 1890929: backup (Spendthrift backup scheme): 3.1745   1232.67
+Cycle 1890943: backup (Spendthrift backup scheme): 3.1745   1032.34
+Cycle 1890957: backup (Spendthrift backup scheme): 3.1745   832.012
+Cycle 1891002: backup (Spendthrift backup scheme): 3.1745   622.614
+Cycle 1891016: backup (Spendthrift backup scheme): 3.1745   422.283
+Cycle 1891030: backup (Spendthrift backup scheme): 3.1745   221.952
+cycle 1891044: POWER OFF - is_active()
+Cycle 3047097: instructions towards forward progress=200000
+Cycle 3799191: backup (Spendthrift backup scheme): 0.163663   1832.13
+Cycle 3799205: backup (Spendthrift backup scheme): 0.163663   1075.78
+Cycle 3799219: backup (Spendthrift backup scheme): 0.163663   875.454
+Cycle 3799233: backup (Spendthrift backup scheme): 0.163663   675.123
+Cycle 3799247: backup (Spendthrift backup scheme): 0.163663   474.792
+Cycle 3799261: backup (Spendthrift backup scheme): 0.163663   274.461
+cycle 3799306: POWER OFF - is_active()
+Cycle 4570957: instructions towards forward progress=300000
+Cycle 5702934: backup (Spendthrift backup scheme): 2.67118   2036.72
+Cycle 5702948: backup (Spendthrift backup scheme): 2.67118   1200.95
+Cycle 5702962: backup (Spendthrift backup scheme): 2.67118   1000.62
+Cycle 5702976: backup (Spendthrift backup scheme): 2.67118   800.289
+Cycle 5702990: backup (Spendthrift backup scheme): 2.67118   599.958
+Cycle 5703006: backup (Spendthrift backup scheme): 2.67118   399.042
+cycle 5703020: POWER OFF - is_active()
+Cycle 6094613: instructions towards forward progress=400000
+Cycle 7612799: backup (Spendthrift backup scheme): 3.62482   2113.74
+Cycle 7612813: backup (Spendthrift backup scheme): 3.62482   1357.39
+Cycle 7612828: backup (Spendthrift backup scheme): 3.62482   1156.77
+Cycle 7612842: backup (Spendthrift backup scheme): 3.62482   956.438
+Cycle 7612856: backup (Spendthrift backup scheme): 3.62482   756.108
+Cycle 7612870: backup (Spendthrift backup scheme): 3.62482   555.777
+Cycle 7612884: backup (Spendthrift backup scheme): 3.62482   355.446
+cycle 7612899: POWER OFF - is_active()
+Cycle 7617051: instructions towards forward progress=500000
+Cycle 9140971: instructions towards forward progress=600000
+Cycle 9485708: backup (Spendthrift backup scheme): 0.287877   1840.73
+Cycle 9485722: backup (Spendthrift backup scheme): 0.287877   1044.68
+Cycle 9485736: backup (Spendthrift backup scheme): 0.287877   844.344
+Cycle 9485750: backup (Spendthrift backup scheme): 0.287877   644.013
+Cycle 9485764: backup (Spendthrift backup scheme): 0.287877   443.682
+Cycle 9485778: backup (Spendthrift backup scheme): 0.287877   243.351
+cycle 9485792: POWER OFF - is_active()
+Cycle 10665219: instructions towards forward progress=700000
+Cycle 11372699: backup (Spendthrift backup scheme): 4.56559   2182.03
+Cycle 11372713: backup (Spendthrift backup scheme): 4.56559   1425.68
+Cycle 11372727: backup (Spendthrift backup scheme): 4.56559   1225.35
+Cycle 11372772: backup (Spendthrift backup scheme): 4.56559   1015.95
+Cycle 11372786: backup (Spendthrift backup scheme): 4.56559   815.622
+Cycle 11372800: backup (Spendthrift backup scheme): 4.56559   615.291
+Cycle 11372845: backup (Spendthrift backup scheme): 4.56559   405.893
+Cycle 11372859: backup (Spendthrift backup scheme): 4.56559   205.562
+cycle 11372873: POWER OFF - is_active()
+Cycle 12188740: instructions towards forward progress=800000
+Cycle 13266346: backup (Spendthrift backup scheme): 3.61402   2112.93
+Cycle 13266360: backup (Spendthrift backup scheme): 3.61402   1277.15
+Cycle 13266374: backup (Spendthrift backup scheme): 3.61402   1037.11
+Cycle 13266388: backup (Spendthrift backup scheme): 3.61402   836.775
+Cycle 13266402: backup (Spendthrift backup scheme): 3.61402   636.444
+Cycle 13266416: backup (Spendthrift backup scheme): 3.61402   436.114
+Cycle 13266430: backup (Spendthrift backup scheme): 3.61402   235.783
+cycle 13266444: POWER OFF - is_active()
+Cycle 13712875: instructions towards forward progress=900000
+Cycle 15177943: backup (Spendthrift backup scheme): 2.59336   2030.92
+Cycle 15177957: backup (Spendthrift backup scheme): 2.59336   1195.15
+Cycle 15177971: backup (Spendthrift backup scheme): 2.59336   994.814
+Cycle 15177985: backup (Spendthrift backup scheme): 2.59336   794.484
+Cycle 15177999: backup (Spendthrift backup scheme): 2.59336   594.153
+Cycle 15178013: backup (Spendthrift backup scheme): 2.59336   393.822
+cycle 15178027: POWER OFF - is_active()
+Cycle 15235694: instructions towards forward progress=1000000
+Cycle 16759798: instructions towards forward progress=1100000
+Cycle 17085175: backup (Spendthrift backup scheme): 3.45162   2099.69
+Cycle 17085189: backup (Spendthrift backup scheme): 3.45162   1343.35
+Cycle 17085203: backup (Spendthrift backup scheme): 3.45162   1143.02
+Cycle 17085217: backup (Spendthrift backup scheme): 3.45162   942.685
+Cycle 17085231: backup (Spendthrift backup scheme): 3.45162   742.354
+Cycle 17085246: backup (Spendthrift backup scheme): 3.45162   541.731
+Cycle 17085260: backup (Spendthrift backup scheme): 3.45162   341.4
+cycle 17085275: POWER OFF - is_active()
+Cycle 18282712: instructions towards forward progress=1200000
+Cycle 18978203: backup (Spendthrift backup scheme): 4.20452   2162.66
+Cycle 18978217: backup (Spendthrift backup scheme): 4.20452   1406.32
+Cycle 18978231: backup (Spendthrift backup scheme): 4.20452   1205.99
+Cycle 18978245: backup (Spendthrift backup scheme): 4.20452   1005.66
+Cycle 18978259: backup (Spendthrift backup scheme): 4.20452   805.328
+Cycle 18978273: backup (Spendthrift backup scheme): 4.20452   604.997
+Cycle 18978287: backup (Spendthrift backup scheme): 4.20452   404.666
+Cycle 18978301: backup (Spendthrift backup scheme): 4.20452   204.335
+cycle 18978315: POWER OFF - is_active()
+Cycle 19808102: instructions towards forward progress=1300000
+Cycle 20870313: backup (Spendthrift backup scheme): 2.92783   2057.73
+Cycle 20870331: backup (Spendthrift backup scheme): 2.92783   1300.22
+Cycle 20870345: backup (Spendthrift backup scheme): 2.92783   1099.89
+Cycle 20870359: backup (Spendthrift backup scheme): 2.92783   899.555
+Cycle 20870374: backup (Spendthrift backup scheme): 2.92783   698.932
+Cycle 20870390: backup (Spendthrift backup scheme): 2.92783   498.016
+Cycle 20870404: backup (Spendthrift backup scheme): 2.92783   297.685
+cycle 20870418: POWER OFF - is_active()
+Cycle 21331825: instructions towards forward progress=1400000
+Cycle 22786458: backup (Spendthrift backup scheme): 1.99821   1981.55
+Cycle 22786472: backup (Spendthrift backup scheme): 1.99821   1185.49
+Cycle 22786486: backup (Spendthrift backup scheme): 1.99821   985.162
+Cycle 22786500: backup (Spendthrift backup scheme): 1.99821   784.831
+Cycle 22786514: backup (Spendthrift backup scheme): 1.99821   584.5
+Cycle 22786528: backup (Spendthrift backup scheme): 1.99821   384.169
+cycle 22786542: POWER OFF - is_active()
+Cycle 22855591: instructions towards forward progress=1500000
+Cycle 24378453: instructions towards forward progress=1600000
+Cycle 24679772: backup (Spendthrift backup scheme): 1.36038   1928.44
+Cycle 24679786: backup (Spendthrift backup scheme): 1.36038   1172.1
+Cycle 24679800: backup (Spendthrift backup scheme): 1.36038   971.765
+Cycle 24679814: backup (Spendthrift backup scheme): 1.36038   771.434
+Cycle 24679828: backup (Spendthrift backup scheme): 1.36038   571.103
+Cycle 24679842: backup (Spendthrift backup scheme): 1.36038   370.772
+cycle 24679856: POWER OFF - is_active()
+Cycle 25903258: instructions towards forward progress=1700000
+Cycle 26601035: backup (Spendthrift backup scheme): 0.981609   1897.14
+Cycle 26601049: backup (Spendthrift backup scheme): 0.981609   1061.36
+Cycle 26601063: backup (Spendthrift backup scheme): 0.981609   861.031
+Cycle 26601077: backup (Spendthrift backup scheme): 0.981609   660.7
+Cycle 26601091: backup (Spendthrift backup scheme): 0.981609   460.369
+Cycle 26601105: backup (Spendthrift backup scheme): 0.981609   260.038
+cycle 26601119: POWER OFF - is_active()
+Cycle 27425838: instructions towards forward progress=1800000
+Cycle 28513888: backup (Spendthrift backup scheme): 0.658103   1871.26
+Cycle 28513902: backup (Spendthrift backup scheme): 0.658103   1035.49
+Cycle 28513917: backup (Spendthrift backup scheme): 0.658103   834.867
+Cycle 28513931: backup (Spendthrift backup scheme): 0.658103   634.536
+Cycle 28513945: backup (Spendthrift backup scheme): 0.658103   434.205
+Cycle 28513959: backup (Spendthrift backup scheme): 0.658103   233.874
+cycle 28513973: POWER OFF - is_active()
+Cycle 28951342: instructions towards forward progress=1900000
+Cycle 30421261: backup (Spendthrift backup scheme): 2.56114   2028
+Cycle 30421279: backup (Spendthrift backup scheme): 2.56114   1270.49
+Cycle 30421293: backup (Spendthrift backup scheme): 2.56114   1070.16
+Cycle 30421307: backup (Spendthrift backup scheme): 2.56114   869.826
+Cycle 30421321: backup (Spendthrift backup scheme): 2.56114   669.495
+Cycle 30421335: backup (Spendthrift backup scheme): 2.56114   469.164
+Cycle 30421349: backup (Spendthrift backup scheme): 2.56114   268.834
+cycle 30421363: POWER OFF - is_active()
+Cycle 30475584: instructions towards forward progress=2000000
+Cycle 31998177: instructions towards forward progress=2100000
+Cycle 32336242: backup (Spendthrift backup scheme): 2.05605   1986.84
+Cycle 32336256: backup (Spendthrift backup scheme): 2.05605   1190.78
+Cycle 32336270: backup (Spendthrift backup scheme): 2.05605   990.448
+Cycle 32336284: backup (Spendthrift backup scheme): 2.05605   790.117
+Cycle 32336298: backup (Spendthrift backup scheme): 2.05605   589.786
+Cycle 32336314: backup (Spendthrift backup scheme): 2.05605   388.87
+cycle 32336328: POWER OFF - is_active()
+Cycle 33521915: instructions towards forward progress=2200000
+Cycle 34262053: backup (Spendthrift backup scheme): 2.23392   2000.99
+Cycle 34262067: backup (Spendthrift backup scheme): 2.23392   1284.36
+Cycle 34262081: backup (Spendthrift backup scheme): 2.23392   1084.03
+Cycle 34262095: backup (Spendthrift backup scheme): 2.23392   883.699
+Cycle 34262109: backup (Spendthrift backup scheme): 2.23392   683.368
+Cycle 34262123: backup (Spendthrift backup scheme): 2.23392   483.037
+Cycle 34262137: backup (Spendthrift backup scheme): 2.23392   282.706
+cycle 34262151: POWER OFF - is_active()
+Cycle 35046713: instructions towards forward progress=2300000
+Cycle 36158862: backup (Spendthrift backup scheme): 1.81374   1964.72
+Cycle 36158876: backup (Spendthrift backup scheme): 1.81374   1128.95
+Cycle 36158890: backup (Spendthrift backup scheme): 1.81374   928.618
+Cycle 36158904: backup (Spendthrift backup scheme): 1.81374   688.572
+Cycle 36158918: backup (Spendthrift backup scheme): 1.81374   488.241
+Cycle 36158932: backup (Spendthrift backup scheme): 1.81374   287.91
+cycle 36158946: POWER OFF - is_active()
+Cycle 36570109: instructions towards forward progress=2400000
+Cycle 38021315: backup (Spendthrift backup scheme): 4.37611   2176.26
+Cycle 38021329: backup (Spendthrift backup scheme): 4.37611   1459.63
+Cycle 38021343: backup (Spendthrift backup scheme): 4.37611   1259.3
+Cycle 38021357: backup (Spendthrift backup scheme): 4.37611   1058.97
+Cycle 38021371: backup (Spendthrift backup scheme): 4.37611   858.637
+Cycle 38021385: backup (Spendthrift backup scheme): 4.37611   618.591
+Cycle 38021399: backup (Spendthrift backup scheme): 4.37611   418.26
+Cycle 38021413: backup (Spendthrift backup scheme): 4.37611   217.929
+cycle 38021427: POWER OFF - is_active()
+Cycle 38094555: instructions towards forward progress=2500000
+Cycle 39617843: instructions towards forward progress=2600000
+Cycle 39920767: backup (Spendthrift backup scheme): 0.975004   1897.28
+Cycle 39920781: backup (Spendthrift backup scheme): 0.975004   1061.51
+Cycle 39920795: backup (Spendthrift backup scheme): 0.975004   861.179
+Cycle 39920809: backup (Spendthrift backup scheme): 0.975004   660.848
+Cycle 39920823: backup (Spendthrift backup scheme): 0.975004   460.517
+Cycle 39920841: backup (Spendthrift backup scheme): 0.975004   259.016
+cycle 39920855: POWER OFF - is_active()
+Cycle 41140723: instructions towards forward progress=2700000
+Cycle 41804691: backup (Spendthrift backup scheme): 2.73836   2032.24
+Cycle 41804705: backup (Spendthrift backup scheme): 2.73836   1236.18
+Cycle 41804719: backup (Spendthrift backup scheme): 2.73836   1035.85
+Cycle 41804764: backup (Spendthrift backup scheme): 2.73836   826.455
+Cycle 41804778: backup (Spendthrift backup scheme): 2.73836   626.124
+Cycle 41804823: backup (Spendthrift backup scheme): 2.73836   416.725
+Cycle 41804837: backup (Spendthrift backup scheme): 2.73836   216.394
+cycle 41804851: POWER OFF - is_active()
+Cycle 42665024: instructions towards forward progress=2800000
+Cycle 43718210: backup (Spendthrift backup scheme): 2.73401   2041.01
+Cycle 43718224: backup (Spendthrift backup scheme): 2.73401   1284.67
+Cycle 43718238: backup (Spendthrift backup scheme): 2.73401   1084.34
+Cycle 43718252: backup (Spendthrift backup scheme): 2.73401   884.007
+Cycle 43718266: backup (Spendthrift backup scheme): 2.73401   683.676
+Cycle 43718280: backup (Spendthrift backup scheme): 2.73401   483.345
+Cycle 43718295: backup (Spendthrift backup scheme): 2.73401   282.721
+cycle 43718309: POWER OFF - is_active()
+Cycle 44188505: instructions towards forward progress=2900000
+Cycle 45615406: backup (Spendthrift backup scheme): 0.948582   1896.19
+Cycle 45615420: backup (Spendthrift backup scheme): 0.948582   1139.85
+Cycle 45615434: backup (Spendthrift backup scheme): 0.948582   939.517
+Cycle 45615448: backup (Spendthrift backup scheme): 0.948582   739.186
+Cycle 45615463: backup (Spendthrift backup scheme): 0.948582   538.563
+Cycle 45615477: backup (Spendthrift backup scheme): 0.948582   338.232
+cycle 45615491: POWER OFF - is_active()
+Cycle 45712633: instructions towards forward progress=3000000
+Cycle 47234739: instructions towards forward progress=3100000
+Cycle 47542163: backup (Spendthrift backup scheme): 3.69216   2120.23
+Cycle 47542208: backup (Spendthrift backup scheme): 3.69216   1354.82
+Cycle 47542222: backup (Spendthrift backup scheme): 3.69216   1154.49
+Cycle 47542236: backup (Spendthrift backup scheme): 3.69216   954.16
+Cycle 47542250: backup (Spendthrift backup scheme): 3.69216   753.829
+Cycle 47542265: backup (Spendthrift backup scheme): 3.69216   553.205
+Cycle 47542279: backup (Spendthrift backup scheme): 3.69216   352.874
+cycle 47542293: POWER OFF - is_active()
+Cycle 48758586: instructions towards forward progress=3200000
+Cycle 49457120: backup (Spendthrift backup scheme): 1.47863   1938.62
+Cycle 49457134: backup (Spendthrift backup scheme): 1.47863   1142.56
+Cycle 49457148: backup (Spendthrift backup scheme): 1.47863   942.234
+Cycle 49457164: backup (Spendthrift backup scheme): 1.47863   741.318
+Cycle 49457178: backup (Spendthrift backup scheme): 1.47863   540.987
+Cycle 49457192: backup (Spendthrift backup scheme): 1.47863   261.226
+cycle 49457206: POWER OFF - is_active()
+Cycle 50281836: instructions towards forward progress=3300000
+Cycle 51354828: backup (Spendthrift backup scheme): 3.5818   2108.23
+Cycle 51354842: backup (Spendthrift backup scheme): 3.5818   1351.88
+Cycle 51354856: backup (Spendthrift backup scheme): 3.5818   1151.55
+Cycle 51354901: backup (Spendthrift backup scheme): 3.5818   942.153
+Cycle 51354915: backup (Spendthrift backup scheme): 3.5818   741.822
+Cycle 51354960: backup (Spendthrift backup scheme): 3.5818   532.423
+Cycle 51354974: backup (Spendthrift backup scheme): 3.5818   332.092
+cycle 51354988: POWER OFF - is_active()
+Cycle 51806272: instructions towards forward progress=3400000
+Cycle 53253101: backup (Spendthrift backup scheme): 1.97904   1980.12
+Cycle 53253115: backup (Spendthrift backup scheme): 1.97904   1144.35
+Cycle 53253129: backup (Spendthrift backup scheme): 1.97904   944.019
+Cycle 53253143: backup (Spendthrift backup scheme): 1.97904   743.688
+Cycle 53253188: backup (Spendthrift backup scheme): 1.97904   534.289
+Cycle 53253202: backup (Spendthrift backup scheme): 1.97904   333.959
+cycle 53253216: POWER OFF - is_active()
+Cycle 53331711: instructions towards forward progress=3500000
+Cycle 54817744: instructions towards forward progress=3600000
+Cycle 54830942: backup (Spendthrift backup scheme): 2.03752   1983.71
+Cycle 54830956: backup (Spendthrift backup scheme): 2.03752   1386.23
+Cycle 54830970: backup (Spendthrift backup scheme): 2.03752   1185.9
+Cycle 54830984: backup (Spendthrift backup scheme): 2.03752   985.565
+Cycle 54830999: backup (Spendthrift backup scheme): 2.03752   784.942
+Cycle 54831013: backup (Spendthrift backup scheme): 2.03752   584.611
+Cycle 54831028: backup (Spendthrift backup scheme): 2.03752   383.987
+cycle 54831046: POWER OFF - is_active()
+Cycle 56299533: instructions towards forward progress=3700000
+Cycle 56631510: backup (Spendthrift backup scheme): 2.3475   2003.81
+Cycle 56631524: backup (Spendthrift backup scheme): 2.3475   1207.75
+Cycle 56631538: backup (Spendthrift backup scheme): 2.3475   967.704
+Cycle 56631556: backup (Spendthrift backup scheme): 2.3475   686.773
+Cycle 56631572: backup (Spendthrift backup scheme): 2.3475   485.857
+Cycle 56631586: backup (Spendthrift backup scheme): 2.3475   285.526
+cycle 56631600: POWER OFF - is_active()
+Cycle 57782130: instructions towards forward progress=3800000
+Cycle 58557239: backup (Spendthrift backup scheme): 1.79457   1965.29
+Cycle 58557253: backup (Spendthrift backup scheme): 1.79457   1248.66
+Cycle 58557267: backup (Spendthrift backup scheme): 1.79457   1048.33
+Cycle 58557281: backup (Spendthrift backup scheme): 1.79457   847.996
+Cycle 58557295: backup (Spendthrift backup scheme): 1.79457   647.665
+Cycle 58557311: backup (Spendthrift backup scheme): 1.79457   446.749
+cycle 58557325: POWER OFF - is_active()
+Cycle 59267465: instructions towards forward progress=3900000
+Cycle 60384996: backup (Spendthrift backup scheme): 3.11489   2064.63
+Cycle 60385041: backup (Spendthrift backup scheme): 3.11489   1219.79
+Cycle 60385055: backup (Spendthrift backup scheme): 3.11489   1019.46
+Cycle 60385069: backup (Spendthrift backup scheme): 3.11489   819.125
+Cycle 60385083: backup (Spendthrift backup scheme): 3.11489   618.794
+Cycle 60385097: backup (Spendthrift backup scheme): 3.11489   418.463
+Cycle 60385111: backup (Spendthrift backup scheme): 3.11489   218.132
+cycle 60385125: POWER OFF - is_active()
+Cycle 60763824: instructions towards forward progress=4000000
+Cycle 62107297: backup (Spendthrift backup scheme): 5.0968   2235.01
+Cycle 62107342: backup (Spendthrift backup scheme): 5.0968   1429.89
+Cycle 62107356: backup (Spendthrift backup scheme): 5.0968   1229.56
+Cycle 62107371: backup (Spendthrift backup scheme): 5.0968   1028.93
+Cycle 62107385: backup (Spendthrift backup scheme): 5.0968   828.603
+Cycle 62107399: backup (Spendthrift backup scheme): 5.0968   628.272
+Cycle 62107413: backup (Spendthrift backup scheme): 5.0968   427.941
+Cycle 62107427: backup (Spendthrift backup scheme): 5.0968   227.611
+cycle 62107441: POWER OFF - is_active()
+Cycle 62266516: instructions towards forward progress=4100000
+Cycle 63769482: instructions towards forward progress=4200000
+Cycle 63995253: backup (Spendthrift backup scheme): 2.04784   1985.62
+Cycle 63995267: backup (Spendthrift backup scheme): 2.04784   1308.71
+Cycle 63995281: backup (Spendthrift backup scheme): 2.04784   1108.38
+Cycle 63995296: backup (Spendthrift backup scheme): 2.04784   907.754
+Cycle 63995310: backup (Spendthrift backup scheme): 2.04784   707.423
+Cycle 63995324: backup (Spendthrift backup scheme): 2.04784   507.092
+Cycle 63995338: backup (Spendthrift backup scheme): 2.04784   306.762
+cycle 63995352: POWER OFF - is_active()
+Cycle 65272636: instructions towards forward progress=4300000
+Cycle 65798040: backup (Spendthrift backup scheme): 0.824851   1885.41
+Cycle 65798054: backup (Spendthrift backup scheme): 0.824851   1129.06
+Cycle 65798068: backup (Spendthrift backup scheme): 0.824851   928.731
+Cycle 65798082: backup (Spendthrift backup scheme): 0.824851   728.4
+Cycle 65798096: backup (Spendthrift backup scheme): 0.824851   528.069
+Cycle 65798110: backup (Spendthrift backup scheme): 0.824851   327.738
+cycle 65798124: POWER OFF - is_active()
+Cycle 66783192: instructions towards forward progress=4400000
+Cycle 67634141: backup (Spendthrift backup scheme): 1.13499   1910.74
+Cycle 67634155: backup (Spendthrift backup scheme): 1.13499   1114.68
+Cycle 67634169: backup (Spendthrift backup scheme): 1.13499   914.351
+Cycle 67634183: backup (Spendthrift backup scheme): 1.13499   714.02
+Cycle 67634197: backup (Spendthrift backup scheme): 1.13499   513.689
+Cycle 67634211: backup (Spendthrift backup scheme): 1.13499   313.358
+cycle 67634225: POWER OFF - is_active()
+Cycle 68289528: instructions towards forward progress=4500000
+Cycle 69467119: backup (Spendthrift backup scheme): 3.29485   2087.33
+Cycle 69467133: backup (Spendthrift backup scheme): 3.29485   1330.98
+Cycle 69467147: backup (Spendthrift backup scheme): 3.29485   1130.65
+Cycle 69467161: backup (Spendthrift backup scheme): 3.29485   930.322
+Cycle 69467175: backup (Spendthrift backup scheme): 3.29485   729.991
+Cycle 69467189: backup (Spendthrift backup scheme): 3.29485   529.66
+Cycle 69467203: backup (Spendthrift backup scheme): 3.29485   329.329
+cycle 69467217: POWER OFF - is_active()
+Cycle 69799172: instructions towards forward progress=4600000
+Cycle 71294332: backup (Spendthrift backup scheme): 1.99805   1978.11
+Cycle 71294346: backup (Spendthrift backup scheme): 1.99805   1221.77
+Cycle 71294360: backup (Spendthrift backup scheme): 1.99805   1021.44
+Cycle 71294374: backup (Spendthrift backup scheme): 1.99805   821.104
+Cycle 71294419: backup (Spendthrift backup scheme): 1.99805   611.706
+Cycle 71294433: backup (Spendthrift backup scheme): 1.99805   411.375
+Cycle 71294447: backup (Spendthrift backup scheme): 1.99805   211.044
+cycle 71294461: POWER OFF - is_active()
+Cycle 71305345: instructions towards forward progress=4700000
+Cycle 72814825: instructions towards forward progress=4800000
+Cycle 73141301: backup (Spendthrift backup scheme): 0.875761   1888.97
+Cycle 73141315: backup (Spendthrift backup scheme): 0.875761   1132.62
+Cycle 73141329: backup (Spendthrift backup scheme): 0.875761   932.292
+Cycle 73141343: backup (Spendthrift backup scheme): 0.875761   731.961
+Cycle 73141357: backup (Spendthrift backup scheme): 0.875761   452.2
+Cycle 73141371: backup (Spendthrift backup scheme): 0.875761   251.869
+cycle 73141385: POWER OFF - is_active()
+Cycle 74320938: instructions towards forward progress=4900000
+Cycle 74992273: backup (Spendthrift backup scheme): 2.3351   2008.88
+Cycle 74992287: backup (Spendthrift backup scheme): 2.3351   1212.82
+Cycle 74992301: backup (Spendthrift backup scheme): 2.3351   1012.49
+Cycle 74992315: backup (Spendthrift backup scheme): 2.3351   812.16
+Cycle 74992329: backup (Spendthrift backup scheme): 2.3351   611.829
+Cycle 74992343: backup (Spendthrift backup scheme): 2.3351   411.498
+Cycle 74992357: backup (Spendthrift backup scheme): 2.3351   211.167
+cycle 74992371: POWER OFF - is_active()
+Cycle 75826408: instructions towards forward progress=5000000
+Cycle 76798765: backup (Spendthrift backup scheme): 3.33867   2091.72
+Cycle 76798780: backup (Spendthrift backup scheme): 3.33867   1295.37
+Cycle 76798794: backup (Spendthrift backup scheme): 3.33867   1095.04
+Cycle 76798808: backup (Spendthrift backup scheme): 3.33867   894.711
+Cycle 76798822: backup (Spendthrift backup scheme): 3.33867   694.38
+Cycle 76798836: backup (Spendthrift backup scheme): 3.33867   494.049
+Cycle 76798850: backup (Spendthrift backup scheme): 3.33867   293.718
+cycle 76798864: POWER OFF - is_active()
+Cycle 77344989: instructions towards forward progress=5100000
+Cycle 78713452: backup (Spendthrift backup scheme): 1.77153   1963.62
+Cycle 78713466: backup (Spendthrift backup scheme): 1.77153   1167.56
+Cycle 78713480: backup (Spendthrift backup scheme): 1.77153   967.234
+Cycle 78713494: backup (Spendthrift backup scheme): 1.77153   766.903
+Cycle 78713508: backup (Spendthrift backup scheme): 1.77153   566.572
+Cycle 78713522: backup (Spendthrift backup scheme): 1.77153   366.241
+cycle 78713536: POWER OFF - is_active()
+Cycle 78869298: instructions towards forward progress=5200000
+Cycle 80393236: instructions towards forward progress=5300000
+Cycle 80602464: backup (Spendthrift backup scheme): 3.7587   2126.02
+Cycle 80602509: backup (Spendthrift backup scheme): 3.7587   1360.61
+Cycle 80602523: backup (Spendthrift backup scheme): 3.7587   1160.28
+Cycle 80602537: backup (Spendthrift backup scheme): 3.7587   920.235
+Cycle 80602551: backup (Spendthrift backup scheme): 3.7587   719.904
+Cycle 80602565: backup (Spendthrift backup scheme): 3.7587   519.573
+Cycle 80602610: backup (Spendthrift backup scheme): 3.7587   310.175
+cycle 80602624: POWER OFF - is_active()
+Cycle 81917549: instructions towards forward progress=5400000
+Cycle 82501548: backup (Spendthrift backup scheme): 0.404358   1850.23
+Cycle 82501562: backup (Spendthrift backup scheme): 0.404358   1014.46
+Cycle 82501576: backup (Spendthrift backup scheme): 0.404358   814.125
+Cycle 82501590: backup (Spendthrift backup scheme): 0.404358   613.794
+Cycle 82501604: backup (Spendthrift backup scheme): 0.404358   413.463
+Cycle 82501618: backup (Spendthrift backup scheme): 0.404358   213.132
+cycle 82501632: POWER OFF - is_active()
+Cycle 83440780: instructions towards forward progress=5500000
+Cycle 84384627: backup (Spendthrift backup scheme): 2.83149   2049.33
+Cycle 84384641: backup (Spendthrift backup scheme): 2.83149   1253.27
+Cycle 84384655: backup (Spendthrift backup scheme): 2.83149   1052.94
+Cycle 84384669: backup (Spendthrift backup scheme): 2.83149   852.605
+Cycle 84384683: backup (Spendthrift backup scheme): 2.83149   652.274
+Cycle 84384697: backup (Spendthrift backup scheme): 2.83149   451.943
+Cycle 84384711: backup (Spendthrift backup scheme): 2.83149   251.612
+cycle 84384725: POWER OFF - is_active()
+Cycle 84964056: instructions towards forward progress=5600000
+Cycle 86300995: backup (Spendthrift backup scheme): 2.96279   2059.44
+Cycle 86301009: backup (Spendthrift backup scheme): 2.96279   1303.1
+Cycle 86301023: backup (Spendthrift backup scheme): 2.96279   1023.34
+Cycle 86301037: backup (Spendthrift backup scheme): 2.96279   823.006
+Cycle 86301051: backup (Spendthrift backup scheme): 2.96279   622.675
+Cycle 86301065: backup (Spendthrift backup scheme): 2.96279   422.344
+cycle 86301079: POWER OFF - is_active()
+Cycle 86487196: instructions towards forward progress=5700000
+Cycle 88011307: instructions towards forward progress=5800000
+Cycle 88210349: backup (Spendthrift backup scheme): 1.64844   1952.83
+Cycle 88210363: backup (Spendthrift backup scheme): 1.64844   1117.06
+Cycle 88210377: backup (Spendthrift backup scheme): 1.64844   916.725
+Cycle 88210391: backup (Spendthrift backup scheme): 1.64844   716.394
+Cycle 88210406: backup (Spendthrift backup scheme): 1.64844   515.771
+Cycle 88210420: backup (Spendthrift backup scheme): 1.64844   315.44
+cycle 88210434: POWER OFF - is_active()
+Cycle 89534879: instructions towards forward progress=5900000
+Cycle 90113634: backup (Spendthrift backup scheme): 3.52541   2106.31
+Cycle 90113649: backup (Spendthrift backup scheme): 3.52541   1389.39
+Cycle 90113663: backup (Spendthrift backup scheme): 3.52541   1189.05
+Cycle 90113677: backup (Spendthrift backup scheme): 3.52541   988.724
+Cycle 90113691: backup (Spendthrift backup scheme): 3.52541   788.393
+Cycle 90113705: backup (Spendthrift backup scheme): 3.52541   588.062
+Cycle 90113719: backup (Spendthrift backup scheme): 3.52541   387.731
+cycle 90113734: POWER OFF - is_active()
+Cycle 91059142: instructions towards forward progress=6000000
+Cycle 92005019: backup (Spendthrift backup scheme): 5.22135   2222.63
+Cycle 92005033: backup (Spendthrift backup scheme): 5.22135   1545.72
+Cycle 92005047: backup (Spendthrift backup scheme): 5.22135   1345.39
+Cycle 92005061: backup (Spendthrift backup scheme): 5.22135   1145.06
+Cycle 92005075: backup (Spendthrift backup scheme): 5.22135   944.728
+Cycle 92005091: backup (Spendthrift backup scheme): 5.22135   743.812
+Cycle 92005105: backup (Spendthrift backup scheme): 5.22135   543.481
+Cycle 92005119: backup (Spendthrift backup scheme): 5.22135   263.72
+cycle 92005133: POWER OFF - is_active()
+Cycle 92582316: instructions towards forward progress=6100000
+Cycle 93912971: backup (Spendthrift backup scheme): 0.489262   1857.32
+Cycle 93912986: backup (Spendthrift backup scheme): 0.489262   1140.4
+Cycle 93913004: backup (Spendthrift backup scheme): 0.489262   938.9
+Cycle 93913018: backup (Spendthrift backup scheme): 0.489262   738.569
+Cycle 93913032: backup (Spendthrift backup scheme): 0.489262   538.238
+Cycle 93913046: backup (Spendthrift backup scheme): 0.489262   337.907
+cycle 93913060: POWER OFF - is_active()
+Cycle 94105659: instructions towards forward progress=6200000
+Cycle 95629834: instructions towards forward progress=6300000
+Cycle 95829125: backup (Spendthrift backup scheme): 2.41598   2016.27
+Cycle 95829139: backup (Spendthrift backup scheme): 2.41598   1299.65
+Cycle 95829153: backup (Spendthrift backup scheme): 2.41598   1099.31
+Cycle 95829168: backup (Spendthrift backup scheme): 2.41598   898.691
+Cycle 95829182: backup (Spendthrift backup scheme): 2.41598   698.361
+Cycle 95829196: backup (Spendthrift backup scheme): 2.41598   498.03
+Cycle 95829210: backup (Spendthrift backup scheme): 2.41598   297.699
+cycle 95829224: POWER OFF - is_active()
+Cycle 97154001: instructions towards forward progress=6400000
+Cycle 97714589: backup (Spendthrift backup scheme): 4.51306   2186.53
+Cycle 97714603: backup (Spendthrift backup scheme): 4.51306   1430.18
+Cycle 97714617: backup (Spendthrift backup scheme): 4.51306   1229.85
+Cycle 97714632: backup (Spendthrift backup scheme): 4.51306   1029.23
+Cycle 97714646: backup (Spendthrift backup scheme): 4.51306   828.9
+Cycle 97714660: backup (Spendthrift backup scheme): 4.51306   628.569
+Cycle 97714674: backup (Spendthrift backup scheme): 4.51306   428.238
+cycle 97714688: POWER OFF - is_active()
+Cycle 98677150: instructions towards forward progress=6500000
+Cycle 99665855: backup (Spendthrift backup scheme): 4.38706   2168.88
+Cycle 99665869: backup (Spendthrift backup scheme): 4.38706   1412.53
+Cycle 99665883: backup (Spendthrift backup scheme): 4.38706   1212.2
+Cycle 99665928: backup (Spendthrift backup scheme): 4.38706   1002.8
+Cycle 99665942: backup (Spendthrift backup scheme): 4.38706   802.472
+Cycle 99665987: backup (Spendthrift backup scheme): 4.38706   593.073
+Cycle 99666001: backup (Spendthrift backup scheme): 4.38706   392.743
+cycle 99666015: POWER OFF - is_active()
+Cycle 100201110: instructions towards forward progress=6600000
+Cycle 101575873: backup (Spendthrift backup scheme): 1.10808   1909.38
+Cycle 101575887: backup (Spendthrift backup scheme): 1.10808   1113.32
+Cycle 101575901: backup (Spendthrift backup scheme): 1.10808   912.988
+Cycle 101575915: backup (Spendthrift backup scheme): 1.10808   712.657
+Cycle 101575930: backup (Spendthrift backup scheme): 1.10808   512.034
+Cycle 101575944: backup (Spendthrift backup scheme): 1.10808   311.703
+cycle 101575958: POWER OFF - is_active()
+Cycle 101725060: instructions towards forward progress=6700000
+Cycle 103248307: instructions towards forward progress=6800000
+Cycle 103532955: backup (Spendthrift backup scheme): 3.30758   2088.2
+Cycle 103532969: backup (Spendthrift backup scheme): 3.30758   1292.14
+Cycle 103532983: backup (Spendthrift backup scheme): 3.30758   1091.81
+Cycle 103532997: backup (Spendthrift backup scheme): 3.30758   891.481
+Cycle 103533011: backup (Spendthrift backup scheme): 3.30758   691.15
+Cycle 103533025: backup (Spendthrift backup scheme): 3.30758   490.819
+Cycle 103533039: backup (Spendthrift backup scheme): 3.30758   290.488
+cycle 103533084: POWER OFF - is_active()
+Cycle 104772737: instructions towards forward progress=6900000
+Cycle 105436569: backup (Spendthrift backup scheme): 0.938754   1895.48
+Cycle 105436583: backup (Spendthrift backup scheme): 0.938754   1059.71
+Cycle 105436597: backup (Spendthrift backup scheme): 0.938754   859.377
+Cycle 105436611: backup (Spendthrift backup scheme): 0.938754   659.046
+Cycle 105436625: backup (Spendthrift backup scheme): 0.938754   458.715
+Cycle 105436639: backup (Spendthrift backup scheme): 0.938754   258.384
+cycle 105436653: POWER OFF - is_active()
+Cycle 106296808: instructions towards forward progress=7000000
+Cycle 107333623: backup (Spendthrift backup scheme): 1.46929   1938.11
+Cycle 107333637: backup (Spendthrift backup scheme): 1.46929   1181.77
+Cycle 107333651: backup (Spendthrift backup scheme): 1.46929   981.436
+Cycle 107333665: backup (Spendthrift backup scheme): 1.46929   781.105
+Cycle 107333679: backup (Spendthrift backup scheme): 1.46929   580.774
+Cycle 107333693: backup (Spendthrift backup scheme): 1.46929   380.443
+cycle 107333707: POWER OFF - is_active()
+Cycle 107819544: instructions towards forward progress=7100000
+Cycle 109208246: backup (Spendthrift backup scheme): 1.70596   1957.49
+Cycle 109208260: backup (Spendthrift backup scheme): 1.70596   1161.43
+Cycle 109208275: backup (Spendthrift backup scheme): 1.70596   960.808
+Cycle 109208289: backup (Spendthrift backup scheme): 1.70596   760.477
+Cycle 109208303: backup (Spendthrift backup scheme): 1.70596   560.146
+Cycle 109208318: backup (Spendthrift backup scheme): 1.70596   359.522
+cycle 109208332: POWER OFF - is_active()
+Cycle 109343645: instructions towards forward progress=7200000
+Cycle 110868522: instructions towards forward progress=7300000
+Cycle 111093403: backup (Spendthrift backup scheme): 3.67782   2119.47
+Cycle 111093448: backup (Spendthrift backup scheme): 3.67782   1354.06
+Cycle 111093462: backup (Spendthrift backup scheme): 3.67782   1153.73
+Cycle 111093476: backup (Spendthrift backup scheme): 3.67782   953.399
+Cycle 111093490: backup (Spendthrift backup scheme): 3.67782   753.068
+Cycle 111093535: backup (Spendthrift backup scheme): 3.67782   543.67
+Cycle 111093549: backup (Spendthrift backup scheme): 3.67782   343.339
+cycle 111093563: POWER OFF - is_active()
+Cycle 112392966: instructions towards forward progress=7400000
+Cycle 112960458: backup (Spendthrift backup scheme): 3.6912   2119.7
+Cycle 112960472: backup (Spendthrift backup scheme): 3.6912   1323.64
+Cycle 112960486: backup (Spendthrift backup scheme): 3.6912   1123.31
+Cycle 112960500: backup (Spendthrift backup scheme): 3.6912   922.979
+Cycle 112960514: backup (Spendthrift backup scheme): 3.6912   722.649
+Cycle 112960528: backup (Spendthrift backup scheme): 3.6912   442.887
+Cycle 112960542: backup (Spendthrift backup scheme): 3.6912   242.556
+cycle 112960556: POWER OFF - is_active()
+Cycle 113916772: instructions towards forward progress=7500000
+Cycle 114872216: backup (Spendthrift backup scheme): 1.45962   1936.49
+Cycle 114872234: backup (Spendthrift backup scheme): 1.45962   1099.54
+Cycle 114872248: backup (Spendthrift backup scheme): 1.45962   899.212
+Cycle 114872262: backup (Spendthrift backup scheme): 1.45962   698.881
+Cycle 114872276: backup (Spendthrift backup scheme): 1.45962   498.55
+Cycle 114872290: backup (Spendthrift backup scheme): 1.45962   298.219
+cycle 114872304: POWER OFF - is_active()
+Cycle 115439531: instructions towards forward progress=7600000
+Cycle 116781916: backup (Spendthrift backup scheme): 0.619921   1869.35
+Cycle 116781930: backup (Spendthrift backup scheme): 0.619921   1113
+Cycle 116781948: backup (Spendthrift backup scheme): 0.619921   911.504
+Cycle 116781962: backup (Spendthrift backup scheme): 0.619921   711.173
+Cycle 116781977: backup (Spendthrift backup scheme): 0.619921   510.549
+Cycle 116781991: backup (Spendthrift backup scheme): 0.619921   310.218
+cycle 116782005: POWER OFF - is_active()
+Cycle 116962499: instructions towards forward progress=7700000
+Cycle 118486726: instructions towards forward progress=7800000
+Cycle 118684056: backup (Spendthrift backup scheme): 1.74914   1960.12
+Cycle 118684070: backup (Spendthrift backup scheme): 1.74914   1124.35
+Cycle 118684084: backup (Spendthrift backup scheme): 1.74914   924.017
+Cycle 118684098: backup (Spendthrift backup scheme): 1.74914   723.686
+Cycle 118684143: backup (Spendthrift backup scheme): 1.75123   514.288
+Cycle 118684188: backup (Spendthrift backup scheme): 1.75123   304.889
+cycle 118684202: POWER OFF - is_active()
+Cycle 120010642: instructions towards forward progress=7900000
+Cycle 120552188: backup (Spendthrift backup scheme): 0.549033   1787.93
+Cycle 120552202: backup (Spendthrift backup scheme): 0.549033   1071.3
+Cycle 120552220: backup (Spendthrift backup scheme): 0.549033   869.804
+Cycle 120552234: backup (Spendthrift backup scheme): 0.549033   669.473
+Cycle 120552248: backup (Spendthrift backup scheme): 0.549033   469.142
+Cycle 120552262: backup (Spendthrift backup scheme): 0.549033   268.811
+cycle 120552278: POWER OFF - is_active()
+Cycle 121534293: instructions towards forward progress=8000000
+Cycle 122495052: backup (Spendthrift backup scheme): 1.23101   1912.95
+Cycle 122495066: backup (Spendthrift backup scheme): 1.23101   1116.9
+Cycle 122495080: backup (Spendthrift backup scheme): 1.23101   916.565
+Cycle 122495094: backup (Spendthrift backup scheme): 1.23101   716.234
+Cycle 122495139: backup (Spendthrift backup scheme): 1.23101   506.836
+Cycle 122495153: backup (Spendthrift backup scheme): 1.23101   306.505
+cycle 122495167: POWER OFF - is_active()
+Cycle 123057169: instructions towards forward progress=8100000
+Cycle 124384137: backup (Spendthrift backup scheme): 2.38198   2012.58
+Cycle 124384151: backup (Spendthrift backup scheme): 2.38198   1256.24
+Cycle 124384165: backup (Spendthrift backup scheme): 2.38198   1055.91
+Cycle 124384179: backup (Spendthrift backup scheme): 2.38198   855.576
+Cycle 124384193: backup (Spendthrift backup scheme): 2.38198   655.245
+Cycle 124384207: backup (Spendthrift backup scheme): 2.38198   454.914
+Cycle 124384225: backup (Spendthrift backup scheme): 2.38198   253.413
+cycle 124384239: POWER OFF - is_active()
+Cycle 124580308: instructions towards forward progress=8200000
+Cycle 126104920: instructions towards forward progress=8300000
+Cycle 126280783: backup (Spendthrift backup scheme): 4.60699   2194.62
+Cycle 126280797: backup (Spendthrift backup scheme): 4.60699   1358.85
+Cycle 126280811: backup (Spendthrift backup scheme): 4.60699   1158.52
+Cycle 126280825: backup (Spendthrift backup scheme): 4.60699   958.184
+Cycle 126280839: backup (Spendthrift backup scheme): 4.60699   757.853
+Cycle 126280853: backup (Spendthrift backup scheme): 4.60699   557.522
+Cycle 126280867: backup (Spendthrift backup scheme): 4.60699   357.191
+cycle 126280881: POWER OFF - is_active()
+Cycle 127628350: instructions towards forward progress=8400000
+Cycle 128164442: backup (Spendthrift backup scheme): 0.378742   1845.23
+Cycle 128164456: backup (Spendthrift backup scheme): 0.378742   1049.18
+Cycle 128164470: backup (Spendthrift backup scheme): 0.378742   848.845
+Cycle 128164484: backup (Spendthrift backup scheme): 0.378742   648.514
+Cycle 128164499: backup (Spendthrift backup scheme): 0.378742   447.89
+Cycle 128164517: backup (Spendthrift backup scheme): 0.378742   246.389
+cycle 128164531: POWER OFF - is_active()
+Cycle 129154091: instructions towards forward progress=8500000
+Cycle 130077237: backup (Spendthrift backup scheme): 3.62047   2114.89
+Cycle 130077251: backup (Spendthrift backup scheme): 3.62047   1358.55
+Cycle 130077265: backup (Spendthrift backup scheme): 3.62047   1158.22
+Cycle 130077279: backup (Spendthrift backup scheme): 3.62047   957.885
+Cycle 130077293: backup (Spendthrift backup scheme): 3.62047   757.554
+Cycle 130077307: backup (Spendthrift backup scheme): 3.62047   557.223
+Cycle 130077321: backup (Spendthrift backup scheme): 3.62047   356.892
+cycle 130077339: POWER OFF - is_active()
+Cycle 130678099: instructions towards forward progress=8600000
+Cycle 131988029: backup (Spendthrift backup scheme): 0.253078   1838.9
+Cycle 131988043: backup (Spendthrift backup scheme): 0.253078   1003.12
+Cycle 131988057: backup (Spendthrift backup scheme): 0.253078   802.79
+Cycle 131988071: backup (Spendthrift backup scheme): 0.253078   602.459
+Cycle 131988085: backup (Spendthrift backup scheme): 0.253078   402.128
+Cycle 131988099: backup (Spendthrift backup scheme): 0.253078   201.797
+cycle 131988113: POWER OFF - is_active()
+Cycle 132201179: instructions towards forward progress=8700000
+Cycle 133724709: instructions towards forward progress=8800000
+Cycle 133894006: backup (Spendthrift backup scheme): 0.710464   1876.5
+Cycle 133894020: backup (Spendthrift backup scheme): 0.710464   1120.16
+Cycle 133894034: backup (Spendthrift backup scheme): 0.710464   919.827
+Cycle 133894048: backup (Spendthrift backup scheme): 0.710464   719.496
+Cycle 133894062: backup (Spendthrift backup scheme): 0.710464   519.165
+Cycle 133894076: backup (Spendthrift backup scheme): 0.710464   318.834
+cycle 133894090: POWER OFF - is_active()
+Cycle 135249976: instructions towards forward progress=8900000
+Cycle 135784663: backup (Spendthrift backup scheme): 0.788923   1847.33
+Cycle 135784677: backup (Spendthrift backup scheme): 0.788923   1170.42
+Cycle 135784691: backup (Spendthrift backup scheme): 0.788923   970.087
+Cycle 135784705: backup (Spendthrift backup scheme): 0.788923   769.756
+Cycle 135784719: backup (Spendthrift backup scheme): 0.788923   569.425
+Cycle 135784733: backup (Spendthrift backup scheme): 0.788923   369.094
+cycle 135784751: POWER OFF - is_active()
+Cycle 136773304: instructions towards forward progress=9000000
+Cycle 137713773: backup (Spendthrift backup scheme): 3.65366   2117.32
+Cycle 137713787: backup (Spendthrift backup scheme): 3.65366   1360.98
+Cycle 137713801: backup (Spendthrift backup scheme): 3.65366   1160.65
+Cycle 137713815: backup (Spendthrift backup scheme): 3.65366   960.315
+Cycle 137713829: backup (Spendthrift backup scheme): 3.65366   759.984
+Cycle 137713843: backup (Spendthrift backup scheme): 3.65366   559.653
+Cycle 137713888: backup (Spendthrift backup scheme): 3.65366   350.255
+cycle 137713902: POWER OFF - is_active()
+Cycle 138298293: instructions towards forward progress=9100000
+Cycle 139615554: backup (Spendthrift backup scheme): 0.812284   1882.89
+Cycle 139615568: backup (Spendthrift backup scheme): 0.812284   1047.11
+Cycle 139615582: backup (Spendthrift backup scheme): 0.812284   846.782
+Cycle 139615596: backup (Spendthrift backup scheme): 0.812284   646.451
+Cycle 139615610: backup (Spendthrift backup scheme): 0.812284   446.12
+Cycle 139615624: backup (Spendthrift backup scheme): 0.812284   245.789
+cycle 139615638: POWER OFF - is_active()
+Cycle 139820832: instructions towards forward progress=9200000
+Cycle 141344253: instructions towards forward progress=9300000
+Cycle 141498144: backup (Spendthrift backup scheme): 4.3463   2173.76
+Cycle 141498158: backup (Spendthrift backup scheme): 4.3463   1417.42
+Cycle 141498172: backup (Spendthrift backup scheme): 4.3463   1217.09
+Cycle 141498186: backup (Spendthrift backup scheme): 4.3463   1016.76
+Cycle 141498200: backup (Spendthrift backup scheme): 4.3463   816.425
+Cycle 141498214: backup (Spendthrift backup scheme): 4.3463   616.094
+Cycle 141498228: backup (Spendthrift backup scheme): 4.3463   415.763
+Cycle 141498242: backup (Spendthrift backup scheme): 4.3463   215.432
+cycle 141498256: POWER OFF - is_active()
+Cycle 142868635: instructions towards forward progress=9400000
+Cycle 143386355: backup (Spendthrift backup scheme): 3.6261   2108.65
+Cycle 143386369: backup (Spendthrift backup scheme): 3.6261   1272.88
+Cycle 143386383: backup (Spendthrift backup scheme): 3.6261   1072.55
+Cycle 143386428: backup (Spendthrift backup scheme): 3.6261   863.149
+Cycle 143386442: backup (Spendthrift backup scheme): 3.6261   662.818
+Cycle 143386487: backup (Spendthrift backup scheme): 3.6261   453.419
+Cycle 143386501: backup (Spendthrift backup scheme): 3.6261   253.089
+cycle 143386515: POWER OFF - is_active()
+Cycle 144393984: instructions towards forward progress=9500000
+Cycle 145285362: backup (Spendthrift backup scheme): 2.30191   2006.59
+Cycle 145285376: backup (Spendthrift backup scheme): 2.30191   1210.53
+Cycle 145285390: backup (Spendthrift backup scheme): 2.30191   1010.2
+Cycle 145285404: backup (Spendthrift backup scheme): 2.30191   809.865
+Cycle 145285418: backup (Spendthrift backup scheme): 2.30191   609.534
+Cycle 145285432: backup (Spendthrift backup scheme): 2.30191   409.204
+Cycle 145285446: backup (Spendthrift backup scheme): 2.30191   208.873
+cycle 145285460: POWER OFF - is_active()
+Cycle 145917691: instructions towards forward progress=9600000
+Cycle 147187771: backup (Spendthrift backup scheme): 0.852239   1886.45
+Cycle 147187787: backup (Spendthrift backup scheme): 0.852239   1169.23
+Cycle 147187801: backup (Spendthrift backup scheme): 0.852239   968.903
+Cycle 147187815: backup (Spendthrift backup scheme): 0.852239   689.141
+Cycle 147187829: backup (Spendthrift backup scheme): 0.852239   488.81
+Cycle 147187843: backup (Spendthrift backup scheme): 0.852239   288.479
+cycle 147187857: POWER OFF - is_active()
+Cycle 147441196: instructions towards forward progress=9700000
+Cycle 148964253: instructions towards forward progress=9800000
+Cycle 149136948: backup (Spendthrift backup scheme): 3.58631   2111.64
+Cycle 149136962: backup (Spendthrift backup scheme): 3.58631   1275.86
+Cycle 149136976: backup (Spendthrift backup scheme): 3.58631   1075.53
+Cycle 149136990: backup (Spendthrift backup scheme): 3.58631   875.203
+Cycle 149137004: backup (Spendthrift backup scheme): 3.58631   674.872
+Cycle 149137018: backup (Spendthrift backup scheme): 3.58631   474.541
+Cycle 149137032: backup (Spendthrift backup scheme): 3.58631   274.21
+cycle 149137046: POWER OFF - is_active()
+Cycle 150487774: instructions towards forward progress=9900000
+Cycle 151034663: backup (Spendthrift backup scheme): 1.93586   1975.77
+Cycle 151034681: backup (Spendthrift backup scheme): 1.93586   1218.26
+Cycle 151034695: backup (Spendthrift backup scheme): 1.93586   1017.93
+Cycle 151034709: backup (Spendthrift backup scheme): 1.93586   817.594
+Cycle 151034723: backup (Spendthrift backup scheme): 1.93586   617.263
+Cycle 151034737: backup (Spendthrift backup scheme): 1.93586   416.932
+Cycle 151034751: backup (Spendthrift backup scheme): 1.93586   216.601
+cycle 151034765: POWER OFF - is_active()
+done
+CPU instructions executed: 10000080
+CPU instructions executed towards forward progress: 10000000
+Number of true positives: 12860
+Number of false positives: 170
+Number of times renamed: 9015
+Number of times reclaimed: 501
+CPU time (cycles): 152012390
+Total time (ns): 4485382502042125
+Energy harvested (J): 0.0227736
+Energy remaining (J): 0.000137977
